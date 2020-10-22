@@ -9,7 +9,7 @@ nt pandemii wirusa COVID19.
 
 * MZ_units_beds.csv 
   -- łóżka/respiratory/osoby na kwarantannie/pod nadzorem/
-  z komunikatów MinZdrowia publikowanych codziennie na MZ_GOV_PL
+  z komunikatów MinZdrowia publikowanych codziennie na twitter/@MZ_GOV_PL
 
 * testy_wg_wojewodztw_true.csv
   -- raporty o liczbie testów zaczęły być wysyłane od 11 maja 
