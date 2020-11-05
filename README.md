@@ -16,6 +16,9 @@ nt pandemii wirusa COVID19.
   z komunikatów MinZdrowia https://www.gov.pl/web/zdrowie/liczba-wykonanych-testow
   (oraz twitter/@MZ_GOV_PL)
 
+* pomorskie_zgony_i.csv/pomorskie_zgony_d.csv
+  Zgony w woj. pomorskim na podstawie komunikatów WSSE (wiek zmarłego/płeć)
+
 Uwaga: raporty o liczbie testów zaczęły być wysyłane od 11 maja 
 2020. Do 3 sierpnia raportowane były zawyżone dane dla województwa świętokrzyskiego.  10 sierpnia MinZ
 wydało komunikat o błędzie i skorygował liczbę testów dla woj. świętokrzystkiego o ponad 230 tys.
