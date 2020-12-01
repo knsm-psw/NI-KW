@@ -1,0 +1,12 @@
+Żródła danych
+PL
+MZ_GOV_PL (codzienne komunikaty)
+https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+
+CZ
+https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-vyleceni-umrti-testy.csv -o cz_deaths.csv
+
+UK
+https://coronavirus.data.gov.uk/details/testing
+https://coronavirus.data.gov.uk/details/cases
+https://coronavirus.data.gov.uk/details/deaths
