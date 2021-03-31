@@ -399,6 +399,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AF;Afghanistan;36;2;56290;2469
 2021-03-28;AF;Afghanistan;4;1;56294;2470
 2021-03-29;AF;Afghanistan;28;2;56322;2472
+2021-03-30;AF;Afghanistan;62;4;56384;2476
 2020-02-13;;Africa;0;0;0;0
 2020-02-14;;Africa;1;0;1;0
 2020-02-15;;Africa;0;0;1;0
@@ -810,6 +811,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;Africa;9475;193;4176092;111730
 2021-03-28;;Africa;9000;183;4185092;111913
 2021-03-29;;Africa;9707;312;4194799;112225
+2021-03-30;;Africa;9762;277;4204561;112502
 2020-02-25;AL;Albania;0;0;0;0
 2020-02-26;AL;Albania;0;0;0;0
 2020-02-27;AL;Albania;0;0;0;0
@@ -1209,6 +1211,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AL;Albania;425;12;123641;2204
 2021-03-28;AL;Albania;493;6;124134;2210
 2021-03-29;AL;Albania;285;6;124419;2216
+2021-03-30;AL;Albania;304;11;124723;2227
 2020-02-25;DZ;Algeria;1;0;1;0
 2020-02-26;DZ;Algeria;0;0;1;0
 2020-02-27;DZ;Algeria;0;0;1;0
@@ -1608,6 +1611,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;DZ;Algeria;93;3;116750;3077
 2021-03-28;DZ;Algeria;86;3;116836;3080
 2021-03-29;DZ;Algeria;110;4;116946;3084
+2021-03-30;DZ;Algeria;115;5;117061;3089
 2020-03-02;AD;Andorra;1;0;1;0
 2020-03-03;AD;Andorra;0;0;1;0
 2020-03-04;AD;Andorra;0;0;1;0
@@ -2001,6 +2005,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AD;Andorra;77;1;11809;115
 2021-03-28;AD;Andorra;41;0;11850;115
 2021-03-29;AD;Andorra;38;0;11888;115
+2021-03-30;AD;Andorra;56;0;11944;115
 2020-03-20;AO;Angola;1;0;1;0
 2020-03-21;AO;Angola;1;0;2;0
 2020-03-22;AO;Angola;0;0;2;0
@@ -2376,6 +2381,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AO;Angola;70;1;22031;533
 2021-03-28;AO;Angola;32;0;22063;533
 2021-03-29;AO;Angola;69;1;22132;534
+2021-03-30;AO;Angola;50;2;22182;536
 2021-02-04;AI;Anguilla;0;0;0;0
 2021-02-05;AI;Anguilla;0;0;0;0
 2021-02-06;AI;Anguilla;0;0;0;0
@@ -2802,6 +2808,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AG;Antigua and Barbuda;0;0;1122;28
 2021-03-28;AG;Antigua and Barbuda;6;0;1128;28
 2021-03-29;AG;Antigua and Barbuda;8;0;1136;28
+2021-03-30;AG;Antigua and Barbuda;0;0;1136;28
 2020-01-01;AR;Argentina;0;0;0;0
 2020-01-02;AR;Argentina;0;0;0;0
 2020-01-03;AR;Argentina;0;0;0;0
@@ -3256,6 +3263,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AR;Argentina;10338;133;2301389;55368
 2021-03-28;AR;Argentina;7208;81;2308597;55449
 2021-03-29;AR;Argentina;14014;162;2322611;55611
+2021-03-30;AR;Argentina;10154;125;2332765;55736
 2020-03-01;AM;Armenia;1;0;1;0
 2020-03-02;AM;Armenia;0;0;1;0
 2020-03-03;AM;Armenia;0;0;1;0
@@ -3650,6 +3658,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AM;Armenia;1094;16;189540;3450
 2021-03-28;AM;Armenia;777;14;190317;3464
 2021-03-29;AM;Armenia;424;12;190741;3476
+2021-03-30;AM;Armenia;750;21;191491;3497
 2020-01-22;;Asia;0;0;556;17
 2020-01-23;;Asia;98;1;654;18
 2020-01-24;;Asia;283;8;937;26
@@ -4083,6 +4092,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;Asia;152603;1172;27846738;423160
 2021-03-28;;Asia;162999;1058;28009737;424218
 2021-03-29;;Asia;152824;1148;28162561;425366
+2021-03-30;;Asia;161222;1262;28323783;426628
 2020-01-26;AU;Australia;4;0;4;0
 2020-01-27;AU;Australia;1;0;5;0
 2020-01-28;AU;Australia;0;0;5;0
@@ -4512,6 +4522,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AU;Australia;7;0;29259;909
 2021-03-28;AU;Australia;17;0;29276;909
 2021-03-29;AU;Australia;20;0;29296;909
+2021-03-30;AU;Australia;8;0;29304;909
 2020-02-25;AT;Austria;2;0;2;0
 2020-02-26;AT;Austria;0;0;2;0
 2020-02-27;AT;Austria;1;0;3;0
@@ -4911,6 +4922,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AT;Austria;3498;31;533786;9231
 2021-03-28;AT;Austria;2679;25;536465;9256
 2021-03-29;AT;Austria;3076;19;539541;9275
+2021-03-30;AT;Austria;3001;33;542542;9308
 2020-03-01;AZ;Azerbaijan;3;0;3;0
 2020-03-02;AZ;Azerbaijan;0;0;3;0
 2020-03-03;AZ;Azerbaijan;0;0;3;0
@@ -5305,6 +5317,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AZ;Azerbaijan;1690;19;254370;3464
 2021-03-28;AZ;Azerbaijan;1831;27;256201;3491
 2021-03-29;AZ;Azerbaijan;1129;22;257330;3513
+2021-03-30;AZ;Azerbaijan;2146;25;259476;3538
 2020-03-16;BS;Bahamas;1;0;1;0
 2020-03-17;BS;Bahamas;0;0;1;0
 2020-03-18;BS;Bahamas;0;0;1;0
@@ -5684,6 +5697,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BS;Bahamas;0;0;8935;188
 2021-03-28;BS;Bahamas;0;0;8935;188
 2021-03-29;BS;Bahamas;65;0;9000;188
+2021-03-30;BS;Bahamas;119;0;9119;188
 2020-02-24;BH;Bahrain;1;0;1;0
 2020-02-25;BH;Bahrain;22;0;23;0
 2020-02-26;BH;Bahrain;10;0;33;0
@@ -6084,6 +6098,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BH;Bahrain;865;1;140818;513
 2021-03-28;BH;Bahrain;1027;0;141845;513
 2021-03-29;BH;Bahrain;824;2;142669;515
+2021-03-30;BH;Bahrain;905;2;143574;517
 2020-03-03;BD;Bangladesh;0;0;0;0
 2020-03-04;BD;Bangladesh;0;0;0;0
 2020-03-05;BD;Bangladesh;0;0;0;0
@@ -6476,6 +6491,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BD;Bangladesh;3674;39;591806;8869
 2021-03-28;BD;Bangladesh;3908;35;595714;8904
 2021-03-29;BD;Bangladesh;5181;45;600895;8949
+2021-03-30;BD;Bangladesh;5042;45;605937;8994
 2020-03-17;BB;Barbados;2;0;2;0
 2020-03-18;BB;Barbados;0;0;2;0
 2020-03-19;BB;Barbados;3;0;5;0
@@ -6854,6 +6870,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BB;Barbados;6;0;3609;41
 2021-03-28;BB;Barbados;20;0;3629;41
 2021-03-29;BB;Barbados;5;0;3634;41
+2021-03-30;BB;Barbados;8;1;3642;42
 2020-02-28;BY;Belarus;1;0;1;0
 2020-02-29;BY;Belarus;0;0;1;0
 2020-03-01;BY;Belarus;0;0;1;0
@@ -7250,6 +7267,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BY;Belarus;1213;9;317631;2211
 2021-03-28;BY;Belarus;1050;8;318681;2219
 2021-03-29;BY;Belarus;918;8;319599;2227
+2021-03-30;BY;Belarus;995;10;320594;2237
 2020-02-04;BE;Belgium;1;0;1;0
 2020-02-05;BE;Belgium;0;0;1;0
 2020-02-06;BE;Belgium;0;0;1;0
@@ -7670,6 +7688,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BE;Belgium;5332;18;866063;22870
 2021-03-28;BE;Belgium;4694;27;870757;22897
 2021-03-29;BE;Belgium;2179;24;872936;22921
+2021-03-30;BE;Belgium;3906;45;876842;22966
 2020-03-23;BZ;Belize;1;0;1;0
 2020-03-24;BZ;Belize;0;0;1;0
 2020-03-25;BZ;Belize;1;0;2;0
@@ -8042,6 +8061,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BZ;Belize;0;0;12415;317
 2021-03-28;BZ;Belize;0;0;12415;317
 2021-03-29;BZ;Belize;0;0;12415;317
+2021-03-30;BZ;Belize;0;0;12415;317
 2020-03-16;BJ;Benin;1;0;1;0
 2020-03-17;BJ;Benin;0;0;1;0
 2020-03-18;BJ;Benin;1;0;2;0
@@ -8421,6 +8441,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BJ;Benin;0;0;7100;90
 2021-03-28;BJ;Benin;0;0;7100;90
 2021-03-29;BJ;Benin;0;0;7100;90
+2021-03-30;BJ;Benin;0;0;7100;90
 2021-01-10;BM;Bermuda;0;0;0;0
 2021-01-11;BM;Bermuda;0;0;0;0
 2021-01-12;BM;Bermuda;0;0;0;0
@@ -8493,6 +8514,11 @@ date;id;country;newc;newd;totalc;totald
 2021-03-20;BM;Bermuda;0;0;0;0
 2021-03-21;BM;Bermuda;0;0;0;0
 2021-03-22;BM;Bermuda;0;0;0;0
+2021-03-23;BM;Bermuda;0;0;0;0
+2021-03-24;BM;Bermuda;0;0;0;0
+2021-03-25;BM;Bermuda;0;0;0;0
+2021-03-26;BM;Bermuda;0;0;0;0
+2021-03-27;BM;Bermuda;0;0;0;0
 2020-03-06;BT;Bhutan;1;0;1;0
 2020-03-07;BT;Bhutan;0;0;1;0
 2020-03-08;BT;Bhutan;0;0;1;0
@@ -8882,6 +8908,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BT;Bhutan;1;0;871;1
 2021-03-28;BT;Bhutan;1;0;872;1
 2021-03-29;BT;Bhutan;0;0;872;1
+2021-03-30;BT;Bhutan;0;0;872;1
 2020-03-11;BO;Bolivia;2;0;2;0
 2020-03-12;BO;Bolivia;0;0;2;0
 2020-03-13;BO;Bolivia;1;0;3;0
@@ -9266,6 +9293,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BO;Bolivia;591;22;269302;12165
 2021-03-28;BO;Bolivia;326;21;269628;12186
 2021-03-29;BO;Bolivia;719;25;270347;12211
+2021-03-30;BO;Bolivia;1072;28;271419;12239
 2020-03-05;BA;Bosnia and Herzegovina;2;0;2;0
 2020-03-06;BA;Bosnia and Herzegovina;0;0;2;0
 2020-03-07;BA;Bosnia and Herzegovina;1;0;3;0
@@ -9656,6 +9684,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BA;Bosnia and Herzegovina;0;0;162032;6220
 2021-03-28;BA;Bosnia and Herzegovina;0;0;162032;6220
 2021-03-29;BA;Bosnia and Herzegovina;3755;207;165787;6427
+2021-03-30;BA;Bosnia and Herzegovina;1867;92;167654;6519
 2020-03-30;BW;Botswana;3;0;3;0
 2020-03-31;BW;Botswana;1;1;4;1
 2020-04-01;BW;Botswana;0;0;4;1
@@ -10021,6 +10050,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BW;Botswana;0;0;38466;506
 2021-03-28;BW;Botswana;0;0;38466;506
 2021-03-29;BW;Botswana;1382;62;39848;568
+2021-03-30;BW;Botswana;0;0;39848;568
 2020-02-26;BR;Brazil;1;0;1;0
 2020-02-27;BR;Brazil;0;0;1;0
 2020-02-28;BR;Brazil;0;0;1;0
@@ -10419,6 +10449,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BR;Brazil;85948;3438;12490362;310550
 2021-03-28;BR;Brazil;44326;1656;12534688;312206
 2021-03-29;BR;Brazil;38927;1660;12573615;313866
+2021-03-30;BR;Brazil;84494;3780;12658109;317646
 2020-03-09;BN;Brunei;1;0;1;0
 2020-03-10;BN;Brunei;0;0;1;0
 2020-03-11;BN;Brunei;10;0;11;0
@@ -10805,6 +10836,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BN;Brunei;0;0;206;3
 2021-03-28;BN;Brunei;1;0;207;3
 2021-03-29;BN;Brunei;0;0;207;3
+2021-03-30;BN;Brunei;3;0;210;3
 2020-03-08;BG;Bulgaria;4;0;4;0
 2020-03-09;BG;Bulgaria;0;0;4;0
 2020-03-10;BG;Bulgaria;0;0;4;0
@@ -11192,6 +11224,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BG;Bulgaria;2537;49;327770;12650
 2021-03-28;BG;Bulgaria;983;60;328753;12710
 2021-03-29;BG;Bulgaria;4497;203;333250;12913
+2021-03-30;BG;Bulgaria;5176;155;338426;13068
 2020-03-10;BF;Burkina Faso;1;0;1;0
 2020-03-11;BF;Burkina Faso;1;0;2;0
 2020-03-12;BF;Burkina Faso;0;0;2;0
@@ -11577,6 +11610,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BF;Burkina Faso;23;0;12673;145
 2021-03-28;BF;Burkina Faso;19;0;12692;145
 2021-03-29;BF;Burkina Faso;10;0;12702;145
+2021-03-30;BF;Burkina Faso;15;1;12717;146
 2020-03-31;BI;Burundi;2;0;2;0
 2020-04-01;BI;Burundi;0;0;2;0
 2020-04-02;BI;Burundi;1;0;3;0
@@ -11941,6 +11975,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;BI;Burundi;0;0;2657;6
 2021-03-28;BI;Burundi;100;0;2757;6
 2021-03-29;BI;Burundi;0;0;2757;6
+2021-03-30;BI;Burundi;0;0;2757;6
 2020-01-27;KH;Cambodia;1;0;1;0
 2020-01-28;KH;Cambodia;0;0;1;0
 2020-01-29;KH;Cambodia;0;0;1;0
@@ -12369,6 +12404,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KH;Cambodia;179;0;2147;8
 2021-03-28;KH;Cambodia;86;2;2233;10
 2021-03-29;KH;Cambodia;145;1;2378;11
+2021-03-30;KH;Cambodia;62;0;2440;11
 2020-03-06;CM;Cameroon;1;0;1;0
 2020-03-07;CM;Cameroon;0;0;1;0
 2020-03-08;CM;Cameroon;1;0;2;0
@@ -12758,6 +12794,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CM;Cameroon;0;0;47669;721
 2021-03-28;CM;Cameroon;0;0;47669;721
 2021-03-29;CM;Cameroon;0;0;47669;721
+2021-03-30;CM;Cameroon;0;0;47669;721
 2020-01-26;CA;Canada;1;0;1;0
 2020-01-27;CA;Canada;0;0;1;0
 2020-01-28;CA;Canada;1;0;2;0
@@ -13187,6 +13224,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CA;Canada;4315;21;965882;22830
 2021-03-28;CA;Canada;4183;25;970065;22855
 2021-03-29;CA;Canada;6262;16;976327;22871
+2021-03-30;CA;Canada;3753;21;980080;22892
 2020-03-20;CV;Cape Verde;1;0;1;0
 2020-03-21;CV;Cape Verde;2;0;3;0
 2020-03-22;CV;Cape Verde;0;0;3;0
@@ -13562,6 +13600,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CV;Cape Verde;107;0;17018;165
 2021-03-28;CV;Cape Verde;107;0;17125;165
 2021-03-29;CV;Cape Verde;65;0;17190;165
+2021-03-30;CV;Cape Verde;89;3;17279;168
 2020-12-26;KY;Cayman Islands;0;0;0;0
 2020-12-27;KY;Cayman Islands;0;0;0;0
 2020-12-28;KY;Cayman Islands;0;0;0;0
@@ -14036,6 +14075,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CF;Central African Republic;0;0;5088;64
 2021-03-28;CF;Central African Republic;0;0;5088;64
 2021-03-29;CF;Central African Republic;0;0;5088;64
+2021-03-30;CF;Central African Republic;73;3;5161;67
 2020-03-19;TD;Chad;1;0;1;0
 2020-03-20;TD;Chad;0;0;1;0
 2020-03-21;TD;Chad;0;0;1;0
@@ -14412,6 +14452,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TD;Chad;21;2;4501;160
 2021-03-28;TD;Chad;5;2;4506;162
 2021-03-29;TD;Chad;4;2;4510;164
+2021-03-30;TD;Chad;13;0;4523;164
 2020-02-23;CL;Chile;2;0;2;0
 2020-02-24;CL;Chile;0;0;2;0
 2020-02-25;CL;Chile;0;0;2;0
@@ -14813,6 +14854,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CL;Chile;7592;66;969913;22653
 2021-03-28;CL;Chile;7330;101;977243;22754
 2021-03-29;CL;Chile;7241;316;984484;23070
+2021-03-30;CL;Chile;5008;37;989492;23107
 2020-01-22;CN;China;0;0;548;17
 2020-01-23;CN;China;95;1;643;18
 2020-01-24;CN;China;277;8;920;26
@@ -15246,6 +15288,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CN;China;17;0;101663;4841
 2021-03-28;CN;China;12;0;101675;4841
 2021-03-29;CN;China;17;0;101692;4841
+2021-03-30;CN;China;18;0;101710;4841
 2020-03-06;CO;Colombia;1;0;1;0
 2020-03-07;CO;Colombia;0;0;1;0
 2020-03-08;CO;Colombia;0;0;1;0
@@ -15635,6 +15678,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CO;Colombia;8254;145;2375591;62790
 2021-03-28;CO;Colombia;7139;165;2382730;62955
 2021-03-29;CO;Colombia;7049;124;2389779;63079
+2021-03-30;CO;Colombia;7952;176;2397731;63255
 2020-04-30;KM;Comoros;1;0;1;0
 2020-05-01;KM;Comoros;0;0;1;0
 2020-05-02;KM;Comoros;2;0;3;0
@@ -15969,6 +16013,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KM;Comoros;1;0;3690;146
 2021-03-28;KM;Comoros;0;0;3690;146
 2021-03-29;KM;Comoros;6;0;3696;146
+2021-03-30;KM;Comoros;0;0;3696;146
 2020-03-15;CG;Congo;1;0;1;0
 2020-03-16;CG;Congo;0;0;1;0
 2020-03-17;CG;Congo;0;0;1;0
@@ -16349,6 +16394,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CG;Congo;0;0;9681;135
 2021-03-28;CG;Congo;0;0;9681;135
 2021-03-29;CG;Congo;0;0;9681;135
+2021-03-30;CG;Congo;0;0;9681;135
 2020-03-06;CR;Costa Rica;1;0;1;0
 2020-03-07;CR;Costa Rica;0;0;1;0
 2020-03-08;CR;Costa Rica;4;0;5;0
@@ -16738,6 +16784,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CR;Costa Rica;0;0;215178;2931
 2021-03-28;CR;Costa Rica;0;0;215178;2931
 2021-03-29;CR;Costa Rica;0;0;215178;2931
+2021-03-30;CR;Costa Rica;1586;26;216764;2957
 2020-03-11;CI;Cote d'Ivoire;1;0;1;0
 2020-03-12;CI;Cote d'Ivoire;0;0;1;0
 2020-03-13;CI;Cote d'Ivoire;0;0;1;0
@@ -17122,6 +17169,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CI;Cote d'Ivoire;393;3;42861;232
 2021-03-28;CI;Cote d'Ivoire;319;5;43180;237
 2021-03-29;CI;Cote d'Ivoire;242;2;43422;239
+2021-03-30;CI;Cote d'Ivoire;120;3;43542;242
 2020-02-25;HR;Croatia;1;0;1;0
 2020-02-26;HR;Croatia;2;0;3;0
 2020-02-27;HR;Croatia;0;0;3;0
@@ -17521,6 +17569,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;HR;Croatia;1790;18;265901;5872
 2021-03-28;HR;Croatia;1321;21;267222;5893
 2021-03-29;HR;Croatia;300;18;267522;5911
+2021-03-30;HR;Croatia;1487;17;269009;5928
 2020-03-12;CU;Cuba;3;0;3;0
 2020-03-13;CU;Cuba;1;0;4;0
 2020-03-14;CU;Cuba;0;0;4;0
@@ -17904,6 +17953,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CU;Cuba;950;1;71584;414
 2021-03-28;CU;Cuba;919;1;72503;415
 2021-03-29;CU;Cuba;701;2;73204;417
+2021-03-30;CU;Cuba;1008;4;74212;421
 2020-03-09;CY;Cyprus;2;0;2;0
 2020-03-10;CY;Cyprus;1;0;3;0
 2020-03-11;CY;Cyprus;3;0;6;0
@@ -18290,6 +18340,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CY;Cyprus;334;2;44305;250
 2021-03-28;CY;Cyprus;326;2;44631;252
 2021-03-29;CY;Cyprus;360;2;44991;254
+2021-03-30;CY;Cyprus;439;2;45430;256
 2020-02-02;CZ;Czechia;0;0;0;0
 2020-02-09;CZ;Czechia;0;0;0;0
 2020-02-15;CZ;Czechia;0;0;0;0
@@ -18688,6 +18739,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CZ;Czechia;7714;139;1511021;25778
 2021-03-28;CZ;Czechia;4008;96;1515029;25874
 2021-03-29;CZ;Czechia;1743;162;1516772;26036
+2021-03-30;CZ;Czechia;6896;186;1523668;26222
 2020-03-11;CD;Democratic Republic of Congo;1;0;1;0
 2020-03-12;CD;Democratic Republic of Congo;0;0;1;0
 2020-03-13;CD;Democratic Republic of Congo;1;0;2;0
@@ -19072,6 +19124,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CD;Democratic Republic of Congo;93;8;27887;734
 2021-03-28;CD;Democratic Republic of Congo;43;5;27930;739
 2021-03-29;CD;Democratic Republic of Congo;82;0;28012;739
+2021-03-30;CD;Democratic Republic of Congo;64;4;28076;743
 2020-02-02;DK;Denmark;0;0;0;0
 2020-02-03;DK;Denmark;0;0;0;0
 2020-02-04;DK;Denmark;0;0;0;0
@@ -19488,12 +19541,13 @@ date;id;country;newc;newd;totalc;totald
 2021-03-21;DK;Denmark;657;1;226197;2401
 2021-03-22;DK;Denmark;1272;2;227469;2403
 2021-03-23;DK;Denmark;254;1;227723;2404
-2021-03-24;DK;Denmark;863;2;228586;2406
-2021-03-25;DK;Denmark;0;0;228586;2406
-2021-03-26;DK;Denmark;-1261;6;227325;2412
+2021-03-24;DK;Denmark;-2001;1;225722;2405
+2021-03-25;DK;Denmark;814;5;226536;2410
+2021-03-26;DK;Denmark;789;2;227325;2412
 2021-03-27;DK;Denmark;416;2;227741;2414
 2021-03-28;DK;Denmark;964;1;228705;2415
 2021-03-29;DK;Denmark;679;1;229384;2416
+2021-03-30;DK;Denmark;1210;2;230594;2418
 2020-03-18;DJ;Djibouti;1;0;1;0
 2020-03-19;DJ;Djibouti;0;0;1;0
 2020-03-20;DJ;Djibouti;0;0;1;0
@@ -19871,6 +19925,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;DJ;Djibouti;80;0;7249;66
 2021-03-28;DJ;Djibouti;112;1;7361;67
 2021-03-29;DJ;Djibouti;249;1;7610;68
+2021-03-30;DJ;Djibouti;180;1;7790;69
 2020-03-22;DM;Dominica;1;0;1;0
 2020-03-23;DM;Dominica;1;0;2;0
 2020-03-24;DM;Dominica;0;0;2;0
@@ -20244,6 +20299,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;DM;Dominica;0;0;161;0
 2021-03-28;DM;Dominica;0;0;161;0
 2021-03-29;DM;Dominica;0;0;161;0
+2021-03-30;DM;Dominica;0;0;161;0
 2020-03-01;DO;Dominican Republic;1;0;1;0
 2020-03-02;DO;Dominican Republic;0;0;1;0
 2020-03-03;DO;Dominican Republic;0;0;1;0
@@ -20638,6 +20694,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;DO;Dominican Republic;250;4;251582;3302
 2021-03-28;DO;Dominican Republic;401;2;251983;3304
 2021-03-29;DO;Dominican Republic;199;3;252182;3307
+2021-03-30;DO;Dominican Republic;202;10;252384;3317
 2020-03-01;EC;Ecuador;6;0;6;0
 2020-03-02;EC;Ecuador;0;0;6;0
 2020-03-03;EC;Ecuador;1;0;7;0
@@ -21032,6 +21089,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;EC;Ecuador;1248;47;322699;16679
 2021-03-28;EC;Ecuador;1783;59;324482;16738
 2021-03-29;EC;Ecuador;642;8;325124;16746
+2021-03-30;EC;Ecuador;2201;34;327325;16780
 2020-02-14;EG;Egypt;1;0;1;0
 2020-02-15;EG;Egypt;0;0;1;0
 2020-02-16;EG;Egypt;0;0;1;0
@@ -21442,6 +21500,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;EG;Egypt;683;41;199364;11845
 2021-03-28;EG;Egypt;686;37;200050;11882
 2021-03-29;EG;Egypt;689;32;200739;11914
+2021-03-30;EG;Egypt;693;42;201432;11956
 2020-03-19;SV;El Salvador;1;0;1;0
 2020-03-20;SV;El Salvador;0;0;1;0
 2020-03-21;SV;El Salvador;2;0;3;0
@@ -21818,6 +21877,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SV;El Salvador;0;2;63766;1998
 2021-03-28;SV;El Salvador;0;2;63766;2000
 2021-03-29;SV;El Salvador;665;3;64431;2003
+2021-03-30;SV;El Salvador;0;3;64431;2006
 2020-03-15;GQ;Equatorial Guinea;1;0;1;0
 2020-03-16;GQ;Equatorial Guinea;0;0;1;0
 2020-03-17;GQ;Equatorial Guinea;0;0;1;0
@@ -22198,6 +22258,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GQ;Equatorial Guinea;51;0;6902;102
 2021-03-28;GQ;Equatorial Guinea;0;0;6902;102
 2021-03-29;GQ;Equatorial Guinea;12;0;6914;102
+2021-03-30;GQ;Equatorial Guinea;0;0;6914;102
 2020-03-21;ER;Eritrea;1;0;1;0
 2020-03-22;ER;Eritrea;0;0;1;0
 2020-03-23;ER;Eritrea;0;0;1;0
@@ -22572,6 +22633,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ER;Eritrea;0;0;3208;9
 2021-03-28;ER;Eritrea;0;0;3208;9
 2021-03-29;ER;Eritrea;43;0;3251;9
+2021-03-30;ER;Eritrea;28;0;3279;9
 2020-02-12;EE;Estonia;0;0;0;0
 2020-02-26;EE;Estonia;0;0;0;0
 2020-02-27;EE;Estonia;1;0;1;0
@@ -22971,6 +23033,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;EE;Estonia;1151;13;102738;860
 2021-03-28;EE;Estonia;892;8;103630;868
 2021-03-29;EE;Estonia;584;11;104214;879
+2021-03-30;EE;Estonia;1202;17;105416;896
 2020-03-14;SZ;Eswatini;1;0;1;0
 2020-03-15;SZ;Eswatini;0;0;1;0
 2020-03-16;SZ;Eswatini;0;0;1;0
@@ -23352,6 +23415,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SZ;Eswatini;6;0;17318;666
 2021-03-28;SZ;Eswatini;3;1;17321;667
 2021-03-29;SZ;Eswatini;5;0;17326;667
+2021-03-30;SZ;Eswatini;7;0;17333;667
 2020-03-13;ET;Ethiopia;1;0;1;0
 2020-03-14;ET;Ethiopia;0;0;1;0
 2020-03-15;ET;Ethiopia;0;0;1;0
@@ -23734,6 +23798,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ET;Ethiopia;2173;15;198794;2784
 2021-03-28;ET;Ethiopia;1769;17;200563;2801
 2021-03-29;ET;Ethiopia;1982;24;202545;2825
+2021-03-30;ET;Ethiopia;1976;16;204521;2841
 2020-01-23;;Europe;0;0;0;0
 2020-01-24;;Europe;2;0;2;0
 2020-01-25;;Europe;1;0;3;0
@@ -24160,12 +24225,13 @@ date;id;country;newc;newd;totalc;totald
 2021-03-21;;Europe;161266;2039;37786630;879694
 2021-03-22;;Europe;152047;3337;37938677;883031
 2021-03-23;;Europe;179728;3965;38118405;886996
-2021-03-24;;Europe;259056;3700;38377461;890696
-2021-03-25;;Europe;252168;4087;38629629;894783
-2021-03-26;;Europe;237069;4520;38866698;899303
+2021-03-24;;Europe;256192;3699;38374597;890695
+2021-03-25;;Europe;252982;4092;38627579;894787
+2021-03-26;;Europe;239119;4516;38866698;899303
 2021-03-27;;Europe;218498;2896;39085196;902199
 2021-03-28;;Europe;163075;2062;39248271;904261
 2021-03-29;;Europe;139257;2962;39387528;907223
+2021-03-30;;Europe;204845;3971;39592373;911194
 2020-01-23;;European Union;0;0;0;0
 2020-01-24;;European Union;2;0;2;0
 2020-01-25;;European Union;1;0;3;0
@@ -24592,12 +24658,13 @@ date;id;country;newc;newd;totalc;totald
 2021-03-21;;European Union;126906;1353;25142828;591181
 2021-03-22;;European Union;113307;2490;25256135;593671
 2021-03-23;;European Union;139641;2891;25395776;596562
-2021-03-24;;European Union;210351;2578;25606127;599140
-2021-03-25;;European Union;204397;3050;25810524;602190
-2021-03-26;;European Union;192873;3529;26003397;605719
+2021-03-24;;European Union;207487;2577;25603263;599139
+2021-03-25;;European Union;205211;3055;25808474;602194
+2021-03-26;;European Union;194923;3525;26003397;605719
 2021-03-27;;European Union;172952;1980;26176349;607699
 2021-03-28;;European Union;130020;1369;26306369;609068
 2021-03-29;;European Union;100973;2103;26407342;611171
+2021-03-30;;European Union;162338;2907;26569680;614078
 2021-01-29;FO;Faeroe Islands;0;0;0;0
 2021-01-30;FO;Faeroe Islands;0;0;0;0
 2021-01-31;FO;Faeroe Islands;0;0;0;0
@@ -24656,6 +24723,9 @@ date;id;country;newc;newd;totalc;totald
 2021-03-25;FO;Faeroe Islands;0;0;0;0
 2021-03-26;FO;Faeroe Islands;0;0;0;0
 2021-03-27;FO;Faeroe Islands;0;0;0;0
+2021-03-28;FO;Faeroe Islands;0;0;0;0
+2021-03-29;FO;Faeroe Islands;0;0;0;0
+2021-03-30;FO;Faeroe Islands;0;0;0;0
 2021-02-07;FK;Falkland Islands;0;0;0;0
 2021-02-08;FK;Falkland Islands;0;0;0;0
 2021-02-09;FK;Falkland Islands;0;0;0;0
@@ -25129,6 +25199,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;FJ;Fiji;0;0;67;2
 2021-03-28;FJ;Fiji;0;0;67;2
 2021-03-29;FJ;Fiji;0;0;67;2
+2021-03-30;FJ;Fiji;0;0;67;2
 2020-01-29;FI;Finland;1;0;1;0
 2020-01-30;FI;Finland;0;0;1;0
 2020-01-31;FI;Finland;0;0;1;0
@@ -25555,6 +25626,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;FI;Finland;791;0;75545;817
 2021-03-28;FI;Finland;458;0;76003;817
 2021-03-29;FI;Finland;422;5;76425;822
+2021-03-30;FI;Finland;420;4;76845;826
 2020-01-24;FR;France;2;0;2;0
 2020-01-25;FR;France;1;0;3;0
 2020-01-26;FR;France;0;0;3;0
@@ -25986,6 +26058,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;FR;France;42634;191;4569164;94623
 2021-03-28;FR;France;37021;131;4606185;94754
 2021-03-29;FR;France;9110;360;4615295;95114
+2021-03-30;FR;France;30719;381;4646014;95495
 2020-03-14;GA;Gabon;1;0;1;0
 2020-03-15;GA;Gabon;0;0;1;0
 2020-03-16;GA;Gabon;0;0;1;0
@@ -26367,6 +26440,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GA;Gabon;351;2;18777;111
 2021-03-28;GA;Gabon;0;0;18777;111
 2021-03-29;GA;Gabon;363;3;19140;114
+2021-03-30;GA;Gabon;0;0;19140;114
 2020-03-17;GM;Gambia;1;0;1;0
 2020-03-18;GM;Gambia;0;0;1;0
 2020-03-19;GM;Gambia;0;0;1;0
@@ -26745,6 +26819,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GM;Gambia;0;0;5365;163
 2021-03-28;GM;Gambia;36;0;5401;163
 2021-03-29;GM;Gambia;19;1;5420;164
+2021-03-30;GM;Gambia;27;1;5447;165
 2020-02-26;GE;Georgia;1;0;1;0
 2020-02-27;GE;Georgia;0;0;1;0
 2020-02-28;GE;Georgia;0;0;1;0
@@ -27143,6 +27218,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GE;Georgia;490;8;279936;3746
 2021-03-28;GE;Georgia;365;5;280301;3751
 2021-03-29;GE;Georgia;171;14;280472;3765
+2021-03-30;GE;Georgia;673;8;281145;3773
 2020-01-27;DE;Germany;1;0;1;0
 2020-01-28;DE;Germany;3;0;4;0
 2020-01-29;DE;Germany;0;0;4;0
@@ -27571,6 +27647,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;DE;Germany;17628;87;2782925;75915
 2021-03-28;DE;Germany;1727;44;2784652;75959
 2021-03-29;DE;Germany;10297;180;2794949;76139
+2021-03-30;DE;Germany;23681;250;2818630;76389
 2020-03-14;GH;Ghana;3;0;3;0
 2020-03-15;GH;Ghana;3;0;6;0
 2020-03-16;GH;Ghana;0;0;6;0
@@ -27952,6 +28029,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GH;Ghana;0;0;90287;740
 2021-03-28;GH;Ghana;0;0;90287;740
 2021-03-29;GH;Ghana;0;0;90287;740
+2021-03-30;GH;Ghana;0;0;90287;740
 2021-01-10;GI;Gibraltar;0;0;0;0
 2021-01-11;GI;Gibraltar;0;0;0;0
 2021-01-12;GI;Gibraltar;0;0;0;0
@@ -28030,6 +28108,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-26;GI;Gibraltar;0;0;0;0
 2021-03-27;GI;Gibraltar;0;0;0;0
 2021-03-28;GI;Gibraltar;0;0;0;0
+2021-03-29;GI;Gibraltar;0;0;0;0
 2020-02-02;GR;Greece;0;0;0;0
 2020-02-09;GR;Greece;0;0;0;0
 2020-02-15;GR;Greece;0;0;0;0
@@ -28432,6 +28511,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GR;Greece;3132;72;252590;7826
 2021-03-28;GR;Greece;1441;54;254031;7880
 2021-03-29;GR;Greece;1724;65;255755;7945
+2021-03-30;GR;Greece;4322;72;260077;8017
 2021-01-27;GL;Greenland;0;0;0;0
 2021-01-28;GL;Greenland;0;0;0;0
 2021-01-29;GL;Greenland;0;0;0;0
@@ -28839,6 +28919,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GD;Grenada;0;0;155;1
 2021-03-28;GD;Grenada;0;0;155;1
 2021-03-29;GD;Grenada;0;0;155;1
+2021-03-30;GD;Grenada;0;0;155;1
 2020-02-17;GT;Guatemala;0;0;0;0
 2020-02-18;GT;Guatemala;0;0;0;0
 2020-02-19;GT;Guatemala;0;0;0;0
@@ -29246,6 +29327,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GT;Guatemala;917;19;193050;6794
 2021-03-28;GT;Guatemala;327;8;193377;6802
 2021-03-29;GT;Guatemala;179;7;193556;6809
+2021-03-30;GT;Guatemala;278;14;193834;6823
 2021-01-24;GG;Guernsey;0;0;0;0
 2021-01-25;GG;Guernsey;0;0;0;0
 2021-01-26;GG;Guernsey;0;0;0;0
@@ -29693,6 +29775,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GN;Guinea;98;0;19501;116
 2021-03-28;GN;Guinea;169;4;19670;120
 2021-03-29;GN;Guinea;103;3;19773;123
+2021-03-30;GN;Guinea;20;2;19793;125
 2020-03-25;GW;Guinea-Bissau;2;0;2;0
 2020-03-26;GW;Guinea-Bissau;0;0;2;0
 2020-03-27;GW;Guinea-Bissau;0;0;2;0
@@ -30063,6 +30146,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GW;Guinea-Bissau;15;0;3630;61
 2021-03-28;GW;Guinea-Bissau;4;0;3634;61
 2021-03-29;GW;Guinea-Bissau;0;0;3634;61
+2021-03-30;GW;Guinea-Bissau;13;0;3647;61
 2020-03-12;GY;Guyana;1;1;1;1
 2020-03-13;GY;Guyana;0;0;1;1
 2020-03-14;GY;Guyana;0;0;1;1
@@ -30446,6 +30530,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GY;Guyana;65;0;10072;225
 2021-03-28;GY;Guyana;96;2;10168;227
 2021-03-29;GY;Guyana;14;2;10182;229
+2021-03-30;GY;Guyana;10;2;10192;231
 2020-03-20;HT;Haiti;2;0;2;0
 2020-03-21;HT;Haiti;0;0;2;0
 2020-03-22;HT;Haiti;0;0;2;0
@@ -30821,6 +30906,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;HT;Haiti;0;0;12736;251
 2021-03-28;HT;Haiti;0;1;12736;252
 2021-03-29;HT;Haiti;0;0;12736;252
+2021-03-30;HT;Haiti;22;-1;12758;251
 2020-03-11;HN;Honduras;2;0;2;0
 2020-03-12;HN;Honduras;0;0;2;0
 2020-03-13;HN;Honduras;0;0;2;0
@@ -31205,6 +31291,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;HN;Honduras;678;21;187015;4557
 2021-03-28;HN;Honduras;445;1;187460;4558
 2021-03-29;HN;Honduras;515;27;187975;4585
+2021-03-30;HN;Honduras;539;14;188514;4599
 2020-01-31;HK;Hong Kong;0;0;0;0
 2020-02-29;HK;Hong Kong;0;0;0;0
 2020-03-31;HK;Hong Kong;0;0;0;0
@@ -31314,6 +31401,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;HK;Hong Kong;0;0;0;0
 2021-03-28;HK;Hong Kong;0;0;0;0
 2021-03-29;HK;Hong Kong;0;0;0;0
+2021-03-30;HK;Hong Kong;0;0;0;0
 2020-03-04;HU;Hungary;2;0;2;0
 2020-03-05;HU;Hungary;0;0;2;0
 2020-03-06;HU;Hungary;0;0;2;0
@@ -31705,6 +31793,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;HU;Hungary;10167;253;624779;19752
 2021-03-28;HU;Hungary;9082;220;633861;19972
 2021-03-29;HU;Hungary;7263;189;641124;20161
+2021-03-30;HU;Hungary;4609;274;645733;20435
 2020-02-09;IS;Iceland;0;0;0;0
 2020-02-27;IS;Iceland;0;0;0;0
 2020-02-28;IS;Iceland;1;0;1;0
@@ -32103,6 +32192,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IS;Iceland;0;0;6163;29
 2021-03-28;IS;Iceland;0;0;6163;29
 2021-03-29;IS;Iceland;20;0;6183;29
+2021-03-30;IS;Iceland;11;0;6194;29
 2020-01-30;IN;India;1;0;1;0
 2020-01-31;IN;India;0;0;1;0
 2020-02-01;IN;India;0;0;1;0
@@ -32528,6 +32618,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IN;India;62714;312;11971624;161552
 2021-03-28;IN;India;68020;291;12039644;161843
 2021-03-29;IN;India;56211;271;12095855;162114
+2021-03-30;IN;India;53480;354;12149335;162468
 2020-03-02;ID;Indonesia;2;0;2;0
 2020-03-03;ID;Indonesia;0;0;2;0
 2020-03-04;ID;Indonesia;0;0;2;0
@@ -32921,6 +33012,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ID;Indonesia;4461;198;1492002;40364
 2021-03-28;ID;Indonesia;4083;85;1496085;40449
 2021-03-29;ID;Indonesia;5008;132;1501093;40581
+2021-03-30;ID;Indonesia;4682;173;1505775;40754
 2020-02-07;;International;61;0;61;0
 2020-02-08;;International;0;0;61;0
 2020-02-09;;International;3;0;64;0
@@ -33338,6 +33430,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;International;0;0;721;15
 2021-03-28;;International;0;0;721;15
 2021-03-29;;International;0;0;721;15
+2021-03-30;;International;0;0;721;15
 2020-02-19;IR;Iran;2;2;2;2
 2020-02-20;IR;Iran;3;0;5;2
 2020-02-21;IR;Iran;13;2;18;4
@@ -33743,6 +33836,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IR;Iran;8120;85;1846923;62308
 2021-03-28;IR;Iran;8751;89;1855674;62397
 2021-03-29;IR;Iran;9310;81;1864984;62478
+2021-03-30;IR;Iran;10250;91;1875234;62569
 2020-02-24;IQ;Iraq;1;0;1;0
 2020-02-25;IQ;Iraq;0;0;1;0
 2020-02-26;IQ;Iraq;4;0;5;0
@@ -34143,6 +34237,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IQ;Iraq;5062;20;827157;14177
 2021-03-28;IQ;Iraq;5271;35;832428;14212
 2021-03-29;IQ;Iraq;5837;37;838265;14249
+2021-03-30;IQ;Iraq;5995;37;844260;14286
 2020-02-02;IE;Ireland;0;0;0;0
 2020-02-09;IE;Ireland;0;0;0;0
 2020-02-15;IE;Ireland;0;0;0;0
@@ -34542,6 +34637,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IE;Ireland;610;2;233937;4653
 2021-03-28;IE;Ireland;604;13;234541;4666
 2021-03-29;IE;Ireland;537;1;235078;4667
+2021-03-30;IE;Ireland;366;14;235444;4681
 2021-01-21;IM;Isle of Man;0;0;0;0
 2021-01-22;IM;Isle of Man;0;0;0;0
 2021-01-23;IM;Isle of Man;0;0;0;0
@@ -34608,6 +34704,9 @@ date;id;country;newc;newd;totalc;totald
 2021-03-25;IM;Isle of Man;0;0;0;0
 2021-03-26;IM;Isle of Man;0;0;0;0
 2021-03-27;IM;Isle of Man;0;0;0;0
+2021-03-28;IM;Isle of Man;0;0;0;0
+2021-03-29;IM;Isle of Man;0;0;0;0
+2021-03-30;IM;Isle of Man;0;0;0;0
 2020-02-20;IL;Israel;0;0;0;0
 2020-02-21;IL;Israel;1;0;1;0
 2020-02-22;IL;Israel;0;0;1;0
@@ -35012,6 +35111,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IL;Israel;0;0;831383;6165
 2021-03-28;IL;Israel;541;20;831924;6185
 2021-03-29;IL;Israel;201;12;832125;6197
+2021-03-30;IL;Israel;514;-4;832639;6193
 2020-01-31;IT;Italy;2;0;2;0
 2020-02-01;IT;Italy;0;0;2;0
 2020-02-02;IT;Italy;0;0;2;0
@@ -35436,6 +35536,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;IT;Italy;23834;380;3512453;107636
 2021-03-28;IT;Italy;19604;297;3532057;107933
 2021-03-29;IT;Italy;12900;417;3544957;108350
+2021-03-30;IT;Italy;16055;529;3561012;108879
 2020-03-11;JM;Jamaica;1;0;1;0
 2020-03-12;JM;Jamaica;1;0;2;0
 2020-03-13;JM;Jamaica;6;0;8;0
@@ -35820,6 +35921,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;JM;Jamaica;289;9;37747;566
 2021-03-28;JM;Jamaica;480;4;38227;570
 2021-03-29;JM;Jamaica;287;16;38514;586
+2021-03-30;JM;Jamaica;334;1;38848;587
 2020-01-22;JP;Japan;0;0;2;0
 2020-01-23;JP;Japan;0;0;2;0
 2020-01-24;JP;Japan;0;0;2;0
@@ -36253,6 +36355,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;JP;Japan;2080;32;466563;9021
 2021-03-28;JP;Japan;1783;29;468346;9050
 2021-03-29;JP;Japan;1290;29;469636;9079
+2021-03-30;JP;Japan;2141;33;471777;9112
 2021-01-24;JE;Jersey;0;0;0;0
 2021-01-25;JE;Jersey;0;0;0;0
 2021-01-26;JE;Jersey;0;0;0;0
@@ -36705,6 +36808,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;JO;Jordan;4399;98;582133;6472
 2021-03-28;JO;Jordan;7183;82;589316;6554
 2021-03-29;JO;Jordan;7940;97;597256;6651
+2021-03-30;JO;Jordan;7751;96;605007;6747
 2020-03-13;KZ;Kazakhstan;4;0;4;0
 2020-03-14;KZ;Kazakhstan;2;0;6;0
 2020-03-15;KZ;Kazakhstan;3;0;9;0
@@ -37087,6 +37191,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KZ;Kazakhstan;1690;3;290792;3220
 2021-03-28;KZ;Kazakhstan;1514;2;292306;3222
 2021-03-29;KZ;Kazakhstan;1455;2;293761;3224
+2021-03-30;KZ;Kazakhstan;1745;4;295506;3228
 2020-03-06;KE;Kenya;0;0;0;0
 2020-03-07;KE;Kenya;0;0;0;0
 2020-03-08;KE;Kenya;0;0;0;0
@@ -37476,6 +37581,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KE;Kenya;1152;6;129330;2104
 2021-03-28;KE;Kenya;884;13;130214;2117
 2021-03-29;KE;Kenya;902;18;131116;2135
+2021-03-30;KE;Kenya;1530;12;132646;2147
 2020-03-14;;Kosovo;2;0;2;0
 2020-03-15;;Kosovo;3;0;5;0
 2020-03-16;;Kosovo;8;0;13;0
@@ -37857,6 +37963,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;Kosovo;0;0;84172;1811
 2021-03-28;;Kosovo;0;0;84172;1811
 2021-03-29;;Kosovo;4257;41;88429;1852
+2021-03-30;;Kosovo;752;14;89181;1866
 2020-02-24;KW;Kuwait;1;0;1;0
 2020-02-25;KW;Kuwait;10;0;11;0
 2020-02-26;KW;Kuwait;15;0;26;0
@@ -38257,6 +38364,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KW;Kuwait;1198;9;227178;1279
 2021-03-28;KW;Kuwait;1121;7;228299;1286
 2021-03-29;KW;Kuwait;1251;12;229550;1298
+2021-03-30;KW;Kuwait;1271;10;230821;1308
 2020-03-18;KG;Kyrgyzstan;3;0;3;0
 2020-03-19;KG;Kyrgyzstan;0;0;3;0
 2020-03-20;KG;Kyrgyzstan;3;0;6;0
@@ -38634,6 +38742,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KG;Kyrgyzstan;88;1;87946;1495
 2021-03-28;KG;Kyrgyzstan;146;0;88092;1495
 2021-03-29;KG;Kyrgyzstan;71;2;88163;1497
+2021-03-30;KG;Kyrgyzstan;113;1;88276;1498
 2020-03-24;LA;Laos;2;0;2;0
 2020-03-25;LA;Laos;1;0;3;0
 2020-03-26;LA;Laos;3;0;6;0
@@ -39005,6 +39114,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LA;Laos;0;0;49;0
 2021-03-28;LA;Laos;0;0;49;0
 2021-03-29;LA;Laos;0;0;49;0
+2021-03-30;LA;Laos;0;0;49;0
 2020-02-02;LV;Latvia;0;0;0;0
 2020-02-09;LV;Latvia;0;0;0;0
 2020-02-15;LV;Latvia;0;0;0;0
@@ -39404,6 +39514,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LV;Latvia;602;5;100716;1872
 2021-03-28;LV;Latvia;324;6;101040;1878
 2021-03-29;LV;Latvia;167;5;101207;1883
+2021-03-30;LV;Latvia;526;10;101733;1893
 2020-02-21;LB;Lebanon;1;0;1;0
 2020-02-22;LB;Lebanon;0;0;1;0
 2020-02-23;LB;Lebanon;0;0;1;0
@@ -39807,6 +39918,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LB;Lebanon;2957;45;458338;6058
 2021-03-28;LB;Lebanon;2724;38;461062;6096
 2021-03-29;LB;Lebanon;1277;40;462339;6136
+2021-03-30;LB;Lebanon;2668;48;465007;6184
 2020-05-13;LS;Lesotho;1;0;1;0
 2020-05-14;LS;Lesotho;0;0;1;0
 2020-05-15;LS;Lesotho;0;0;1;0
@@ -40128,6 +40240,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LS;Lesotho;0;0;10686;315
 2021-03-28;LS;Lesotho;0;0;10686;315
 2021-03-29;LS;Lesotho;0;0;10686;315
+2021-03-30;LS;Lesotho;0;0;10686;315
 2020-03-16;LR;Liberia;1;0;1;0
 2020-03-17;LR;Liberia;0;0;1;0
 2020-03-18;LR;Liberia;1;0;2;0
@@ -40507,6 +40620,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LR;Liberia;0;0;2042;85
 2021-03-28;LR;Liberia;0;0;2042;85
 2021-03-29;LR;Liberia;0;0;2042;85
+2021-03-30;LR;Liberia;0;0;2042;85
 2020-03-04;LY;Libya;0;0;0;0
 2020-03-05;LY;Libya;0;0;0;0
 2020-03-06;LY;Libya;0;0;0;0
@@ -40898,6 +41012,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LY;Libya;0;0;156116;2602
 2021-03-28;LY;Libya;733;16;156849;2618
 2021-03-29;LY;Libya;696;35;157545;2653
+2021-03-30;LY;Libya;706;5;158251;2658
 2020-03-04;LI;Liechtenstein;1;0;1;0
 2020-03-05;LI;Liechtenstein;0;0;1;0
 2020-03-06;LI;Liechtenstein;0;0;1;0
@@ -41289,6 +41404,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LI;Liechtenstein;4;0;2649;56
 2021-03-28;LI;Liechtenstein;9;0;2658;56
 2021-03-29;LI;Liechtenstein;6;0;2664;56
+2021-03-30;LI;Liechtenstein;0;0;2664;56
 2020-02-23;LT;Lithuania;0;0;0;0
 2020-02-29;LT;Lithuania;1;0;1;0
 2020-03-01;LT;Lithuania;0;0;1;0
@@ -41685,6 +41801,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LT;Lithuania;771;10;213447;3539
 2021-03-28;LT;Lithuania;494;12;213941;3551
 2021-03-29;LT;Lithuania;424;9;214365;3560
+2021-03-30;LT;Lithuania;851;6;215216;3566
 2020-02-24;LU;Luxembourg;0;0;0;0
 2020-02-25;LU;Luxembourg;0;0;0;0
 2020-02-26;LU;Luxembourg;0;0;0;0
@@ -42085,6 +42202,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LU;Luxembourg;0;0;60465;738
 2021-03-28;LU;Luxembourg;0;0;60465;738
 2021-03-29;LU;Luxembourg;608;3;61073;741
+2021-03-30;LU;Luxembourg;182;2;61255;743
 2021-02-08;MO;Macao;0;0;0;0
 2021-02-09;MO;Macao;0;0;0;0
 2021-02-10;MO;Macao;0;0;0;0
@@ -42510,6 +42628,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MG;Madagascar;194;3;23424;381
 2021-03-28;MG;Madagascar;161;6;23585;387
 2021-03-29;MG;Madagascar;384;7;23969;394
+2021-03-30;MG;Madagascar;295;9;24264;403
 2020-03-29;MW;Malawi;0;0;0;0
 2020-03-30;MW;Malawi;0;0;0;0
 2020-03-31;MW;Malawi;0;0;0;0
@@ -42876,6 +42995,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MW;Malawi;43;1;33458;1113
 2021-03-28;MW;Malawi;23;1;33481;1114
 2021-03-29;MW;Malawi;24;0;33505;1114
+2021-03-30;MW;Malawi;20;2;33525;1116
 2020-01-25;MY;Malaysia;3;0;3;0
 2020-01-26;MY;Malaysia;1;0;4;0
 2020-01-27;MY;Malaysia;0;0;4;0
@@ -43306,6 +43426,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MY;Malaysia;1199;2;340642;1251
 2021-03-28;MY;Malaysia;1302;4;341944;1255
 2021-03-29;MY;Malaysia;941;5;342885;1260
+2021-03-30;MY;Malaysia;1133;5;344018;1265
 2020-03-08;MV;Maldives;4;0;4;0
 2020-03-09;MV;Maldives;0;0;4;0
 2020-03-10;MV;Maldives;2;0;6;0
@@ -43693,6 +43814,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MV;Maldives;166;0;23403;66
 2021-03-28;MV;Maldives;121;0;23524;66
 2021-03-29;MV;Maldives;147;0;23671;66
+2021-03-30;MV;Maldives;167;0;23838;66
 2020-03-25;ML;Mali;2;0;2;0
 2020-03-26;ML;Mali;2;0;4;0
 2020-03-27;ML;Mali;7;0;11;0
@@ -44063,6 +44185,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ML;Mali;54;0;9773;376
 2021-03-28;ML;Mali;98;3;9871;379
 2021-03-29;ML;Mali;50;5;9921;384
+2021-03-30;ML;Mali;77;0;9998;384
 2020-02-06;MT;Malta;0;0;0;0
 2020-02-07;MT;Malta;0;0;0;0
 2020-02-08;MT;Malta;0;0;0;0
@@ -44481,6 +44604,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MT;Malta;93;3;28808;385
 2021-03-28;MT;Malta;67;2;28875;387
 2021-03-29;MT;Malta;63;1;28938;388
+2021-03-30;MT;Malta;55;2;28993;390
 2020-10-28;MH;Marshall Islands;2;0;2;0
 2020-10-29;MH;Marshall Islands;0;0;2;0
 2020-10-30;MH;Marshall Islands;0;0;2;0
@@ -44634,6 +44758,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MH;Marshall Islands;0;0;4;0
 2021-03-28;MH;Marshall Islands;0;0;4;0
 2021-03-29;MH;Marshall Islands;0;0;4;0
+2021-03-30;MH;Marshall Islands;0;0;4;0
 2020-03-14;MR;Mauritania;1;0;1;0
 2020-03-15;MR;Mauritania;0;0;1;0
 2020-03-16;MR;Mauritania;0;0;1;0
@@ -45015,6 +45140,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MR;Mauritania;11;0;17756;448
 2021-03-28;MR;Mauritania;15;0;17771;448
 2021-03-29;MR;Mauritania;25;1;17796;449
+2021-03-30;MR;Mauritania;28;0;17824;449
 2020-03-18;MU;Mauritius;3;0;3;0
 2020-03-19;MU;Mauritius;0;0;3;0
 2020-03-20;MU;Mauritius;9;0;12;0
@@ -45392,6 +45518,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MU;Mauritius;0;0;871;10
 2021-03-28;MU;Mauritius;62;0;933;10
 2021-03-29;MU;Mauritius;25;0;958;10
+2021-03-30;MU;Mauritius;38;0;996;10
 2020-01-01;MX;Mexico;0;0;0;0
 2020-01-02;MX;Mexico;0;0;0;0
 2020-01-03;MX;Mexico;0;0;0;0
@@ -45846,6 +45973,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MX;Mexico;5059;567;2224904;201429
 2021-03-28;MX;Mexico;1646;194;2226550;201623
 2021-03-29;MX;Mexico;1293;209;2227843;201832
+2021-03-30;MX;Mexico;5067;801;2232910;202633
 2021-01-21;FM;Micronesia (country);1;0;1;0
 2021-01-22;FM;Micronesia (country);0;0;1;0
 2021-01-23;FM;Micronesia (country);0;0;1;0
@@ -45914,6 +46042,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;FM;Micronesia (country);0;0;1;0
 2021-03-28;FM;Micronesia (country);0;0;1;0
 2021-03-29;FM;Micronesia (country);0;0;1;0
+2021-03-30;FM;Micronesia (country);0;0;1;0
 2020-03-08;MD;Moldova;1;0;1;0
 2020-03-09;MD;Moldova;0;0;1;0
 2020-03-10;MD;Moldova;2;0;3;0
@@ -46301,6 +46430,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MD;Moldova;1674;40;225660;4785
 2021-03-28;MD;Moldova;861;42;226521;4827
 2021-03-29;MD;Moldova;932;42;227453;4869
+2021-03-30;MD;Moldova;917;46;228370;4915
 2020-02-29;MC;Monaco;1;0;1;0
 2020-03-01;MC;Monaco;0;0;1;0
 2020-03-02;MC;Monaco;0;0;1;0
@@ -46696,6 +46826,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MC;Monaco;6;0;2254;28
 2021-03-28;MC;Monaco;5;0;2259;28
 2021-03-29;MC;Monaco;6;0;2265;28
+2021-03-30;MC;Monaco;17;0;2282;28
 2020-03-10;MN;Mongolia;1;0;1;0
 2020-03-11;MN;Mongolia;0;0;1;0
 2020-03-12;MN;Mongolia;0;0;1;0
@@ -47081,6 +47212,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MN;Mongolia;0;0;6693;5
 2021-03-28;MN;Mongolia;896;1;7589;6
 2021-03-29;MN;Mongolia;481;0;8070;6
+2021-03-30;MN;Mongolia;377;0;8447;6
 2020-03-17;ME;Montenegro;2;0;2;0
 2020-03-18;ME;Montenegro;0;0;2;0
 2020-03-19;ME;Montenegro;1;0;3;0
@@ -47459,6 +47591,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ME;Montenegro;369;7;89732;1241
 2021-03-28;ME;Montenegro;351;4;90083;1245
 2021-03-29;ME;Montenegro;335;11;90418;1256
+2021-03-30;ME;Montenegro;414;10;90832;1266
 2021-02-08;MS;Montserrat;0;0;0;0
 2021-02-09;MS;Montserrat;0;0;0;0
 2021-02-10;MS;Montserrat;0;0;0;0
@@ -47914,6 +48047,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MA;Morocco;491;5;494358;8798
 2021-03-28;MA;Morocco;301;0;494659;8798
 2021-03-29;MA;Morocco;97;9;494756;8807
+2021-03-30;MA;Morocco;665;6;495421;8813
 2020-03-22;MZ;Mozambique;1;0;1;0
 2020-03-23;MZ;Mozambique;0;0;1;0
 2020-03-24;MZ;Mozambique;2;0;3;0
@@ -48287,6 +48421,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MZ;Mozambique;132;4;67011;762
 2021-03-28;MZ;Mozambique;186;2;67197;764
 2021-03-29;MZ;Mozambique;0;0;67197;764
+2021-03-30;MZ;Mozambique;95;5;67292;769
 2020-03-27;MM;Myanmar;8;0;8;0
 2020-03-28;MM;Myanmar;0;0;8;0
 2020-03-29;MM;Myanmar;2;0;10;0
@@ -48655,6 +48790,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MM;Myanmar;37;1;142377;3206
 2021-03-28;MM;Myanmar;8;0;142385;3206
 2021-03-29;MM;Myanmar;8;0;142393;3206
+2021-03-30;MM;Myanmar;19;0;142412;3206
 2020-03-14;NA;Namibia;2;0;2;0
 2020-03-15;NA;Namibia;0;0;2;0
 2020-03-16;NA;Namibia;0;0;2;0
@@ -49036,6 +49172,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NA;Namibia;320;4;43499;508
 2021-03-28;NA;Namibia;133;1;43632;509
 2021-03-29;NA;Namibia;291;4;43923;513
+2021-03-30;NA;Namibia;128;7;44051;520
 2020-01-25;NP;Nepal;1;0;1;0
 2020-01-26;NP;Nepal;0;0;1;0
 2020-01-27;NP;Nepal;0;0;1;0
@@ -49466,6 +49603,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NP;Nepal;85;3;276750;3027
 2021-03-28;NP;Nepal;89;0;276839;3027
 2021-03-29;NP;Nepal;141;0;276980;3027
+2021-03-30;NP;Nepal;167;3;277147;3030
 2020-02-09;NL;Netherlands;0;0;0;0
 2020-02-15;NL;Netherlands;0;0;0;0
 2020-02-23;NL;Netherlands;0;0;0;0
@@ -49866,6 +50004,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NL;Netherlands;9160;31;1263882;16592
 2021-03-28;NL;Netherlands;7698;15;1271580;16607
 2021-03-29;NL;Netherlands;6939;13;1278519;16620
+2021-03-30;NL;Netherlands;6066;37;1284585;16657
 2020-02-28;NZ;New Zealand;1;0;1;0
 2020-02-29;NZ;New Zealand;0;0;1;0
 2020-03-01;NZ;New Zealand;0;0;1;0
@@ -50262,6 +50401,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NZ;New Zealand;1;0;2482;26
 2021-03-28;NZ;New Zealand;11;0;2493;26
 2021-03-29;NZ;New Zealand;2;0;2495;26
+2021-03-30;NZ;New Zealand;2;0;2497;26
 2020-03-19;NI;Nicaragua;1;0;1;0
 2020-03-20;NI;Nicaragua;0;0;1;0
 2020-03-21;NI;Nicaragua;1;0;2;0
@@ -50638,6 +50778,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NI;Nicaragua;0;0;6629;177
 2021-03-28;NI;Nicaragua;0;0;6629;177
 2021-03-29;NI;Nicaragua;0;0;6629;177
+2021-03-30;NI;Nicaragua;48;1;6677;178
 2020-03-20;NE;Niger;1;0;1;0
 2020-03-21;NE;Niger;0;0;1;0
 2020-03-22;NE;Niger;1;0;2;0
@@ -51013,6 +51154,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NE;Niger;0;0;4972;185
 2021-03-28;NE;Niger;15;0;4987;185
 2021-03-29;NE;Niger;0;0;4987;185
+2021-03-30;NE;Niger;14;1;5001;186
 2020-02-28;NG;Nigeria;1;0;1;0
 2020-02-29;NG;Nigeria;0;0;1;0
 2020-03-01;NG;Nigeria;0;0;1;0
@@ -51409,6 +51551,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NG;Nigeria;101;2;162489;2041
 2021-03-28;NG;Nigeria;104;7;162593;2048
 2021-03-29;NG;Nigeria;48;1;162641;2049
+2021-03-30;NG;Nigeria;121;7;162762;2056
 2020-01-22;;North America;0;0;1;0
 2020-01-23;;North America;0;0;1;0
 2020-01-24;;North America;1;0;2;0
@@ -51501,347 +51644,348 @@ date;id;country;newc;newd;totalc;totald
 2020-04-20;;North America;33006;2422;858745;48664
 2020-04-21;;North America;28756;2877;887501;51541
 2020-04-22;;North America;32719;2783;920220;54324
-2020-04-23;;North America;37058;2754;957278;57078
-2020-04-24;;North America;35795;2542;993073;59620
-2020-04-25;;North America;33370;2002;1026443;61622
-2020-04-26;;North America;29581;1619;1056024;63241
-2020-04-27;;North America;26666;1786;1082690;65027
-2020-04-28;;North America;27579;2568;1110269;67595
-2020-04-29;;North America;29964;2845;1140233;70440
-2020-04-30;;North America;32873;2531;1173106;72971
-2020-05-01;;North America;38991;2244;1212097;75215
-2020-05-02;;North America;31335;1993;1243432;77208
-2020-05-03;;North America;28795;1439;1272227;78647
-2020-05-04;;North America;27600;1761;1299827;80408
-2020-05-05;;North America;27679;2682;1327506;83090
-2020-05-06;;North America;28498;2694;1356004;85784
-2020-05-07;;North America;31687;2361;1387691;88145
-2020-05-08;;North America;30932;2131;1418623;90276
-2020-05-09;;North America;29246;1837;1447869;92113
-2020-05-10;;North America;22618;1222;1470487;93335
-2020-05-11;;North America;22498;1304;1492985;94639
-2020-05-12;;North America;26695;2129;1519680;96768
-2020-05-13;;North America;24290;2155;1543970;98923
-2020-05-14;;North America;31099;2197;1575069;101120
-2020-05-15;;North America;29337;2094;1604406;103214
-2020-05-16;;North America;28428;1614;1632834;104828
-2020-05-17;;North America;22141;1054;1654975;105882
-2020-05-18;;North America;26850;1490;1681825;107372
-2020-05-19;;North America;26255;1893;1708080;109265
-2020-05-20;;North America;26712;2061;1734792;111326
-2020-05-21;;North America;30897;1726;1765689;113052
-2020-05-22;;North America;28986;1824;1794675;114876
-2020-05-23;;North America;26897;1383;1821572;116259
-2020-05-24;;North America;25555;966;1847127;117225
-2020-05-25;;North America;23428;935;1870555;118160
-2020-05-26;;North America;25598;1311;1896153;119471
-2020-05-27;;North America;24297;2045;1920450;121516
-2020-05-28;;North America;27978;1697;1948428;123213
-2020-05-29;;North America;30037;1607;1978465;124820
-2020-05-30;;North America;28920;1415;2007385;126235
-2020-05-31;;North America;24513;840;2031898;127075
-2020-06-01;;North America;22499;1086;2054397;128161
-2020-06-02;;North America;27642;1560;2082039;129721
-2020-06-03;;North America;25799;2196;2107838;131917
-2020-06-04;;North America;28424;1929;2136262;133846
-2020-06-05;;North America;31872;1637;2168134;135483
-2020-06-06;;North America;26998;1089;2195132;136572
-2020-06-07;;North America;23805;724;2218937;137296
-2020-06-08;;North America;23033;934;2241970;138230
-2020-06-09;;North America;25302;1598;2267272;139828
-2020-06-10;;North America;28684;1686;2295956;141514
-2020-06-11;;North America;30651;1493;2326607;143007
-2020-06-12;;North America;32937;1403;2359544;144410
-2020-06-13;;North America;31717;1232;2391261;145642
-2020-06-14;;North America;26150;674;2417411;146316
-2020-06-15;;North America;25044;897;2442455;147213
-2020-06-16;;North America;31145;1628;2473600;148841
-2020-06-17;;North America;34984;1587;2508584;150428
-2020-06-18;;North America;37259;1409;2545843;151837
-2020-06-19;;North America;39949;1368;2585792;153205
-2020-06-20;;North America;40839;1043;2626631;154248
-2020-06-21;;North America;33673;1420;2660304;155668
-2020-06-22;;North America;40046;1272;2700350;156940
-2020-06-23;;North America;46945;1647;2747295;158587
-2020-06-24;;North America;44287;1789;2791582;160376
-2020-06-25;;North America;50421;1352;2842003;161728
-2020-06-26;;North America;54374;1481;2896377;163209
-2020-06-27;;North America;49673;1195;2946050;164404
-2020-06-28;;North America;49035;649;2995085;165053
-2020-06-29;;North America;48869;935;3043954;165988
-2020-06-30;;North America;56012;1307;3099966;167295
-2020-07-01;;North America;61736;1576;3161702;168871
-2020-07-02;;North America;67816;1529;3229518;170400
-2020-07-03;;North America;62983;1433;3292501;171833
-2020-07-04;;North America;57483;945;3349984;172778
-2020-07-05;;North America;60622;680;3410606;173458
-2020-07-06;;North America;52315;966;3462921;174424
-2020-07-07;;North America;70871;2169;3533792;176593
-2020-07-08;;North America;71377;1737;3605169;178330
-2020-07-09;;North America;74916;1846;3680085;180176
-2020-07-10;;North America;79802;1637;3759887;181813
-2020-07-11;;North America;70812;1384;3830699;183197
-2020-07-12;;North America;67811;849;3898510;184046
-2020-07-13;;North America;68427;1021;3966937;185067
-2020-07-14;;North America;79952;1903;4046889;186970
-2020-07-15;;North America;80115;1686;4127004;188656
-2020-07-16;;North America;87561;1745;4214565;190401
-2020-07-17;;North America;84848;1789;4299413;192190
-2020-07-18;;North America;78957;1574;4378370;193764
-2020-07-19;;North America;71265;866;4449635;194630
-2020-07-20;;North America;72136;976;4521771;195606
-2020-07-21;;North America;76379;2155;4598150;197761
-2020-07-22;;North America;81598;2123;4679748;199884
-2020-07-23;;North America;83113;1927;4762861;201811
-2020-07-24;;North America;87039;2013;4849900;203824
-2020-07-25;;North America;78220;1779;4928120;205603
-2020-07-26;;North America;66650;942;4994770;206545
-2020-07-27;;North America;66674;1620;5061444;208165
-2020-07-28;;North America;78503;2346;5139947;210511
-2020-07-29;;North America;83223;2084;5223170;212595
-2020-07-30;;North America;80824;2028;5303994;214623
-2020-07-31;;North America;83170;2051;5387164;216674
-2020-08-01;;North America;71632;2003;5458796;218677
-2020-08-02;;North America;54675;800;5513471;219477
-2020-08-03;;North America;54144;927;5567615;220404
-2020-08-04;;North America;70295;2327;5637910;222731
-2020-08-05;;North America;66243;2353;5704153;225084
-2020-08-06;;North America;71079;2207;5775232;227291
-2020-08-07;;North America;71997;2155;5847229;229446
-2020-08-08;;North America;65946;1888;5913175;231334
-2020-08-09;;North America;54105;966;5967280;232300
-2020-08-10;;North America;57561;1394;6024841;233694
-2020-08-11;;North America;59588;2030;6084429;235724
-2020-08-12;;North America;66746;2360;6151175;238084
-2020-08-13;;North America;64505;1795;6215680;239879
-2020-08-14;;North America;76606;2067;6292286;241946
-2020-08-15;;North America;58641;1737;6350927;243683
-2020-08-16;;North America;47913;914;6398840;244597
-2020-08-17;;North America;43453;845;6442293;245442
-2020-08-18;;North America;54858;2126;6497151;247568
-2020-08-19;;North America;58515;2123;6555666;249691
-2020-08-20;;North America;54777;1814;6610443;251505
-2020-08-21;;North America;59933;1702;6670376;253207
-2020-08-22;;North America;54463;1737;6724839;254944
-2020-08-23;;North America;42686;797;6767525;255741
-2020-08-24;;North America;44433;903;6811958;256644
-2020-08-25;;North America;49977;1978;6861935;258622
-2020-08-26;;North America;55524;1955;6917459;260577
-2020-08-27;;North America;56608;1753;6974067;262330
-2020-08-28;;North America;58356;1634;7032423;263964
-2020-08-29;;North America;53388;1676;7085811;265640
-2020-08-30;;North America;41282;861;7127093;266501
-2020-08-31;;North America;44674;900;7171767;267401
-2020-09-01;;North America;52470;1976;7224237;269377
-2020-09-02;;North America;50858;1749;7275095;271126
-2020-09-03;;North America;55592;1675;7330687;272801
-2020-09-04;;North America;60823;1560;7391510;274361
-2020-09-05;;North America;55372;1383;7446882;275744
-2020-09-06;;North America;38455;713;7485337;276457
-2020-09-07;;North America;30998;628;7516335;277085
-2020-09-08;;North America;38379;1269;7554714;278354
-2020-09-09;;North America;43425;1795;7598139;280149
-2020-09-10;;North America;46081;1595;7644220;281744
-2020-09-11;;North America;58352;1784;7702572;283528
-2020-09-12;;North America;52663;1218;7755235;284746
-2020-09-13;;North America;41685;701;7796920;285447
-2020-09-14;;North America;43637;767;7840557;286214
-2020-09-15;;North America;48295;1902;7888852;288116
-2020-09-16;;North America;48775;1334;7937627;289450
-2020-09-17;;North America;53835;1177;7991462;290627
-2020-09-18;;North America;59953;1666;8051415;292293
-2020-09-19;;North America;52819;1297;8104234;293590
-2020-09-20;;North America;45654;569;8149888;294159
-2020-09-21;;North America;61083;736;8210971;294895
-2020-09-22;;North America;49655;1754;8260626;296649
-2020-09-23;;North America;49180;1747;8309806;298396
-2020-09-24;;North America;57871;1485;8367677;299881
-2020-09-25;;North America;60061;1433;8427738;301314
-2020-09-26;;North America;55360;1272;8483098;302586
-2020-09-27;;North America;44884;547;8527982;303133
-2020-09-28;;North America;42760;620;8570742;303753
-2020-09-29;;North America;53318;1519;8624060;305272
-2020-09-30;;North America;51012;1531;8675072;306803
-2020-10-01;;North America;56584;1398;8731656;308201
-2020-10-02;;North America;65798;1431;8797454;309632
-2020-10-03;;North America;59125;1170;8856579;310802
-2020-10-04;;North America;44263;691;8900842;311493
-2020-10-05;;North America;74610;3378;8975452;314871
-2020-10-06;;North America;56300;1248;9031752;316119
-2020-10-07;;North America;61769;1411;9093521;317530
-2020-10-08;;North America;70852;1447;9164373;318977
-2020-10-09;;North America;69072;1448;9233445;320425
-2020-10-10;;North America;65916;894;9299361;321319
-2020-10-11;;North America;53530;670;9352891;321989
-2020-10-12;;North America;49808;646;9402699;322635
-2020-10-13;;North America;63824;1369;9466523;324004
-2020-10-14;;North America;71241;1544;9537764;325548
-2020-10-15;;North America;77227;1363;9614991;326911
-2020-10-16;;North America;82502;1454;9697493;328365
-2020-10-17;;North America;66580;1219;9764073;329584
-2020-10-18;;North America;59900;669;9823973;330253
-2020-10-19;;North America;78473;745;9902446;330998
-2020-10-20;;North America;73903;1546;9976349;332544
-2020-10-21;;North America;77028;1783;10053377;334327
-2020-10-22;;North America;89736;991;10143113;335318
-2020-10-23;;North America;94467;1930;10237580;337248
-2020-10-24;;North America;95704;1475;10333284;338723
-2020-10-25;;North America;71418;731;10404702;339454
-2020-10-26;;North America;79239;882;10483941;340336
-2020-10-27;;North America;88881;1702;10572822;342038
-2020-10-28;;North America;91867;1640;10664689;343678
-2020-10-29;;North America;104403;1575;10769092;345253
-2020-10-30;;North America;112912;1690;10882004;346943
-2020-10-31;;North America;101725;1470;10983729;348413
-2020-11-01;;North America;114995;705;11098724;349118
-2020-11-02;;North America;95146;866;11193870;349984
-2020-11-03;;North America;139950;2199;11333820;352183
-2020-11-04;;North America;116046;1866;11449866;354049
-2020-11-05;;North America;141932;1792;11591798;355841
-2020-11-06;;North America;143285;1911;11735083;357752
-2020-11-07;;North America;141966;1661;11877049;359413
-2020-11-08;;North America;127020;876;12004069;360289
-2020-11-09;;North America;133652;1106;12137721;361395
-2020-11-10;;North America;154581;2161;12292302;363556
-2020-11-11;;North America;162047;2145;12454349;365701
-2020-11-12;;North America;180602;1951;12634951;367652
-2020-11-13;;North America;195662;1911;12830613;369563
-2020-11-14;;North America;182163;2120;13012776;371683
-2020-11-15;;North America;146580;1155;13159356;372838
-2020-11-16;;North America;175529;1287;13334885;374125
-2020-11-17;;North America;173909;1998;13508794;376123
-2020-11-18;;North America;185764;2640;13694558;378763
-2020-11-19;;North America;205389;2771;13899947;381534
-2020-11-20;;North America;213803;2797;14113750;384331
-2020-11-21;;North America;195046;2274;14308796;386605
-2020-11-22;;North America;163413;1416;14472209;388021
-2020-11-23;;North America;193978;1515;14666187;389536
-2020-11-24;;North America;195345;3101;14861532;392637
-2020-11-25;;North America;203612;3241;15065144;395878
-2020-11-26;;North America;132173;2181;15197317;398059
-2020-11-27;;North America;231526;2329;15428843;400388
-2020-11-28;;North America;175818;2060;15604661;402448
-2020-11-29;;North America;154187;1353;15758848;403801
-2020-11-30;;North America;179790;1816;15938638;405617
-2020-12-01;;North America;206562;3492;16145200;409109
-2020-12-02;;North America;226083;3785;16371283;412894
-2020-12-03;;North America;247513;3742;16618796;416636
-2020-12-04;;North America;257251;3538;16876047;420174
-2020-12-05;;North America;238007;3066;17114054;423240
-2020-12-06;;North America;199387;1743;17313441;424983
-2020-12-07;;North America;214654;2195;17528095;427178
-2020-12-08;;North America;247103;3599;17775198;430777
-2020-12-09;;North America;247201;4165;18022399;434942
-2020-12-10;;North America;256805;3881;18279204;438823
-2020-12-11;;North America;264799;4316;18544003;443139
-2020-12-12;;North America;241374;3310;18785377;446449
-2020-12-13;;North America;206733;2017;18992110;448466
-2020-12-14;;North America;213517;2256;19205627;450722
-2020-12-15;;North America;233123;4137;19438750;454859
-2020-12-16;;North America;270170;4608;19708920;459467
-2020-12-17;;North America;264759;4457;19973679;463924
-2020-12-18;;North America;277232;3907;20250911;467831
-2020-12-19;;North America;216491;3456;20467402;471287
-2020-12-20;;North America;206238;2212;20673640;473499
-2020-12-21;;North America;217976;2573;20891616;476072
-2020-12-22;;North America;223383;4538;21114999;480610
-2020-12-23;;North America;254457;4471;21369456;485081
-2020-12-24;;North America;220947;4019;21590403;489100
-2020-12-25;;North America;114498;2194;21704901;491294
-2020-12-26;;North America;238127;2215;21943028;493509
-2020-12-27;;North America;175883;2012;22118911;495521
-2020-12-28;;North America;194850;2721;22313761;498242
-2020-12-29;;North America;229351;4932;22543112;503174
-2020-12-30;;North America;263269;5008;22806381;508182
-2020-12-31;;North America;263412;4572;23069793;512754
-2021-01-01;;North America;171672;2981;23241465;515735
-2021-01-02;;North America;314560;3015;23556025;518750
-2021-01-03;;North America;234328;1986;23790353;520736
-2021-01-04;;North America;209601;3001;23999954;523737
-2021-01-05;;North America;260670;4999;24260624;528736
-2021-01-06;;North America;286378;5367;24547002;534103
-2021-01-07;;North America;308754;5288;24855756;539391
-2021-01-08;;North America;325367;5434;25181123;544825
-2021-01-09;;North America;296449;4712;25477572;549537
-2021-01-10;;North America;236526;2696;25714098;552233
-2021-01-11;;North America;238101;3002;25952199;555235
-2021-01-12;;North America;258104;6106;26210303;561341
-2021-01-13;;North America;262428;5573;26472731;566914
-2021-01-14;;North America;267902;5265;26740633;572179
-2021-01-15;;North America;277834;5281;27018467;577460
-2021-01-16;;North America;237039;4882;27255506;582342
-2021-01-17;;North America;200635;2569;27456141;584911
-2021-01-18;;North America;165127;2332;27621268;587243
-2021-01-19;;North America;208362;4611;27829630;591854
-2021-01-20;;North America;216582;6272;28046212;598126
-2021-01-21;;North America;230346;6260;28276558;604386
-2021-01-22;;North America;224560;5581;28501118;609967
-2021-01-23;;North America;202202;5049;28703320;615016
-2021-01-24;;North America;151924;2629;28855244;617645
-2021-01-25;;North America;172079;2884;29027323;620529
-2021-01-26;;North America;175351;6049;29202674;626578
-2021-01-27;;North America;182775;5809;29385449;632387
-2021-01-28;;North America;198951;5868;29584400;638255
-2021-01-29;;North America;194552;5326;29778952;643581
-2021-01-30;;North America;167987;4513;29946939;648094
-2021-01-31;;North America;128797;2489;30075736;650583
-2021-02-01;;North America;149823;2840;30225559;653423
-2021-02-02;;North America;128492;4122;30354051;657545
-2021-02-03;;North America;144490;5849;30498541;663394
-2021-02-04;;North America;134372;4006;30632913;667400
-2021-02-05;;North America;171158;6938;30804071;674338
-2021-02-06;;North America;126229;4316;30930300;678654
-2021-02-07;;North America;102898;1953;31033198;680607
-2021-02-08;;North America;103188;2340;31136386;682947
-2021-02-09;;North America;113541;5013;31249927;687960
-2021-02-10;;North America;114773;4860;31364700;692820
-2021-02-11;;North America;125319;4873;31490019;697693
-2021-02-12;;North America;118578;4421;31608597;702114
-2021-02-13;;North America;105424;3578;31714021;705692
-2021-02-14;;North America;74445;1669;31788466;707361
-2021-02-15;;North America;63988;1544;31852454;708905
-2021-02-16;;North America;80321;3236;31932775;712141
-2021-02-17;;North America;86202;3614;32018977;715755
-2021-02-18;;North America;87677;3713;32106654;719468
-2021-02-19;;North America;95287;3687;32201941;723155
-2021-02-20;;North America;86319;2763;32288260;725918
-2021-02-21;;North America;66646;1651;32354906;727569
-2021-02-22;;North America;66703;1885;32421609;729454
-2021-02-23;;North America;88318;3655;32509927;733109
-2021-02-24;;North America;90939;4326;32600866;737435
-2021-02-25;;North America;93109;3380;32693975;740815
-2021-02-26;;North America;92359;3005;32786334;743820
-2021-02-27;;North America;78402;2426;32864736;746246
-2021-02-28;;North America;59371;1610;32924107;747856
-2021-03-01;;North America;68718;2073;32992825;749929
-2021-03-02;;North America;72752;3085;33065577;753014
-2021-03-03;;North America;81971;3511;33147548;756525
-2021-03-04;;North America;82709;2869;33230257;759394
-2021-03-05;;North America;79686;2588;33309943;761982
-2021-03-06;;North America;71252;2360;33381195;764342
-2021-03-07;;North America;49906;1017;33431101;765359
-2021-03-08;;North America;54118;1155;33485219;766514
-2021-03-09;;North America;73578;2784;33558797;769298
-2021-03-10;;North America;72175;2361;33630972;771659
-2021-03-11;;North America;76615;2323;33707587;773982
-2021-03-12;;North America;76843;2376;33784430;776358
-2021-03-13;;North America;65647;2449;33850077;778807
-2021-03-14;;North America;46277;858;33896354;779665
-2021-03-15;;North America;65175;1079;33961529;780744
-2021-03-16;;North America;63616;1445;34025145;782189
-2021-03-17;;North America;73299;2080;34098444;784269
-2021-03-18;;North America;74770;2409;34173214;786678
-2021-03-19;;North America;77042;1825;34250256;788503
-2021-03-20;;North America;68605;1474;34318861;789977
-2021-03-21;;North America;42892;725;34361753;790702
-2021-03-22;;North America;60902;863;34422655;791565
-2021-03-23;;North America;68386;1760;34491041;793325
-2021-03-24;;North America;101034;2118;34592075;795443
-2021-03-25;;North America;82235;2229;34674310;797672
-2021-03-26;;North America;93229;1892;34767539;799564
-2021-03-27;;North America;75023;1389;34842562;800953
-2021-03-28;;North America;52501;755;34895063;801708
-2021-03-29;;North America;79863;987;34974926;802695
+2020-04-23;;North America;37058;2756;957278;57080
+2020-04-24;;North America;35795;2542;993073;59622
+2020-04-25;;North America;33370;2002;1026443;61624
+2020-04-26;;North America;29581;1619;1056024;63243
+2020-04-27;;North America;26666;1786;1082690;65029
+2020-04-28;;North America;27579;2568;1110269;67597
+2020-04-29;;North America;29964;2845;1140233;70442
+2020-04-30;;North America;32873;2531;1173106;72973
+2020-05-01;;North America;38991;2244;1212097;75217
+2020-05-02;;North America;31335;1993;1243432;77210
+2020-05-03;;North America;28795;1439;1272227;78649
+2020-05-04;;North America;27600;1761;1299827;80410
+2020-05-05;;North America;27679;2682;1327506;83092
+2020-05-06;;North America;28498;2695;1356004;85787
+2020-05-07;;North America;31687;2362;1387691;88149
+2020-05-08;;North America;30932;2131;1418623;90280
+2020-05-09;;North America;29246;1837;1447869;92117
+2020-05-10;;North America;22618;1222;1470487;93339
+2020-05-11;;North America;22498;1304;1492985;94643
+2020-05-12;;North America;26695;2129;1519680;96772
+2020-05-13;;North America;24290;2155;1543970;98927
+2020-05-14;;North America;31099;2197;1575069;101124
+2020-05-15;;North America;29337;2094;1604406;103218
+2020-05-16;;North America;28428;1614;1632834;104832
+2020-05-17;;North America;22141;1054;1654975;105886
+2020-05-18;;North America;26850;1490;1681825;107376
+2020-05-19;;North America;26255;1893;1708080;109269
+2020-05-20;;North America;26712;2061;1734792;111330
+2020-05-21;;North America;30897;1726;1765689;113056
+2020-05-22;;North America;28986;1824;1794675;114880
+2020-05-23;;North America;26897;1383;1821572;116263
+2020-05-24;;North America;25555;966;1847127;117229
+2020-05-25;;North America;23428;935;1870555;118164
+2020-05-26;;North America;25598;1311;1896153;119475
+2020-05-27;;North America;24297;2045;1920450;121520
+2020-05-28;;North America;27978;1697;1948428;123217
+2020-05-29;;North America;30037;1607;1978465;124824
+2020-05-30;;North America;28920;1415;2007385;126239
+2020-05-31;;North America;24513;840;2031898;127079
+2020-06-01;;North America;22499;1086;2054397;128165
+2020-06-02;;North America;27642;1560;2082039;129725
+2020-06-03;;North America;25799;2196;2107838;131921
+2020-06-04;;North America;28424;1929;2136262;133850
+2020-06-05;;North America;31872;1637;2168134;135487
+2020-06-06;;North America;26998;1089;2195132;136576
+2020-06-07;;North America;23805;724;2218937;137300
+2020-06-08;;North America;23033;934;2241970;138234
+2020-06-09;;North America;25302;1598;2267272;139832
+2020-06-10;;North America;28684;1686;2295956;141518
+2020-06-11;;North America;30651;1493;2326607;143011
+2020-06-12;;North America;32937;1403;2359544;144414
+2020-06-13;;North America;31717;1232;2391261;145646
+2020-06-14;;North America;26150;674;2417411;146320
+2020-06-15;;North America;25044;897;2442455;147217
+2020-06-16;;North America;31145;1628;2473600;148845
+2020-06-17;;North America;34984;1587;2508584;150432
+2020-06-18;;North America;37259;1409;2545843;151841
+2020-06-19;;North America;39949;1368;2585792;153209
+2020-06-20;;North America;40839;1043;2626631;154252
+2020-06-21;;North America;33673;1420;2660304;155672
+2020-06-22;;North America;40046;1272;2700350;156944
+2020-06-23;;North America;46945;1647;2747295;158591
+2020-06-24;;North America;44287;1789;2791582;160380
+2020-06-25;;North America;50421;1352;2842003;161732
+2020-06-26;;North America;54374;1481;2896377;163213
+2020-06-27;;North America;49673;1195;2946050;164408
+2020-06-28;;North America;49035;649;2995085;165057
+2020-06-29;;North America;48869;935;3043954;165992
+2020-06-30;;North America;56012;1307;3099966;167299
+2020-07-01;;North America;61736;1576;3161702;168875
+2020-07-02;;North America;67816;1529;3229518;170404
+2020-07-03;;North America;62983;1433;3292501;171837
+2020-07-04;;North America;57483;945;3349984;172782
+2020-07-05;;North America;60622;680;3410606;173462
+2020-07-06;;North America;52315;966;3462921;174428
+2020-07-07;;North America;70871;2169;3533792;176597
+2020-07-08;;North America;71377;1737;3605169;178334
+2020-07-09;;North America;74916;1846;3680085;180180
+2020-07-10;;North America;79802;1637;3759887;181817
+2020-07-11;;North America;70812;1384;3830699;183201
+2020-07-12;;North America;67811;849;3898510;184050
+2020-07-13;;North America;68427;1021;3966937;185071
+2020-07-14;;North America;79952;1903;4046889;186974
+2020-07-15;;North America;80115;1686;4127004;188660
+2020-07-16;;North America;87561;1745;4214565;190405
+2020-07-17;;North America;84848;1789;4299413;192194
+2020-07-18;;North America;78957;1574;4378370;193768
+2020-07-19;;North America;71265;866;4449635;194634
+2020-07-20;;North America;72136;976;4521771;195610
+2020-07-21;;North America;76379;2155;4598150;197765
+2020-07-22;;North America;81598;2123;4679748;199888
+2020-07-23;;North America;83113;1927;4762861;201815
+2020-07-24;;North America;87039;2013;4849900;203828
+2020-07-25;;North America;78220;1779;4928120;205607
+2020-07-26;;North America;66650;942;4994770;206549
+2020-07-27;;North America;66674;1620;5061444;208169
+2020-07-28;;North America;78503;2346;5139947;210515
+2020-07-29;;North America;83223;2084;5223170;212599
+2020-07-30;;North America;80824;2028;5303994;214627
+2020-07-31;;North America;83170;2051;5387164;216678
+2020-08-01;;North America;71632;2003;5458796;218681
+2020-08-02;;North America;54675;801;5513471;219482
+2020-08-03;;North America;54144;927;5567615;220409
+2020-08-04;;North America;70295;2327;5637910;222736
+2020-08-05;;North America;66243;2353;5704153;225089
+2020-08-06;;North America;71079;2207;5775232;227296
+2020-08-07;;North America;71997;2155;5847229;229451
+2020-08-08;;North America;65946;1888;5913175;231339
+2020-08-09;;North America;54105;966;5967280;232305
+2020-08-10;;North America;57561;1394;6024841;233699
+2020-08-11;;North America;59588;2030;6084429;235729
+2020-08-12;;North America;66746;2360;6151175;238089
+2020-08-13;;North America;64505;1795;6215680;239884
+2020-08-14;;North America;76606;2067;6292286;241951
+2020-08-15;;North America;58641;1737;6350927;243688
+2020-08-16;;North America;47913;914;6398840;244602
+2020-08-17;;North America;43453;845;6442293;245447
+2020-08-18;;North America;54858;2126;6497151;247573
+2020-08-19;;North America;58515;2123;6555666;249696
+2020-08-20;;North America;54777;1814;6610443;251510
+2020-08-21;;North America;59933;1702;6670376;253212
+2020-08-22;;North America;54463;1737;6724839;254949
+2020-08-23;;North America;42686;797;6767525;255746
+2020-08-24;;North America;44433;903;6811958;256649
+2020-08-25;;North America;49977;1978;6861935;258627
+2020-08-26;;North America;55524;1955;6917459;260582
+2020-08-27;;North America;56608;1753;6974067;262335
+2020-08-28;;North America;58356;1634;7032423;263969
+2020-08-29;;North America;53388;1676;7085811;265645
+2020-08-30;;North America;41282;861;7127093;266506
+2020-08-31;;North America;44674;900;7171767;267406
+2020-09-01;;North America;52470;1976;7224237;269382
+2020-09-02;;North America;50858;1749;7275095;271131
+2020-09-03;;North America;55592;1675;7330687;272806
+2020-09-04;;North America;60823;1560;7391510;274366
+2020-09-05;;North America;55372;1383;7446882;275749
+2020-09-06;;North America;38455;713;7485337;276462
+2020-09-07;;North America;30998;628;7516335;277090
+2020-09-08;;North America;38379;1269;7554714;278359
+2020-09-09;;North America;43425;1795;7598139;280154
+2020-09-10;;North America;46081;1595;7644220;281749
+2020-09-11;;North America;58352;1784;7702572;283533
+2020-09-12;;North America;52663;1218;7755235;284751
+2020-09-13;;North America;41685;701;7796920;285452
+2020-09-14;;North America;43637;767;7840557;286219
+2020-09-15;;North America;48295;1902;7888852;288121
+2020-09-16;;North America;48775;1334;7937627;289455
+2020-09-17;;North America;53835;1177;7991462;290632
+2020-09-18;;North America;59953;1666;8051415;292298
+2020-09-19;;North America;52819;1297;8104234;293595
+2020-09-20;;North America;45654;569;8149888;294164
+2020-09-21;;North America;61083;736;8210971;294900
+2020-09-22;;North America;49655;1754;8260626;296654
+2020-09-23;;North America;49180;1747;8309806;298401
+2020-09-24;;North America;57871;1485;8367677;299886
+2020-09-25;;North America;60061;1433;8427738;301319
+2020-09-26;;North America;55360;1272;8483098;302591
+2020-09-27;;North America;44884;547;8527982;303138
+2020-09-28;;North America;42760;620;8570742;303758
+2020-09-29;;North America;53318;1519;8624060;305277
+2020-09-30;;North America;51012;1531;8675072;306808
+2020-10-01;;North America;56584;1398;8731656;308206
+2020-10-02;;North America;65798;1431;8797454;309637
+2020-10-03;;North America;59125;1170;8856579;310807
+2020-10-04;;North America;44263;691;8900842;311498
+2020-10-05;;North America;74610;3378;8975452;314876
+2020-10-06;;North America;56300;1248;9031752;316124
+2020-10-07;;North America;61769;1411;9093521;317535
+2020-10-08;;North America;70852;1447;9164373;318982
+2020-10-09;;North America;69072;1448;9233445;320430
+2020-10-10;;North America;65916;894;9299361;321324
+2020-10-11;;North America;53530;670;9352891;321994
+2020-10-12;;North America;49808;646;9402699;322640
+2020-10-13;;North America;63824;1369;9466523;324009
+2020-10-14;;North America;71241;1544;9537764;325553
+2020-10-15;;North America;77227;1363;9614991;326916
+2020-10-16;;North America;82502;1454;9697493;328370
+2020-10-17;;North America;66580;1219;9764073;329589
+2020-10-18;;North America;59900;669;9823973;330258
+2020-10-19;;North America;78473;745;9902446;331003
+2020-10-20;;North America;73903;1546;9976349;332549
+2020-10-21;;North America;77028;1783;10053377;334332
+2020-10-22;;North America;89736;991;10143113;335323
+2020-10-23;;North America;94467;1930;10237580;337253
+2020-10-24;;North America;95704;1475;10333284;338728
+2020-10-25;;North America;71418;731;10404702;339459
+2020-10-26;;North America;79239;882;10483941;340341
+2020-10-27;;North America;88881;1702;10572822;342043
+2020-10-28;;North America;91867;1640;10664689;343683
+2020-10-29;;North America;104403;1575;10769092;345258
+2020-10-30;;North America;112912;1690;10882004;346948
+2020-10-31;;North America;101725;1470;10983729;348418
+2020-11-01;;North America;114995;705;11098724;349123
+2020-11-02;;North America;95146;866;11193870;349989
+2020-11-03;;North America;139950;2199;11333820;352188
+2020-11-04;;North America;116046;1866;11449866;354054
+2020-11-05;;North America;141932;1792;11591798;355846
+2020-11-06;;North America;143285;1911;11735083;357757
+2020-11-07;;North America;141966;1661;11877049;359418
+2020-11-08;;North America;127020;876;12004069;360294
+2020-11-09;;North America;133652;1106;12137721;361400
+2020-11-10;;North America;154581;2161;12292302;363561
+2020-11-11;;North America;162047;2145;12454349;365706
+2020-11-12;;North America;180602;1951;12634951;367657
+2020-11-13;;North America;195662;1911;12830613;369568
+2020-11-14;;North America;182163;2120;13012776;371688
+2020-11-15;;North America;146580;1155;13159356;372843
+2020-11-16;;North America;175529;1287;13334885;374130
+2020-11-17;;North America;173909;1998;13508794;376128
+2020-11-18;;North America;185764;2640;13694558;378768
+2020-11-19;;North America;205389;2771;13899947;381539
+2020-11-20;;North America;213803;2797;14113750;384336
+2020-11-21;;North America;195046;2274;14308796;386610
+2020-11-22;;North America;163413;1416;14472209;388026
+2020-11-23;;North America;193978;1515;14666187;389541
+2020-11-24;;North America;195345;3101;14861532;392642
+2020-11-25;;North America;203612;3241;15065144;395883
+2020-11-26;;North America;132173;2181;15197317;398064
+2020-11-27;;North America;231526;2330;15428843;400394
+2020-11-28;;North America;175818;2061;15604661;402455
+2020-11-29;;North America;154187;1353;15758848;403808
+2020-11-30;;North America;179790;1816;15938638;405624
+2020-12-01;;North America;206562;3493;16145200;409117
+2020-12-02;;North America;226083;3785;16371283;412902
+2020-12-03;;North America;247513;3742;16618796;416644
+2020-12-04;;North America;257251;3538;16876047;420182
+2020-12-05;;North America;238007;3066;17114054;423248
+2020-12-06;;North America;199387;1745;17313441;424993
+2020-12-07;;North America;214654;2196;17528095;427189
+2020-12-08;;North America;247103;3599;17775198;430788
+2020-12-09;;North America;247201;4165;18022399;434953
+2020-12-10;;North America;256805;3881;18279204;438834
+2020-12-11;;North America;264799;4316;18544003;443150
+2020-12-12;;North America;241571;3310;18785574;446460
+2020-12-13;;North America;206624;2017;18992198;448477
+2020-12-14;;North America;213629;2256;19205827;450733
+2020-12-15;;North America;232992;4138;19438819;454871
+2020-12-16;;North America;270228;4608;19709047;459479
+2020-12-17;;North America;264796;4459;19973843;463938
+2020-12-18;;North America;277258;3908;20251101;467846
+2020-12-19;;North America;216491;3456;20467592;471302
+2020-12-20;;North America;206288;2213;20673880;473515
+2020-12-21;;North America;217908;2573;20891788;476088
+2020-12-22;;North America;223317;4538;21115105;480626
+2020-12-23;;North America;254498;4471;21369603;485097
+2020-12-24;;North America;220980;4019;21590583;489116
+2020-12-25;;North America;114529;2194;21705112;491310
+2020-12-26;;North America;238092;2215;21943204;493525
+2020-12-27;;North America;175869;2012;22119073;495537
+2020-12-28;;North America;194801;2721;22313874;498258
+2020-12-29;;North America;229381;4932;22543255;503190
+2020-12-30;;North America;263304;5008;22806559;508198
+2020-12-31;;North America;263496;4572;23070055;512770
+2021-01-01;;North America;171785;2981;23241840;515751
+2021-01-02;;North America;314452;3015;23556292;518766
+2021-01-03;;North America;234318;1986;23790610;520752
+2021-01-04;;North America;209568;3001;24000178;523753
+2021-01-05;;North America;260718;4999;24260896;528752
+2021-01-06;;North America;286413;5367;24547309;534119
+2021-01-07;;North America;308950;5288;24856259;539407
+2021-01-08;;North America;325388;5434;25181647;544841
+2021-01-09;;North America;296414;4713;25478061;549554
+2021-01-10;;North America;236496;2696;25714557;552250
+2021-01-11;;North America;238095;3002;25952652;555252
+2021-01-12;;North America;258056;6105;26210708;561357
+2021-01-13;;North America;262426;5574;26473134;566931
+2021-01-14;;North America;267984;5265;26741118;572196
+2021-01-15;;North America;277820;5281;27018938;577477
+2021-01-16;;North America;237063;4882;27256001;582359
+2021-01-17;;North America;200609;2569;27456610;584928
+2021-01-18;;North America;165135;2332;27621745;587260
+2021-01-19;;North America;208311;4611;27830056;591871
+2021-01-20;;North America;216597;6272;28046653;598143
+2021-01-21;;North America;230397;6260;28277050;604403
+2021-01-22;;North America;224617;5581;28501667;609984
+2021-01-23;;North America;202175;5049;28703842;615033
+2021-01-24;;North America;151948;2631;28855790;617664
+2021-01-25;;North America;172057;2884;29027847;620548
+2021-01-26;;North America;175299;6049;29203146;626597
+2021-01-27;;North America;182815;5809;29385961;632406
+2021-01-28;;North America;198956;5869;29584917;638275
+2021-01-29;;North America;194610;5327;29779527;643602
+2021-01-30;;North America;167963;4513;29947490;648115
+2021-01-31;;North America;128770;2489;30076260;650604
+2021-02-01;;North America;149835;2840;30226095;653444
+2021-02-02;;North America;128472;4122;30354567;657566
+2021-02-03;;North America;144502;5849;30499069;663415
+2021-02-04;;North America;134410;4006;30633479;667421
+2021-02-05;;North America;171186;6938;30804665;674359
+2021-02-06;;North America;126216;4316;30930881;678675
+2021-02-07;;North America;102869;1953;31033750;680628
+2021-02-08;;North America;103147;2340;31136897;682968
+2021-02-09;;North America;113542;5013;31250439;687981
+2021-02-10;;North America;114798;4860;31365237;692841
+2021-02-11;;North America;125359;4873;31490596;697714
+2021-02-12;;North America;118584;4421;31609180;702135
+2021-02-13;;North America;105410;3578;31714590;705713
+2021-02-14;;North America;74434;1669;31789024;707382
+2021-02-15;;North America;63978;1544;31853002;708926
+2021-02-16;;North America;80307;3236;31933309;712162
+2021-02-17;;North America;86215;3614;32019524;715776
+2021-02-18;;North America;87715;3714;32107239;719490
+2021-02-19;;North America;95288;3688;32202527;723178
+2021-02-20;;North America;86322;2764;32288849;725942
+2021-02-21;;North America;66664;1652;32355513;727594
+2021-02-22;;North America;66688;1885;32422201;729479
+2021-02-23;;North America;88316;3657;32510517;733136
+2021-02-24;;North America;90945;4326;32601462;737462
+2021-02-25;;North America;93104;3380;32694566;740842
+2021-02-26;;North America;92401;3005;32786967;743847
+2021-02-27;;North America;78433;2427;32865400;746274
+2021-02-28;;North America;59328;1612;32924728;747886
+2021-03-01;;North America;68693;2076;32993421;749962
+2021-03-02;;North America;72761;3087;33066182;753049
+2021-03-03;;North America;81955;3511;33148137;756560
+2021-03-04;;North America;82751;2872;33230888;759432
+2021-03-05;;North America;79726;2591;33310614;762023
+2021-03-06;;North America;71248;2361;33381862;764384
+2021-03-07;;North America;49878;1021;33431740;765405
+2021-03-08;;North America;54115;1158;33485855;766563
+2021-03-09;;North America;73580;2786;33559435;769349
+2021-03-10;;North America;72138;2369;33631573;771718
+2021-03-11;;North America;76673;2324;33708246;774042
+2021-03-12;;North America;76955;2380;33785201;776422
+2021-03-13;;North America;65552;2453;33850753;778875
+2021-03-14;;North America;46266;858;33897019;779733
+2021-03-15;;North America;65171;1081;33962190;780814
+2021-03-16;;North America;63619;1445;34025809;782259
+2021-03-17;;North America;73323;2083;34099132;784342
+2021-03-18;;North America;74792;2409;34173924;786751
+2021-03-19;;North America;77131;1827;34251055;788578
+2021-03-20;;North America;68522;1476;34319577;790054
+2021-03-21;;North America;42886;726;34362463;790780
+2021-03-22;;North America;60909;864;34423372;791644
+2021-03-23;;North America;68349;1762;34491721;793406
+2021-03-24;;North America;101037;2120;34592758;795526
+2021-03-25;;North America;82241;2230;34674999;797756
+2021-03-26;;North America;93197;1892;34768196;799648
+2021-03-27;;North America;75031;1389;34843227;801037
+2021-03-28;;North America;52501;755;34895728;801792
+2021-03-29;;North America;79865;987;34975593;802779
+2021-03-30;;North America;74767;1777;35050360;804556
 2020-02-26;MK;North Macedonia;1;0;1;0
 2020-02-27;MK;North Macedonia;0;0;1;0
 2020-02-28;MK;North Macedonia;0;0;1;0
@@ -52240,6 +52384,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;MK;North Macedonia;1320;35;126230;3642
 2021-03-28;MK;North Macedonia;708;33;126938;3675
 2021-03-29;MK;North Macedonia;302;41;127240;3716
+2021-03-30;MK;North Macedonia;1271;33;128511;3749
 2021-01-14;;Northern Cyprus;0;0;0;0
 2021-01-15;;Northern Cyprus;0;0;0;0
 2021-01-16;;Northern Cyprus;0;0;0;0
@@ -52712,6 +52857,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;NO;Norway;462;0;92469;656
 2021-03-28;NO;Norway;681;0;93150;656
 2021-03-29;NO;Norway;989;4;94139;660
+2021-03-30;NO;Norway;1069;1;95208;661
 2020-01-25;;Oceania;0;0;0;0
 2020-01-26;;Oceania;4;0;4;0
 2020-01-27;;Oceania;1;0;5;0
@@ -53142,6 +53288,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;Oceania;8;0;36497;976
 2021-03-28;;Oceania;552;6;37049;982
 2021-03-29;;Oceania;187;4;37236;986
+2021-03-30;;Oceania;281;7;37517;993
 2020-02-24;OM;Oman;2;0;2;0
 2020-02-25;OM;Oman;0;0;2;0
 2020-02-26;OM;Oman;2;0;4;0
@@ -53542,6 +53689,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;OM;Oman;0;0;153838;1650
 2021-03-28;OM;Oman;2249;11;156087;1661
 2021-03-29;OM;Oman;796;1;156883;1662
+2021-03-30;OM;Oman;1173;7;158056;1669
 2020-02-25;PK;Pakistan;2;0;2;0
 2020-02-26;PK;Pakistan;0;0;2;0
 2020-02-27;PK;Pakistan;0;0;2;0
@@ -53941,6 +54089,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PK;Pakistan;4767;57;654591;14215
 2021-03-28;PK;Pakistan;4525;41;659116;14256
 2021-03-29;PK;Pakistan;4084;100;663200;14356
+2021-03-30;PK;Pakistan;4757;78;667957;14434
 2020-03-05;PS;Palestine;4;0;4;0
 2020-03-06;PS;Palestine;3;0;7;0
 2020-03-07;PS;Palestine;9;0;16;0
@@ -54331,6 +54480,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PS;Palestine;1199;20;234748;2557
 2021-03-28;PS;Palestine;1714;24;236462;2581
 2021-03-29;PS;Palestine;1786;18;238248;2599
+2021-03-30;PS;Palestine;1817;15;240065;2614
 2020-03-09;PA;Panama;0;0;0;0
 2020-03-10;PA;Panama;1;0;1;0
 2020-03-11;PA;Panama;7;1;8;1
@@ -54717,6 +54867,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PA;Panama;480;3;353497;6090
 2021-03-28;PA;Panama;342;10;353839;6100
 2021-03-29;PA;Panama;246;3;354085;6103
+2021-03-30;PA;Panama;519;6;354604;6109
 2020-03-20;PG;Papua New Guinea;1;0;1;0
 2020-03-21;PG;Papua New Guinea;0;0;1;0
 2020-03-22;PG;Papua New Guinea;0;0;1;0
@@ -55092,6 +55243,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PG;Papua New Guinea;0;0;4660;39
 2021-03-28;PG;Papua New Guinea;524;6;5184;45
 2021-03-29;PG;Papua New Guinea;165;4;5349;49
+2021-03-30;PG;Papua New Guinea;271;7;5620;56
 2020-03-07;PY;Paraguay;0;0;0;0
 2020-03-08;PY;Paraguay;1;0;1;0
 2020-03-09;PY;Paraguay;0;0;1;0
@@ -55480,6 +55632,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PY;Paraguay;1893;45;206597;4003
 2021-03-28;PY;Paraguay;2058;60;208655;4063
 2021-03-29;PY;Paraguay;1770;50;210425;4113
+2021-03-30;PY;Paraguay;2266;48;212691;4161
 2020-01-13;PE;Peru;0;0;0;0
 2020-01-14;PE;Peru;0;0;0;0
 2020-01-15;PE;Peru;0;0;0;0
@@ -55922,6 +56075,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PE;Peru;8589;206;1520973;51238
 2021-03-28;PE;Peru;8909;231;1529882;51469
 2021-03-29;PE;Peru;3239;166;1533121;51635
+2021-03-30;PE;Peru;0;0;1533121;51635
 2020-01-30;PH;Philippines;1;0;1;0
 2020-01-31;PH;Philippines;0;0;1;0
 2020-02-01;PH;Philippines;0;0;1;0
@@ -56347,6 +56501,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PH;Philippines;9586;10;712442;13159
 2021-03-28;PH;Philippines;9450;11;721892;13170
 2021-03-29;PH;Philippines;10002;16;731894;13186
+2021-03-30;PH;Philippines;9287;5;741181;13191
 2020-03-04;PL;Poland;1;0;1;0
 2020-03-05;PL;Poland;0;0;1;0
 2020-03-06;PL;Poland;4;0;5;0
@@ -56738,6 +56893,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PL;Poland;31759;448;2221725;51753
 2021-03-28;PL;Poland;29266;131;2250991;51884
 2021-03-29;PL;Poland;16973;48;2267964;51932
+2021-03-30;PL;Poland;20862;460;2288826;52392
 2020-02-02;PT;Portugal;0;0;0;0
 2020-02-09;PT;Portugal;0;0;0;0
 2020-02-15;PT;Portugal;0;0;0;0
@@ -57136,6 +57292,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;PT;Portugal;344;8;820042;16827
 2021-03-28;PT;Portugal;365;10;820407;16837
 2021-03-29;PT;Portugal;309;6;820716;16843
+2021-03-30;PT;Portugal;388;2;821104;16845
 2020-02-29;QA;Qatar;1;0;1;0
 2020-03-01;QA;Qatar;2;0;3;0
 2020-03-02;QA;Qatar;0;0;3;0
@@ -57531,6 +57688,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;QA;Qatar;614;2;177135;284
 2021-03-28;QA;Qatar;639;0;177774;284
 2021-03-29;QA;Qatar;690;2;178464;286
+2021-03-30;QA;Qatar;720;3;179184;289
 2020-02-26;RO;Romania;1;0;1;0
 2020-02-27;RO;Romania;0;0;1;0
 2020-02-28;RO;Romania;2;0;3;0
@@ -57929,6 +58087,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;RO;Romania;5869;162;932179;22997
 2021-03-28;RO;Romania;4439;117;936618;23114
 2021-03-29;RO;Romania;3825;120;940443;23234
+2021-03-30;RO;Romania;6204;175;946647;23409
 2020-01-31;RU;Russia;2;0;2;0
 2020-02-01;RU;Russia;0;0;2;0
 2020-02-02;RU;Russia;0;0;2;0
@@ -58353,6 +58512,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;RU;Russia;8783;382;4460348;95792
 2021-03-28;RU;Russia;8979;331;4469327;96123
 2021-03-29;RU;Russia;8589;290;4477916;96413
+2021-03-30;RU;Russia;8162;404;4486078;96817
 2020-03-14;RW;Rwanda;1;0;1;0
 2020-03-15;RW;Rwanda;0;0;1;0
 2020-03-16;RW;Rwanda;4;0;5;0
@@ -58734,6 +58894,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;RW;Rwanda;61;1;21370;301
 2021-03-28;RW;Rwanda;49;0;21419;301
 2021-03-29;RW;Rwanda;71;4;21490;305
+2021-03-30;RW;Rwanda;155;1;21645;306
 2021-02-03;SH;Saint Helena;0;0;0;0
 2021-02-04;SH;Saint Helena;0;0;0;0
 2021-02-05;SH;Saint Helena;0;0;0;0
@@ -59145,6 +59306,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KN;Saint Kitts and Nevis;0;0;44;0
 2021-03-28;KN;Saint Kitts and Nevis;0;0;44;0
 2021-03-29;KN;Saint Kitts and Nevis;0;0;44;0
+2021-03-30;KN;Saint Kitts and Nevis;0;0;44;0
 2020-03-14;LC;Saint Lucia;1;0;1;0
 2020-03-15;LC;Saint Lucia;1;0;2;0
 2020-03-16;LC;Saint Lucia;0;0;2;0
@@ -59526,6 +59688,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LC;Saint Lucia;0;0;4191;58
 2021-03-28;LC;Saint Lucia;0;0;4191;58
 2021-03-29;LC;Saint Lucia;11;0;4202;58
+2021-03-30;LC;Saint Lucia;26;1;4228;59
 2020-03-14;VC;Saint Vincent and the Grenadines;1;0;1;0
 2020-03-15;VC;Saint Vincent and the Grenadines;0;0;1;0
 2020-03-16;VC;Saint Vincent and the Grenadines;0;0;1;0
@@ -59907,6 +60070,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;VC;Saint Vincent and the Grenadines;2;0;1723;10
 2021-03-28;VC;Saint Vincent and the Grenadines;15;0;1738;10
 2021-03-29;VC;Saint Vincent and the Grenadines;1;0;1739;10
+2021-03-30;VC;Saint Vincent and the Grenadines;0;0;1739;10
 2020-11-18;WS;Samoa;1;0;1;0
 2020-11-19;WS;Samoa;0;0;1;0
 2020-11-20;WS;Samoa;0;0;1;0
@@ -60039,6 +60203,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;WS;Samoa;0;0;3;0
 2021-03-28;WS;Samoa;0;0;3;0
 2021-03-29;WS;Samoa;0;0;3;0
+2021-03-30;WS;Samoa;0;0;3;0
 2020-02-27;SM;San Marino;1;0;1;0
 2020-02-28;SM;San Marino;0;0;1;0
 2020-02-29;SM;San Marino;0;0;1;0
@@ -60436,6 +60601,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SM;San Marino;56;0;4603;84
 2021-03-28;SM;San Marino;0;0;4603;84
 2021-03-29;SM;San Marino;28;0;4631;84
+2021-03-30;SM;San Marino;47;0;4678;84
 2020-04-06;ST;Sao Tome and Principe;4;0;4;0
 2020-04-07;ST;Sao Tome and Principe;0;0;4;0
 2020-04-08;ST;Sao Tome and Principe;0;0;4;0
@@ -60794,6 +60960,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ST;Sao Tome and Principe;14;0;2210;34
 2021-03-28;ST;Sao Tome and Principe;2;0;2212;34
 2021-03-29;ST;Sao Tome and Principe;3;0;2215;34
+2021-03-30;ST;Sao Tome and Principe;6;0;2221;34
 2020-03-02;SA;Saudi Arabia;1;0;1;0
 2020-03-03;SA;Saudi Arabia;0;0;1;0
 2020-03-04;SA;Saudi Arabia;0;0;1;0
@@ -61187,6 +61354,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SA;Saudi Arabia;502;6;387794;6643
 2021-03-28;SA;Saudi Arabia;531;7;388325;6650
 2021-03-29;SA;Saudi Arabia;541;6;388866;6656
+2021-03-30;SA;Saudi Arabia;556;7;389422;6663
 2020-02-28;SN;Senegal;0;0;0;0
 2020-02-29;SN;Senegal;0;0;0;0
 2020-03-01;SN;Senegal;0;0;0;0
@@ -61583,6 +61751,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SN;Senegal;102;3;38456;1034
 2021-03-28;SN;Senegal;64;3;38520;1037
 2021-03-29;SN;Senegal;46;7;38566;1044
+2021-03-30;SN;Senegal;52;5;38618;1049
 2020-02-26;RS;Serbia;0;0;0;0
 2020-02-27;RS;Serbia;0;0;0;0
 2020-02-28;RS;Serbia;0;0;0;0
@@ -61981,6 +62150,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;RS;Serbia;9722;76;581617;5151
 2021-03-28;RS;Serbia;3889;39;585506;5190
 2021-03-29;RS;Serbia;0;0;585506;5190
+2021-03-30;RS;Serbia;9983;80;595489;5270
 2020-03-14;SC;Seychelles;2;0;2;0
 2020-03-15;SC;Seychelles;0;0;2;0
 2020-03-16;SC;Seychelles;1;0;3;0
@@ -62362,6 +62532,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SC;Seychelles;0;0;3996;20
 2021-03-28;SC;Seychelles;88;0;4084;20
 2021-03-29;SC;Seychelles;30;0;4114;20
+2021-03-30;SC;Seychelles;0;0;4114;20
 2020-03-31;SL;Sierra Leone;1;0;1;0
 2020-04-01;SL;Sierra Leone;1;0;2;0
 2020-04-02;SL;Sierra Leone;0;0;2;0
@@ -62726,6 +62897,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SL;Sierra Leone;0;0;3962;79
 2021-03-28;SL;Sierra Leone;8;0;3970;79
 2021-03-29;SL;Sierra Leone;0;0;3970;79
+2021-03-30;SL;Sierra Leone;0;0;3970;79
 2020-01-23;SG;Singapore;1;0;1;0
 2020-01-24;SG;Singapore;2;0;3;0
 2020-01-25;SG;Singapore;0;0;3;0
@@ -63158,6 +63330,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SG;Singapore;23;0;60288;30
 2021-03-28;SG;Singapore;12;0;60300;30
 2021-03-29;SG;Singapore;21;0;60321;30
+2021-03-30;SG;Singapore;26;0;60347;30
 2020-03-06;SK;Slovakia;1;0;1;0
 2020-03-07;SK;Slovakia;0;0;1;0
 2020-03-08;SK;Slovakia;2;0;3;0
@@ -63547,6 +63720,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SK;Slovakia;1531;53;356985;9426
 2021-03-28;SK;Slovakia;925;70;357910;9496
 2021-03-29;SK;Slovakia;205;46;358115;9542
+2021-03-30;SK;Slovakia;1215;82;359330;9624
 2020-02-02;SI;Slovenia;0;0;0;0
 2020-02-03;SI;Slovenia;0;0;0;0
 2020-02-04;SI;Slovenia;0;0;0;0
@@ -63969,6 +64143,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SI;Slovenia;1255;3;212040;4011
 2021-03-28;SI;Slovenia;638;7;212678;4018
 2021-03-29;SI;Slovenia;288;6;212966;4024
+2021-03-30;SI;Slovenia;1079;16;214045;4040
 2020-10-12;SB;Solomon Islands;2;0;2;0
 2020-10-13;SB;Solomon Islands;0;0;2;0
 2020-10-14;SB;Solomon Islands;0;0;2;0
@@ -64138,6 +64313,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SB;Solomon Islands;0;0;18;0
 2021-03-28;SB;Solomon Islands;0;0;18;0
 2021-03-29;SB;Solomon Islands;0;0;18;0
+2021-03-30;SB;Solomon Islands;0;0;18;0
 2020-03-16;SO;Somalia;1;0;1;0
 2020-03-17;SO;Somalia;0;0;1;0
 2020-03-18;SO;Somalia;0;0;1;0
@@ -64517,6 +64693,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SO;Somalia;174;17;10838;488
 2021-03-28;SO;Somalia;139;8;10977;496
 2021-03-29;SO;Somalia;187;14;11164;510
+2021-03-30;SO;Somalia;128;11;11292;521
 2020-02-07;ZA;South Africa;0;0;0;0
 2020-02-08;ZA;South Africa;0;0;0;0
 2020-02-09;ZA;South Africa;0;0;0;0
@@ -64934,6 +65111,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ZA;South Africa;1387;46;1544466;52648
 2021-03-28;ZA;South Africa;965;15;1545431;52663
 2021-03-29;ZA;South Africa;548;47;1545979;52710
+2021-03-30;ZA;South Africa;756;78;1546735;52788
 2020-02-22;;South America;0;0;0;0
 2020-02-23;;South America;2;0;2;0
 2020-02-24;;South America;0;0;2;0
@@ -65336,6 +65514,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;;South America;128218;4140;20726934;538304
 2021-03-28;;South America;82297;2400;20809231;540704
 2021-03-29;;South America;77088;2538;20886319;543242
+2021-03-30;;South America;117245;4267;21003564;547509
 2020-01-21;KR;South Korea;0;0;0;0
 2020-01-22;KR;South Korea;0;0;1;0
 2020-01-23;KR;South Korea;0;0;1;0
@@ -65770,6 +65949,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;KR;South Korea;482;1;101757;1722
 2021-03-28;KR;South Korea;384;4;102141;1726
 2021-03-29;KR;South Korea;441;3;102582;1729
+2021-03-30;KR;South Korea;506;2;103088;1731
 2020-04-05;SS;South Sudan;1;0;1;0
 2020-04-06;SS;South Sudan;0;0;1;0
 2020-04-07;SS;South Sudan;1;0;2;0
@@ -66129,6 +66309,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SS;South Sudan;31;0;10079;108
 2021-03-28;SS;South Sudan;19;0;10098;108
 2021-03-29;SS;South Sudan;21;0;10119;108
+2021-03-30;SS;South Sudan;0;0;10119;108
 2020-02-01;ES;Spain;1;0;1;0
 2020-02-02;ES;Spain;0;0;1;0
 2020-02-03;ES;Spain;0;0;1;0
@@ -66552,6 +66733,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ES;Spain;0;0;3255324;75010
 2021-03-28;ES;Spain;0;0;3255324;75010
 2021-03-29;ES;Spain;15501;189;3270825;75199
+2021-03-30;ES;Spain;4994;106;3275819;75305
 2020-01-27;LK;Sri Lanka;1;0;1;0
 2020-01-28;LK;Sri Lanka;0;0;1;0
 2020-01-29;LK;Sri Lanka;0;0;1;0
@@ -66980,6 +67162,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;LK;Sri Lanka;278;1;91839;558
 2021-03-28;LK;Sri Lanka;249;3;92088;561
 2021-03-29;LK;Sri Lanka;215;5;92303;566
+2021-03-30;LK;Sri Lanka;139;0;92442;566
 2020-03-12;SD;Sudan;0;0;0;0
 2020-03-13;SD;Sudan;0;1;0;1
 2020-03-14;SD;Sudan;1;0;1;1
@@ -67363,6 +67546,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SD;Sudan;0;0;31407;2028
 2021-03-28;SD;Sudan;0;0;31407;2028
 2021-03-29;SD;Sudan;0;0;31407;2028
+2021-03-30;SD;Sudan;0;13;31407;2041
 2020-03-14;SR;Suriname;1;0;1;0
 2020-03-15;SR;Suriname;0;0;1;0
 2020-03-16;SR;Suriname;0;0;1;0
@@ -67744,6 +67928,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SR;Suriname;7;0;9095;177
 2021-03-28;SR;Suriname;2;0;9097;177
 2021-03-29;SR;Suriname;7;0;9104;177
+2021-03-30;SR;Suriname;5;0;9109;177
 2020-02-01;SE;Sweden;1;0;1;0
 2020-02-02;SE;Sweden;0;0;1;0
 2020-02-03;SE;Sweden;0;0;1;0
@@ -68167,6 +68352,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SE;Sweden;0;0;780018;13402
 2021-03-28;SE;Sweden;0;0;780018;13402
 2021-03-29;SE;Sweden;0;0;780018;13402
+2021-03-30;SE;Sweden;16427;28;796445;13430
 2020-02-06;CH;Switzerland;0;0;0;0
 2020-02-07;CH;Switzerland;0;0;0;0
 2020-02-08;CH;Switzerland;0;0;0;0
@@ -68585,6 +68771,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;CH;Switzerland;0;1;592217;10299
 2021-03-28;CH;Switzerland;0;1;592217;10300
 2021-03-29;CH;Switzerland;4573;5;596790;10305
+2021-03-30;CH;Switzerland;1923;17;598713;10322
 2020-03-22;SY;Syria;1;0;1;0
 2020-03-23;SY;Syria;0;0;1;0
 2020-03-24;SY;Syria;0;0;1;0
@@ -68958,6 +69145,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;SY;Syria;155;11;18356;1227
 2021-03-28;SY;Syria;142;12;18498;1239
 2021-03-29;SY;Syria;140;8;18638;1247
+2021-03-30;SY;Syria;137;7;18775;1254
 2020-01-16;TW;Taiwan;0;0;0;0
 2020-01-17;TW;Taiwan;0;0;0;0
 2020-01-18;TW;Taiwan;0;0;0;0
@@ -69397,6 +69585,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TW;Taiwan;7;0;1020;10
 2021-03-28;TW;Taiwan;2;0;1022;10
 2021-03-29;TW;Taiwan;1;0;1023;10
+2021-03-30;TW;Taiwan;1;0;1024;10
 2020-04-30;TJ;Tajikistan;15;0;15;0
 2020-05-01;TJ;Tajikistan;0;0;15;0
 2020-05-02;TJ;Tajikistan;61;2;76;2
@@ -69731,6 +69920,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TJ;Tajikistan;0;0;13308;90
 2021-03-28;TJ;Tajikistan;0;0;13308;90
 2021-03-29;TJ;Tajikistan;0;0;13308;90
+2021-03-30;TJ;Tajikistan;0;0;13308;90
 2020-03-16;TZ;Tanzania;1;0;1;0
 2020-03-17;TZ;Tanzania;0;0;1;0
 2020-03-18;TZ;Tanzania;2;0;3;0
@@ -70110,6 +70300,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TZ;Tanzania;0;0;509;21
 2021-03-28;TZ;Tanzania;0;0;509;21
 2021-03-29;TZ;Tanzania;0;0;509;21
+2021-03-30;TZ;Tanzania;0;0;509;21
 2020-01-04;TH;Thailand;0;0;0;0
 2020-01-05;TH;Thailand;0;0;0;0
 2020-01-06;TH;Thailand;0;0;0;0
@@ -70561,6 +70752,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TH;Thailand;80;1;28657;93
 2021-03-28;TH;Thailand;77;1;28734;94
 2021-03-29;TH;Thailand;39;0;28773;94
+2021-03-30;TH;Thailand;48;0;28821;94
 2020-03-22;TL;Timor;1;0;1;0
 2020-03-23;TL;Timor;0;0;1;0
 2020-03-24;TL;Timor;0;0;1;0
@@ -70934,6 +71126,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TL;Timor;28;0;480;0
 2021-03-28;TL;Timor;11;0;491;0
 2021-03-29;TL;Timor;21;0;512;0
+2021-03-30;TL;Timor;51;0;563;0
 2020-03-04;TG;Togo;0;0;0;0
 2020-03-05;TG;Togo;0;0;0;0
 2020-03-06;TG;Togo;1;0;1;0
@@ -71325,6 +71518,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TG;Togo;0;0;9676;107
 2021-03-28;TG;Togo;279;0;9955;107
 2021-03-29;TG;Togo;37;0;9992;107
+2021-03-30;TG;Togo;257;2;10249;109
 2020-03-14;TT;Trinidad and Tobago;2;0;2;0
 2020-03-15;TT;Trinidad and Tobago;0;0;2;0
 2020-03-16;TT;Trinidad and Tobago;2;0;4;0
@@ -71706,6 +71900,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TT;Trinidad and Tobago;15;1;7954;142
 2021-03-28;TT;Trinidad and Tobago;23;0;7977;142
 2021-03-29;TT;Trinidad and Tobago;9;0;7986;142
+2021-03-30;TT;Trinidad and Tobago;18;0;8004;142
 2020-03-04;TN;Tunisia;1;0;1;0
 2020-03-05;TN;Tunisia;0;0;1;0
 2020-03-06;TN;Tunisia;0;0;1;0
@@ -72097,6 +72292,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TN;Tunisia;921;21;249703;8705
 2021-03-28;TN;Tunisia;862;30;250565;8735
 2021-03-29;TN;Tunisia;604;25;251169;8760
+2021-03-30;TN;Tunisia;1002;28;252171;8788
 2020-03-11;TR;Turkey;1;0;1;0
 2020-03-12;TR;Turkey;0;0;1;0
 2020-03-13;TR;Turkey;4;0;5;0
@@ -72481,6 +72677,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;TR;Turkey;30021;151;3179115;30923
 2021-03-28;TR;Turkey;29058;153;3208173;31076
 2021-03-29;TR;Turkey;32404;154;3240577;31230
+2021-03-30;TR;Turkey;37303;155;3277880;31385
 2021-01-10;TC;Turks and Caicos Islands;0;0;0;0
 2021-01-11;TC;Turks and Caicos Islands;0;0;0;0
 2021-01-12;TC;Turks and Caicos Islands;0;0;0;0
@@ -72926,6 +73123,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;UG;Uganda;16;0;40767;335
 2021-03-28;UG;Uganda;27;0;40794;335
 2021-03-29;UG;Uganda;26;0;40820;335
+2021-03-30;UG;Uganda;19;0;40839;335
 2020-03-03;UA;Ukraine;1;0;1;0
 2020-03-04;UA;Ukraine;0;0;1;0
 2020-03-05;UA;Ukraine;0;0;1;0
@@ -73318,6 +73516,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;UA;Ukraine;17526;295;1682527;33363
 2021-03-28;UA;Ukraine;12041;208;1694568;33571
 2021-03-29;UA;Ukraine;8468;181;1703036;33752
+2021-03-30;UA;Ukraine;10648;291;1713684;34043
 2020-01-29;AE;United Arab Emirates;4;0;4;0
 2020-01-30;AE;United Arab Emirates;0;0;4;0
 2020-01-31;AE;United Arab Emirates;0;0;4;0
@@ -73744,6 +73943,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;AE;United Arab Emirates;2304;5;453069;1477
 2021-03-28;AE;United Arab Emirates;2128;4;455197;1481
 2021-03-29;AE;United Arab Emirates;1874;5;457071;1486
+2021-03-30;AE;United Arab Emirates;2289;6;459360;1492
 2020-01-31;GB;United Kingdom;2;0;2;0
 2020-02-01;GB;United Kingdom;0;0;2;0
 2020-02-02;GB;United Kingdom;0;0;2;0
@@ -74168,6 +74368,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;GB;United Kingdom;3909;58;4343066;126813
 2021-03-28;GB;United Kingdom;3947;21;4347013;126834
 2021-03-29;GB;United Kingdom;4783;23;4351796;126857
+2021-03-30;GB;United Kingdom;4071;55;4355867;126912
 2020-01-22;US;United States;0;0;1;0
 2020-01-23;US;United States;0;0;1;0
 2020-01-24;US;United States;1;0;2;0
@@ -74260,347 +74461,348 @@ date;id;country;newc;newd;totalc;totald
 2020-04-20;US;United States;29828;2232;799512;45161
 2020-04-21;US;United States;25917;2516;825429;47677
 2020-04-22;US;United States;28859;2452;854288;50129
-2020-04-23;US;United States;33570;2461;887858;52590
-2020-04-24;US;United States;32327;2186;920185;54776
-2020-04-25;US;United States;30396;1710;950581;56486
-2020-04-26;US;United States;26501;1399;977082;57885
-2020-04-27;US;United States;23703;1508;1000785;59393
-2020-04-28;US;United States;24577;2227;1025362;61620
-2020-04-29;US;United States;26438;2415;1051800;64035
-2020-04-30;US;United States;29220;2197;1081020;66232
-2020-05-01;US;United States;34926;1905;1115946;68137
-2020-05-02;US;United States;27350;1732;1143296;69869
-2020-05-03;US;United States;24297;1189;1167593;71058
-2020-05-04;US;United States;24085;1379;1191678;72437
-2020-05-05;US;United States;24531;2246;1216209;74683
-2020-05-06;US;United States;24559;2311;1240768;76994
-2020-05-07;US;United States;27412;1926;1268180;78920
-2020-05-08;US;United States;26839;1761;1295019;80681
-2020-05-09;US;United States;25136;1467;1320155;82148
-2020-05-10;US;United States;18867;976;1339022;83124
-2020-05-11;US;United States;19271;1043;1358293;84167
-2020-05-12;US;United States;22948;1600;1381241;85767
-2020-05-13;US;United States;20408;1738;1401649;87505
-2020-05-14;US;United States;26818;1787;1428467;89292
-2020-05-15;US;United States;24747;1670;1453214;90962
-2020-05-16;US;United States;24159;1199;1477373;92161
-2020-05-17;US;United States;18363;818;1495736;92979
-2020-05-18;US;United States;22390;1227;1518126;94206
-2020-05-19;US;United States;21007;1457;1539133;95663
-2020-05-20;US;United States;22697;1500;1561830;97163
-2020-05-21;US;United States;25766;1188;1587596;98351
-2020-05-22;US;United States;23656;1220;1611252;99571
-2020-05-23;US;United States;21112;1086;1632364;100657
-2020-05-24;US;United States;20067;637;1652431;101294
-2020-05-25;US;United States;18673;592;1671104;101886
-2020-05-26;US;United States;19650;677;1690754;102563
-2020-05-27;US;United States;18549;1462;1709303;104025
-2020-05-28;US;United States;22322;1107;1731625;105132
-2020-05-29;US;United States;24473;1133;1756098;106265
-2020-05-30;US;United States;23633;954;1779731;107219
-2020-05-31;US;United States;18987;613;1798718;107832
-2020-06-01;US;United States;17435;776;1816153;108608
-2020-06-02;US;United States;21503;981;1837656;109589
-2020-06-03;US;United States;19845;1011;1857501;110600
-2020-06-04;US;United States;21649;1011;1879150;111611
-2020-06-05;US;United States;25400;894;1904550;112505
-2020-06-06;US;United States;21160;643;1925710;113148
-2020-06-07;US;United States;17916;456;1943626;113604
-2020-06-08;US;United States;17637;507;1961263;114111
-2020-06-09;US;United States;18384;913;1979647;115024
-2020-06-10;US;United States;21110;873;2000757;115897
-2020-06-11;US;United States;23133;830;2023890;116727
-2020-06-12;US;United States;24866;829;2048756;117556
-2020-06-13;US;United States;25208;733;2073964;118289
-2020-06-14;US;United States;18948;342;2092912;118631
-2020-06-15;US;United States;19819;395;2112731;119026
-2020-06-16;US;United States;23670;814;2136401;119840
-2020-06-17;US;United States;27064;739;2163465;120579
-2020-06-18;US;United States;28525;690;2191990;121269
-2020-06-19;US;United States;31563;628;2223553;121897
-2020-06-20;US;United States;32270;562;2255823;122459
-2020-06-21;US;United States;25148;314;2280971;122773
-2020-06-22;US;United States;32150;408;2313121;123181
-2020-06-23;US;United States;37077;748;2350198;123929
-2020-06-24;US;United States;35874;748;2386072;124677
-2020-06-25;US;United States;40319;530;2426391;125207
-2020-06-26;US;United States;45993;626;2472384;125833
-2020-06-27;US;United States;41346;502;2513730;126335
-2020-06-28;US;United States;40731;319;2554461;126654
-2020-06-29;US;United States;41282;383;2595743;127037
-2020-06-30;US;United States;46431;557;2642174;127594
-2020-07-01;US;United States;51819;705;2693993;128299
-2020-07-02;US;United States;56628;716;2750621;129015
-2020-07-03;US;United States;51360;667;2801981;129682
-2020-07-04;US;United States;45682;306;2847663;129988
-2020-07-05;US;United States;50769;325;2898432;130313
-2020-07-06;US;United States;43084;376;2941516;130689
-2020-07-07;US;United States;60654;1163;3002170;131852
-2020-07-08;US;United States;60120;841;3062290;132693
-2020-07-09;US;United States;62496;1012;3124786;133705
-2020-07-10;US;United States;68055;806;3192841;134511
-2020-07-11;US;United States;60018;727;3252859;135238
-2020-07-12;US;United States;58453;472;3311312;135710
-2020-07-13;US;United States;58894;444;3370206;136154
-2020-07-14;US;United States;68035;929;3438241;137083
-2020-07-15;US;United States;68121;973;3506362;138056
-2020-07-16;US;United States;75819;955;3582181;139011
-2020-07-17;US;United States;72262;925;3654443;139936
-2020-07-18;US;United States;62537;869;3716980;140805
-2020-07-19;US;United States;60474;466;3777454;141271
-2020-07-20;US;United States;62091;563;3839545;141834
-2020-07-21;US;United States;64511;1094;3904056;142928
-2020-07-22;US;United States;70571;1223;3974627;144151
-2020-07-23;US;United States;68442;1086;4043069;145237
-2020-07-24;US;United States;73322;1100;4116391;146337
-2020-07-25;US;United States;64916;913;4181307;147250
-2020-07-26;US;United States;54867;534;4236174;147784
-2020-07-27;US;United States;56757;1120;4292931;148904
-2020-07-28;US;United States;66459;1341;4359390;150245
-2020-07-29;US;United States;71854;1427;4431244;151672
-2020-07-30;US;United States;67455;1226;4498699;152898
-2020-07-31;US;United States;68721;1217;4567420;154115
-2020-08-01;US;United States;56182;1094;4623602;155209
-2020-08-02;US;United States;45548;430;4669150;155639
-2020-08-03;US;United States;45529;579;4714679;156218
-2020-08-04;US;United States;58801;1340;4773480;157558
-2020-08-05;US;United States;54456;1397;4827936;158955
-2020-08-06;US;United States;59358;1238;4887294;160193
-2020-08-07;US;United States;59295;1232;4946589;161425
-2020-08-08;US;United States;54121;1075;5000710;162500
-2020-08-09;US;United States;45751;560;5046461;163060
-2020-08-10;US;United States;47627;588;5094088;163648
-2020-08-11;US;United States;47995;1020;5142083;164668
-2020-08-12;US;United States;56055;1503;5198138;166171
-2020-08-13;US;United States;51314;1062;5249452;167233
-2020-08-14;US;United States;65340;1340;5314792;168573
-2020-08-15;US;United States;46918;1004;5361710;169577
-2020-08-16;US;United States;39195;609;5400905;170186
-2020-08-17;US;United States;36675;491;5437580;170677
-2020-08-18;US;United States;45034;1273;5482614;171950
-2020-08-19;US;United States;47359;1300;5529973;173250
-2020-08-20;US;United States;43843;1093;5573816;174343
-2020-08-21;US;United States;48747;1083;5622563;175426
-2020-08-22;US;United States;43067;975;5665630;176401
-2020-08-23;US;United States;34264;496;5699894;176897
-2020-08-24;US;United States;36654;474;5736548;177371
-2020-08-25;US;United States;40168;1227;5776716;178598
-2020-08-26;US;United States;45359;1184;5822075;179782
-2020-08-27;US;United States;45230;1099;5867305;180881
-2020-08-28;US;United States;46983;958;5914288;181839
-2020-08-29;US;United States;42695;902;5956983;182741
-2020-08-30;US;United States;34400;465;5991383;183206
-2020-08-31;US;United States;35513;542;6026896;183748
-2020-09-01;US;United States;41729;1044;6068625;184792
-2020-09-02;US;United States;41005;1061;6109630;185853
-2020-09-03;US;United States;44192;1032;6153822;186885
-2020-09-04;US;United States;50460;950;6204282;187835
-2020-09-05;US;United States;43001;782;6247283;188617
-2020-09-06;US;United States;31311;444;6278594;189061
-2020-09-07;US;United States;23508;297;6302102;189358
-2020-09-08;US;United States;27469;455;6329571;189813
-2020-09-09;US;United States;33911;1150;6363482;190963
-2020-09-10;US;United States;36173;902;6399655;191865
-2020-09-11;US;United States;47724;1172;6447379;193037
-2020-09-12;US;United States;41126;723;6488505;193760
-2020-09-13;US;United States;34297;426;6522802;194186
-2020-09-14;US;United States;34426;438;6557228;194624
-2020-09-15;US;United States;39556;1202;6596784;195826
-2020-09-16;US;United States;38924;944;6635708;196770
-2020-09-17;US;United States;45225;866;6680933;197636
-2020-09-18;US;United States;49243;908;6730176;198544
-2020-09-19;US;United States;42154;722;6772330;199266
-2020-09-20;US;United States;38404;268;6810734;199534
-2020-09-21;US;United States;52039;428;6862773;199962
-2020-09-22;US;United States;39850;1029;6902623;200991
-2020-09-23;US;United States;39072;1055;6941695;202046
-2020-09-24;US;United States;47103;907;6988798;202953
-2020-09-25;US;United States;48275;928;7037073;203881
-2020-09-26;US;United States;44649;776;7081722;204657
-2020-09-27;US;United States;37544;316;7119266;204973
-2020-09-28;US;United States;33255;358;7152521;205331
-2020-09-29;US;United States;43420;860;7195941;206191
-2020-09-30;US;United States;39431;936;7235372;207127
-2020-10-01;US;United States;45654;866;7281026;207993
-2020-10-02;US;United States;54858;855;7335884;208848
-2020-10-03;US;United States;48595;681;7384479;209529
-2020-10-04;US;United States;35767;383;7420246;209912
-2020-10-05;US;United States;39466;481;7459712;210393
-2020-10-06;US;United States;45200;689;7504912;211082
-2020-10-07;US;United States;51081;920;7555993;212002
-2020-10-08;US;United States;58593;993;7614586;212995
-2020-10-09;US;United States;56358;968;7670944;213963
-2020-10-10;US;United States;54959;654;7725903;214617
-2020-10-11;US;United States;45902;468;7771805;215085
-2020-10-12;US;United States;41873;395;7813678;215480
-2020-10-13;US;United States;52235;794;7865913;216274
-2020-10-14;US;United States;59777;983;7925690;217257
-2020-10-15;US;United States;64860;859;7990550;218116
-2020-10-16;US;United States;69169;932;8059719;219048
-2020-10-17;US;United States;56711;769;8116430;219817
-2020-10-18;US;United States;49351;490;8165781;220307
-2020-10-19;US;United States;67775;478;8233556;220785
-2020-10-20;US;United States;61966;925;8295522;221710
-2020-10-21;US;United States;63257;1150;8358779;222860
-2020-10-22;US;United States;76342;889;8435121;223749
-2020-10-23;US;United States;81881;960;8517002;224709
-2020-10-24;US;United States;82794;952;8599796;225661
-2020-10-25;US;United States;62113;459;8661909;226120
-2020-10-26;US;United States;67422;533;8729331;226653
-2020-10-27;US;United States;76793;970;8806124;227623
-2020-10-28;US;United States;79416;1038;8885540;228661
-2020-10-29;US;United States;91095;1001;8976635;229662
-2020-10-30;US;United States;99130;1068;9075765;230730
-2020-10-31;US;United States;89774;908;9165539;231638
-2020-11-01;US;United States;104924;494;9270463;232132
-2020-11-02;US;United States;85306;573;9355769;232705
-2020-11-03;US;United States;127115;1578;9482884;234283
-2020-11-04;US;United States;104607;1122;9587491;235405
-2020-11-05;US;United States;129354;1149;9716845;236554
-2020-11-06;US;United States;128000;1233;9844845;237787
-2020-11-07;US;United States;127311;1077;9972156;238864
-2020-11-08;US;United States;115216;571;10087372;239435
-2020-11-09;US;United States;120572;779;10207944;240214
-2020-11-10;US;United States;140498;1418;10348442;241632
-2020-11-11;US;United States;146626;1436;10495068;243068
-2020-11-12;US;United States;164833;1203;10659901;244271
-2020-11-13;US;United States;180389;1200;10840290;245471
-2020-11-14;US;United States;167765;1346;11008055;246817
-2020-11-15;US;United States;136221;775;11144276;247592
-2020-11-16;US;United States;162942;829;11307218;248421
-2020-11-17;US;United States;163922;1719;11471140;250140
-2020-11-18;US;United States;173178;1936;11644318;252076
-2020-11-19;US;United States;191543;2040;11835861;254116
-2020-11-20;US;United States;198299;1948;12034160;256064
-2020-11-21;US;United States;179273;1615;12213433;257679
-2020-11-22;US;United States;146778;1032;12360211;258711
-2020-11-23;US;United States;174450;1097;12534661;259808
-2020-11-24;US;United States;175517;2129;12710178;261937
-2020-11-25;US;United States;183287;2259;12893465;264196
-2020-11-26;US;United States;112323;1386;13005788;265582
-2020-11-27;US;United States;208187;1549;13213975;267131
-2020-11-28;US;United States;155530;1358;13369505;268489
-2020-11-29;US;United States;140235;1036;13509740;269525
-2020-11-30;US;United States;160570;1346;13670310;270871
-2020-12-01;US;United States;188217;2546;13858527;273417
-2020-12-02;US;United States;202555;2819;14061082;276236
-2020-12-03;US;United States;223610;2950;14284692;279186
-2020-12-04;US;United States;232785;2678;14517477;281864
-2020-12-05;US;United States;215546;2345;14733023;284209
-2020-12-06;US;United States;181011;1350;14914034;285559
-2020-12-07;US;United States;194861;1613;15108895;287172
-2020-12-08;US;United States;224490;2627;15333385;289799
-2020-12-09;US;United States;222535;3177;15555920;292976
-2020-12-10;US;United States;231516;2992;15787436;295968
-2020-12-11;US;United States;239976;3415;16027412;299383
-2020-12-12;US;United States;217385;2456;16244797;301839
-2020-12-13;US;United States;187804;1626;16432601;303465
-2020-12-14;US;United States;193712;1656;16626313;305121
-2020-12-15;US;United States;210104;3100;16836417;308221
-2020-12-16;US;United States;246644;3721;17083061;311942
-2020-12-17;US;United States;239678;3463;17322739;315405
-2020-12-18;US;United States;251935;2941;17574674;318346
-2020-12-19;US;United States;191894;2651;17766568;320997
-2020-12-20;US;United States;187746;1710;17954314;322707
-2020-12-21;US;United States;199099;1938;18153413;324645
-2020-12-22;US;United States;198067;3392;18351480;328037
-2020-12-23;US;United States;229561;3419;18581041;331456
-2020-12-24;US;United States;194166;2910;18775207;334366
-2020-12-25;US;United States;97615;1400;18872822;335766
-2020-12-26;US;United States;226303;1879;19099125;337645
-2020-12-27;US;United States;155634;1430;19254759;339075
-2020-12-28;US;United States;174651;2003;19429410;341078
-2020-12-29;US;United States;200191;3629;19629601;344707
-2020-12-30;US;United States;233634;3729;19863235;348436
-2020-12-31;US;United States;235565;3447;20098800;351883
-2021-01-01;US;United States;153510;2154;20252310;354037
-2021-01-02;US;United States;300416;2503;20552726;356540
-2021-01-03;US;United States;208741;1441;20761467;357981
-2021-01-04;US;United States;184299;2098;20945766;360079
-2021-01-05;US;United States;235048;3691;21180814;363770
-2021-01-06;US;United States;255389;3929;21436203;367699
-2021-01-07;US;United States;278065;3966;21714268;371665
-2021-01-08;US;United States;293247;4091;22007515;375756
-2021-01-09;US;United States;262657;3333;22270172;379089
-2021-01-10;US;United States;213268;1999;22483440;381088
-2021-01-11;US;United States;214982;2096;22698422;383184
-2021-01-12;US;United States;226954;4477;22925376;387661
-2021-01-13;US;United States;230349;4026;23155725;391687
-2021-01-14;US;United States;235614;3973;23391339;395660
-2021-01-15;US;United States;242748;3898;23634087;399558
-2021-01-16;US;United States;201639;3428;23835726;402986
-2021-01-17;US;United States;177793;1868;24013519;404854
-2021-01-18;US;United States;143391;1514;24156910;406368
-2021-01-19;US;United States;176738;2731;24333648;409099
-2021-01-20;US;United States;183204;4406;24516852;413505
-2021-01-21;US;United States;193750;4181;24710602;417686
-2021-01-22;US;United States;190677;3833;24901279;421519
-2021-01-23;US;United States;170622;3343;25071901;424862
-2021-01-24;US;United States;131031;1896;25202932;426758
-2021-01-25;US;United States;151969;1971;25354901;428729
-2021-01-26;US;United States;147570;4033;25502471;432762
-2021-01-27;US;United States;153239;3954;25655710;436716
-2021-01-28;US;United States;169260;4025;25824970;440741
-2021-01-29;US;United States;166494;3612;25991464;444353
-2021-01-30;US;United States;142322;2770;26133786;447123
-2021-01-31;US;United States;112019;1841;26245805;448964
-2021-02-01;US;United States;135173;2048;26380978;451012
-2021-02-02;US;United States;115333;3474;26496311;454486
-2021-02-03;US;United States;121611;3881;26617922;458367
-2021-02-04;US;United States;123924;3744;26741846;462111
-2021-02-05;US;United States;134362;3623;26876208;465734
-2021-02-06;US;United States;103987;2600;26980195;468334
-2021-02-07;US;United States;89659;1367;27069854;469701
-2021-02-08;US;United States;90343;1607;27160197;471308
-2021-02-09;US;United States;95620;3074;27255817;474382
-2021-02-10;US;United States;95139;3325;27350956;477707
-2021-02-11;US;United States;105697;3179;27456653;480886
-2021-02-12;US;United States;99609;2915;27556262;483801
-2021-02-13;US;United States;87119;2189;27643381;485990
-2021-02-14;US;United States;65020;1128;27708401;487118
-2021-02-15;US;United States;54194;951;27762595;488069
-2021-02-16;US;United States;62724;1730;27825319;489799
-2021-02-17;US;United States;70104;2408;27895423;492207
-2021-02-18;US;United States;69556;2473;27964979;494680
-2021-02-19;US;United States;79595;2651;28044574;497331
-2021-02-20;US;United States;71514;1798;28116088;499129
-2021-02-21;US;United States;57051;1213;28173139;500342
-2021-02-22;US;United States;56223;1299;28229362;501641
-2021-02-23;US;United States;72255;2269;28301617;503910
-2021-02-24;US;United States;74700;3172;28376317;507082
-2021-02-25;US;United States;77495;2365;28453812;509447
-2021-02-26;US;United States;76929;2107;28530741;511554
-2021-02-27;US;United States;64393;1506;28595134;513060
-2021-02-28;US;United States;51239;1057;28646373;514117
-2021-03-01;US;United States;58912;1533;28705285;515650
-2021-03-02;US;United States;57041;1944;28762326;517594
-2021-03-03;US;United States;67194;2494;28829520;520088
-2021-03-04;US;United States;67998;1932;28897518;522020
-2021-03-05;US;United States;66403;1778;28963921;523798
-2021-03-06;US;United States;58195;1502;29022116;525300
-2021-03-07;US;United States;40966;682;29063082;525982
-2021-03-08;US;United States;45014;737;29108096;526719
-2021-03-09;US;United States;57695;1799;29165791;528518
-2021-03-10;US;United States;57939;1562;29223730;530080
-2021-03-11;US;United States;62404;1563;29286134;531643
-2021-03-12;US;United States;61204;1569;29347338;533212
-2021-03-13;US;United States;53215;1733;29400553;534945
-2021-03-14;US;United States;38222;579;29438775;535524
-2021-03-15;US;United States;56649;745;29495424;536269
-2021-03-16;US;United States;53940;1161;29549364;537430
-2021-03-17;US;United States;59094;1179;29608458;538609
-2021-03-18;US;United States;60501;1620;29668959;540229
-2021-03-19;US;United States;61527;1095;29730486;541324
-2021-03-20;US;United States;55449;777;29785935;542101
-2021-03-21;US;United States;33766;447;29819701;542548
-2021-03-22;US;United States;51567;561;29871268;543109
-2021-03-23;US;United States;53624;846;29924892;543955
-2021-03-24;US;United States;86947;1454;30011839;545409
-2021-03-25;US;United States;67443;1558;30079282;546967
-2021-03-26;US;United States;77339;1121;30156621;548088
-2021-03-27;US;United States;62062;741;30218683;548829
-2021-03-28;US;United States;43694;507;30262377;549336
-2021-03-29;US;United States;69417;701;30331794;550037
+2020-04-23;US;United States;33570;2463;887858;52592
+2020-04-24;US;United States;32327;2186;920185;54778
+2020-04-25;US;United States;30396;1710;950581;56488
+2020-04-26;US;United States;26501;1399;977082;57887
+2020-04-27;US;United States;23703;1508;1000785;59395
+2020-04-28;US;United States;24577;2227;1025362;61622
+2020-04-29;US;United States;26438;2415;1051800;64037
+2020-04-30;US;United States;29220;2197;1081020;66234
+2020-05-01;US;United States;34926;1905;1115946;68139
+2020-05-02;US;United States;27350;1732;1143296;69871
+2020-05-03;US;United States;24297;1189;1167593;71060
+2020-05-04;US;United States;24085;1379;1191678;72439
+2020-05-05;US;United States;24531;2246;1216209;74685
+2020-05-06;US;United States;24559;2312;1240768;76997
+2020-05-07;US;United States;27412;1927;1268180;78924
+2020-05-08;US;United States;26839;1761;1295019;80685
+2020-05-09;US;United States;25136;1467;1320155;82152
+2020-05-10;US;United States;18867;976;1339022;83128
+2020-05-11;US;United States;19271;1043;1358293;84171
+2020-05-12;US;United States;22948;1600;1381241;85771
+2020-05-13;US;United States;20408;1738;1401649;87509
+2020-05-14;US;United States;26818;1787;1428467;89296
+2020-05-15;US;United States;24747;1670;1453214;90966
+2020-05-16;US;United States;24159;1199;1477373;92165
+2020-05-17;US;United States;18363;818;1495736;92983
+2020-05-18;US;United States;22390;1227;1518126;94210
+2020-05-19;US;United States;21007;1457;1539133;95667
+2020-05-20;US;United States;22697;1500;1561830;97167
+2020-05-21;US;United States;25766;1188;1587596;98355
+2020-05-22;US;United States;23656;1220;1611252;99575
+2020-05-23;US;United States;21112;1086;1632364;100661
+2020-05-24;US;United States;20067;637;1652431;101298
+2020-05-25;US;United States;18673;592;1671104;101890
+2020-05-26;US;United States;19650;677;1690754;102567
+2020-05-27;US;United States;18549;1462;1709303;104029
+2020-05-28;US;United States;22322;1107;1731625;105136
+2020-05-29;US;United States;24473;1133;1756098;106269
+2020-05-30;US;United States;23633;954;1779731;107223
+2020-05-31;US;United States;18987;613;1798718;107836
+2020-06-01;US;United States;17435;776;1816153;108612
+2020-06-02;US;United States;21503;981;1837656;109593
+2020-06-03;US;United States;19845;1011;1857501;110604
+2020-06-04;US;United States;21649;1011;1879150;111615
+2020-06-05;US;United States;25400;894;1904550;112509
+2020-06-06;US;United States;21160;643;1925710;113152
+2020-06-07;US;United States;17916;456;1943626;113608
+2020-06-08;US;United States;17637;507;1961263;114115
+2020-06-09;US;United States;18384;913;1979647;115028
+2020-06-10;US;United States;21110;873;2000757;115901
+2020-06-11;US;United States;23133;830;2023890;116731
+2020-06-12;US;United States;24866;829;2048756;117560
+2020-06-13;US;United States;25208;733;2073964;118293
+2020-06-14;US;United States;18948;342;2092912;118635
+2020-06-15;US;United States;19819;395;2112731;119030
+2020-06-16;US;United States;23670;814;2136401;119844
+2020-06-17;US;United States;27064;739;2163465;120583
+2020-06-18;US;United States;28525;690;2191990;121273
+2020-06-19;US;United States;31563;628;2223553;121901
+2020-06-20;US;United States;32270;562;2255823;122463
+2020-06-21;US;United States;25148;314;2280971;122777
+2020-06-22;US;United States;32150;408;2313121;123185
+2020-06-23;US;United States;37077;748;2350198;123933
+2020-06-24;US;United States;35874;748;2386072;124681
+2020-06-25;US;United States;40319;530;2426391;125211
+2020-06-26;US;United States;45993;626;2472384;125837
+2020-06-27;US;United States;41346;502;2513730;126339
+2020-06-28;US;United States;40731;319;2554461;126658
+2020-06-29;US;United States;41282;383;2595743;127041
+2020-06-30;US;United States;46431;557;2642174;127598
+2020-07-01;US;United States;51819;705;2693993;128303
+2020-07-02;US;United States;56628;716;2750621;129019
+2020-07-03;US;United States;51360;667;2801981;129686
+2020-07-04;US;United States;45682;306;2847663;129992
+2020-07-05;US;United States;50769;325;2898432;130317
+2020-07-06;US;United States;43084;376;2941516;130693
+2020-07-07;US;United States;60654;1163;3002170;131856
+2020-07-08;US;United States;60120;841;3062290;132697
+2020-07-09;US;United States;62496;1012;3124786;133709
+2020-07-10;US;United States;68055;806;3192841;134515
+2020-07-11;US;United States;60018;727;3252859;135242
+2020-07-12;US;United States;58453;472;3311312;135714
+2020-07-13;US;United States;58894;444;3370206;136158
+2020-07-14;US;United States;68035;929;3438241;137087
+2020-07-15;US;United States;68121;973;3506362;138060
+2020-07-16;US;United States;75819;955;3582181;139015
+2020-07-17;US;United States;72262;925;3654443;139940
+2020-07-18;US;United States;62537;869;3716980;140809
+2020-07-19;US;United States;60474;466;3777454;141275
+2020-07-20;US;United States;62091;563;3839545;141838
+2020-07-21;US;United States;64511;1094;3904056;142932
+2020-07-22;US;United States;70571;1223;3974627;144155
+2020-07-23;US;United States;68442;1086;4043069;145241
+2020-07-24;US;United States;73322;1100;4116391;146341
+2020-07-25;US;United States;64916;913;4181307;147254
+2020-07-26;US;United States;54867;534;4236174;147788
+2020-07-27;US;United States;56757;1120;4292931;148908
+2020-07-28;US;United States;66459;1341;4359390;150249
+2020-07-29;US;United States;71854;1427;4431244;151676
+2020-07-30;US;United States;67455;1226;4498699;152902
+2020-07-31;US;United States;68721;1217;4567420;154119
+2020-08-01;US;United States;56182;1094;4623602;155213
+2020-08-02;US;United States;45548;431;4669150;155644
+2020-08-03;US;United States;45529;579;4714679;156223
+2020-08-04;US;United States;58801;1340;4773480;157563
+2020-08-05;US;United States;54456;1397;4827936;158960
+2020-08-06;US;United States;59358;1238;4887294;160198
+2020-08-07;US;United States;59295;1232;4946589;161430
+2020-08-08;US;United States;54121;1075;5000710;162505
+2020-08-09;US;United States;45751;560;5046461;163065
+2020-08-10;US;United States;47627;588;5094088;163653
+2020-08-11;US;United States;47995;1020;5142083;164673
+2020-08-12;US;United States;56055;1503;5198138;166176
+2020-08-13;US;United States;51314;1062;5249452;167238
+2020-08-14;US;United States;65340;1340;5314792;168578
+2020-08-15;US;United States;46918;1004;5361710;169582
+2020-08-16;US;United States;39195;609;5400905;170191
+2020-08-17;US;United States;36675;491;5437580;170682
+2020-08-18;US;United States;45034;1273;5482614;171955
+2020-08-19;US;United States;47359;1300;5529973;173255
+2020-08-20;US;United States;43843;1093;5573816;174348
+2020-08-21;US;United States;48747;1083;5622563;175431
+2020-08-22;US;United States;43067;975;5665630;176406
+2020-08-23;US;United States;34264;496;5699894;176902
+2020-08-24;US;United States;36654;474;5736548;177376
+2020-08-25;US;United States;40168;1227;5776716;178603
+2020-08-26;US;United States;45359;1184;5822075;179787
+2020-08-27;US;United States;45230;1099;5867305;180886
+2020-08-28;US;United States;46983;958;5914288;181844
+2020-08-29;US;United States;42695;902;5956983;182746
+2020-08-30;US;United States;34400;465;5991383;183211
+2020-08-31;US;United States;35513;542;6026896;183753
+2020-09-01;US;United States;41729;1044;6068625;184797
+2020-09-02;US;United States;41005;1061;6109630;185858
+2020-09-03;US;United States;44192;1032;6153822;186890
+2020-09-04;US;United States;50460;950;6204282;187840
+2020-09-05;US;United States;43001;782;6247283;188622
+2020-09-06;US;United States;31311;444;6278594;189066
+2020-09-07;US;United States;23508;297;6302102;189363
+2020-09-08;US;United States;27469;455;6329571;189818
+2020-09-09;US;United States;33911;1150;6363482;190968
+2020-09-10;US;United States;36173;902;6399655;191870
+2020-09-11;US;United States;47724;1172;6447379;193042
+2020-09-12;US;United States;41126;723;6488505;193765
+2020-09-13;US;United States;34297;426;6522802;194191
+2020-09-14;US;United States;34426;438;6557228;194629
+2020-09-15;US;United States;39556;1202;6596784;195831
+2020-09-16;US;United States;38924;944;6635708;196775
+2020-09-17;US;United States;45225;866;6680933;197641
+2020-09-18;US;United States;49243;908;6730176;198549
+2020-09-19;US;United States;42154;722;6772330;199271
+2020-09-20;US;United States;38404;268;6810734;199539
+2020-09-21;US;United States;52039;428;6862773;199967
+2020-09-22;US;United States;39850;1029;6902623;200996
+2020-09-23;US;United States;39072;1055;6941695;202051
+2020-09-24;US;United States;47103;907;6988798;202958
+2020-09-25;US;United States;48275;928;7037073;203886
+2020-09-26;US;United States;44649;776;7081722;204662
+2020-09-27;US;United States;37544;316;7119266;204978
+2020-09-28;US;United States;33255;358;7152521;205336
+2020-09-29;US;United States;43420;860;7195941;206196
+2020-09-30;US;United States;39431;936;7235372;207132
+2020-10-01;US;United States;45654;866;7281026;207998
+2020-10-02;US;United States;54858;855;7335884;208853
+2020-10-03;US;United States;48595;681;7384479;209534
+2020-10-04;US;United States;35767;383;7420246;209917
+2020-10-05;US;United States;39466;481;7459712;210398
+2020-10-06;US;United States;45200;689;7504912;211087
+2020-10-07;US;United States;51081;920;7555993;212007
+2020-10-08;US;United States;58593;993;7614586;213000
+2020-10-09;US;United States;56358;968;7670944;213968
+2020-10-10;US;United States;54959;654;7725903;214622
+2020-10-11;US;United States;45902;468;7771805;215090
+2020-10-12;US;United States;41873;395;7813678;215485
+2020-10-13;US;United States;52235;794;7865913;216279
+2020-10-14;US;United States;59777;983;7925690;217262
+2020-10-15;US;United States;64860;859;7990550;218121
+2020-10-16;US;United States;69169;932;8059719;219053
+2020-10-17;US;United States;56711;769;8116430;219822
+2020-10-18;US;United States;49351;490;8165781;220312
+2020-10-19;US;United States;67775;478;8233556;220790
+2020-10-20;US;United States;61966;925;8295522;221715
+2020-10-21;US;United States;63257;1150;8358779;222865
+2020-10-22;US;United States;76342;889;8435121;223754
+2020-10-23;US;United States;81881;960;8517002;224714
+2020-10-24;US;United States;82794;952;8599796;225666
+2020-10-25;US;United States;62113;459;8661909;226125
+2020-10-26;US;United States;67422;533;8729331;226658
+2020-10-27;US;United States;76793;970;8806124;227628
+2020-10-28;US;United States;79416;1038;8885540;228666
+2020-10-29;US;United States;91095;1001;8976635;229667
+2020-10-30;US;United States;99130;1068;9075765;230735
+2020-10-31;US;United States;89774;908;9165539;231643
+2020-11-01;US;United States;104924;494;9270463;232137
+2020-11-02;US;United States;85306;573;9355769;232710
+2020-11-03;US;United States;127115;1578;9482884;234288
+2020-11-04;US;United States;104607;1122;9587491;235410
+2020-11-05;US;United States;129354;1149;9716845;236559
+2020-11-06;US;United States;128000;1233;9844845;237792
+2020-11-07;US;United States;127311;1077;9972156;238869
+2020-11-08;US;United States;115216;571;10087372;239440
+2020-11-09;US;United States;120572;779;10207944;240219
+2020-11-10;US;United States;140498;1418;10348442;241637
+2020-11-11;US;United States;146626;1436;10495068;243073
+2020-11-12;US;United States;164833;1203;10659901;244276
+2020-11-13;US;United States;180389;1200;10840290;245476
+2020-11-14;US;United States;167765;1346;11008055;246822
+2020-11-15;US;United States;136221;775;11144276;247597
+2020-11-16;US;United States;162942;829;11307218;248426
+2020-11-17;US;United States;163922;1719;11471140;250145
+2020-11-18;US;United States;173178;1936;11644318;252081
+2020-11-19;US;United States;191543;2040;11835861;254121
+2020-11-20;US;United States;198299;1948;12034160;256069
+2020-11-21;US;United States;179273;1615;12213433;257684
+2020-11-22;US;United States;146778;1032;12360211;258716
+2020-11-23;US;United States;174450;1097;12534661;259813
+2020-11-24;US;United States;175517;2129;12710178;261942
+2020-11-25;US;United States;183287;2259;12893465;264201
+2020-11-26;US;United States;112323;1386;13005788;265587
+2020-11-27;US;United States;208187;1550;13213975;267137
+2020-11-28;US;United States;155530;1359;13369505;268496
+2020-11-29;US;United States;140235;1036;13509740;269532
+2020-11-30;US;United States;160570;1346;13670310;270878
+2020-12-01;US;United States;188217;2547;13858527;273425
+2020-12-02;US;United States;202555;2819;14061082;276244
+2020-12-03;US;United States;223610;2950;14284692;279194
+2020-12-04;US;United States;232785;2678;14517477;281872
+2020-12-05;US;United States;215546;2345;14733023;284217
+2020-12-06;US;United States;181011;1352;14914034;285569
+2020-12-07;US;United States;194861;1614;15108895;287183
+2020-12-08;US;United States;224490;2627;15333385;289810
+2020-12-09;US;United States;222535;3177;15555920;292987
+2020-12-10;US;United States;231516;2992;15787436;295979
+2020-12-11;US;United States;239976;3415;16027412;299394
+2020-12-12;US;United States;217582;2456;16244994;301850
+2020-12-13;US;United States;187695;1626;16432689;303476
+2020-12-14;US;United States;193824;1656;16626513;305132
+2020-12-15;US;United States;209973;3101;16836486;308233
+2020-12-16;US;United States;246702;3721;17083188;311954
+2020-12-17;US;United States;239715;3465;17322903;315419
+2020-12-18;US;United States;251961;2942;17574864;318361
+2020-12-19;US;United States;191894;2651;17766758;321012
+2020-12-20;US;United States;187796;1711;17954554;322723
+2020-12-21;US;United States;199031;1938;18153585;324661
+2020-12-22;US;United States;198001;3392;18351586;328053
+2020-12-23;US;United States;229602;3419;18581188;331472
+2020-12-24;US;United States;194199;2910;18775387;334382
+2020-12-25;US;United States;97646;1400;18873033;335782
+2020-12-26;US;United States;226268;1879;19099301;337661
+2020-12-27;US;United States;155620;1430;19254921;339091
+2020-12-28;US;United States;174602;2003;19429523;341094
+2020-12-29;US;United States;200221;3629;19629744;344723
+2020-12-30;US;United States;233669;3729;19863413;348452
+2020-12-31;US;United States;235649;3447;20099062;351899
+2021-01-01;US;United States;153623;2154;20252685;354053
+2021-01-02;US;United States;300308;2503;20552993;356556
+2021-01-03;US;United States;208731;1441;20761724;357997
+2021-01-04;US;United States;184266;2098;20945990;360095
+2021-01-05;US;United States;235096;3691;21181086;363786
+2021-01-06;US;United States;255424;3929;21436510;367715
+2021-01-07;US;United States;278261;3966;21714771;371681
+2021-01-08;US;United States;293268;4091;22008039;375772
+2021-01-09;US;United States;262622;3334;22270661;379106
+2021-01-10;US;United States;213238;1999;22483899;381105
+2021-01-11;US;United States;214976;2096;22698875;383201
+2021-01-12;US;United States;226906;4476;22925781;387677
+2021-01-13;US;United States;230347;4027;23156128;391704
+2021-01-14;US;United States;235696;3973;23391824;395677
+2021-01-15;US;United States;242734;3898;23634558;399575
+2021-01-16;US;United States;201663;3428;23836221;403003
+2021-01-17;US;United States;177767;1868;24013988;404871
+2021-01-18;US;United States;143399;1514;24157387;406385
+2021-01-19;US;United States;176687;2731;24334074;409116
+2021-01-20;US;United States;183219;4406;24517293;413522
+2021-01-21;US;United States;193801;4181;24711094;417703
+2021-01-22;US;United States;190734;3833;24901828;421536
+2021-01-23;US;United States;170595;3343;25072423;424879
+2021-01-24;US;United States;131055;1898;25203478;426777
+2021-01-25;US;United States;151947;1971;25355425;428748
+2021-01-26;US;United States;147518;4033;25502943;432781
+2021-01-27;US;United States;153279;3954;25656222;436735
+2021-01-28;US;United States;169265;4026;25825487;440761
+2021-01-29;US;United States;166552;3613;25992039;444374
+2021-01-30;US;United States;142298;2770;26134337;447144
+2021-01-31;US;United States;111992;1841;26246329;448985
+2021-02-01;US;United States;135185;2048;26381514;451033
+2021-02-02;US;United States;115313;3474;26496827;454507
+2021-02-03;US;United States;121623;3881;26618450;458388
+2021-02-04;US;United States;123962;3744;26742412;462132
+2021-02-05;US;United States;134390;3623;26876802;465755
+2021-02-06;US;United States;103974;2600;26980776;468355
+2021-02-07;US;United States;89630;1367;27070406;469722
+2021-02-08;US;United States;90302;1607;27160708;471329
+2021-02-09;US;United States;95621;3074;27256329;474403
+2021-02-10;US;United States;95164;3325;27351493;477728
+2021-02-11;US;United States;105737;3179;27457230;480907
+2021-02-12;US;United States;99615;2915;27556845;483822
+2021-02-13;US;United States;87105;2189;27643950;486011
+2021-02-14;US;United States;65009;1128;27708959;487139
+2021-02-15;US;United States;54184;951;27763143;488090
+2021-02-16;US;United States;62710;1730;27825853;489820
+2021-02-17;US;United States;70117;2408;27895970;492228
+2021-02-18;US;United States;69594;2474;27965564;494702
+2021-02-19;US;United States;79596;2652;28045160;497354
+2021-02-20;US;United States;71517;1799;28116677;499153
+2021-02-21;US;United States;57069;1214;28173746;500367
+2021-02-22;US;United States;56208;1299;28229954;501666
+2021-02-23;US;United States;72253;2271;28302207;503937
+2021-02-24;US;United States;74706;3172;28376913;507109
+2021-02-25;US;United States;77490;2365;28454403;509474
+2021-02-26;US;United States;76971;2107;28531374;511581
+2021-02-27;US;United States;64424;1507;28595798;513088
+2021-02-28;US;United States;51196;1059;28646994;514147
+2021-03-01;US;United States;58887;1536;28705881;515683
+2021-03-02;US;United States;57050;1946;28762931;517629
+2021-03-03;US;United States;67178;2494;28830109;520123
+2021-03-04;US;United States;68040;1935;28898149;522058
+2021-03-05;US;United States;66443;1781;28964592;523839
+2021-03-06;US;United States;58191;1503;29022783;525342
+2021-03-07;US;United States;40938;686;29063721;526028
+2021-03-08;US;United States;45011;740;29108732;526768
+2021-03-09;US;United States;57697;1801;29166429;528569
+2021-03-10;US;United States;57902;1570;29224331;530139
+2021-03-11;US;United States;62462;1564;29286793;531703
+2021-03-12;US;United States;61316;1573;29348109;533276
+2021-03-13;US;United States;53120;1737;29401229;535013
+2021-03-14;US;United States;38211;579;29439440;535592
+2021-03-15;US;United States;56645;747;29496085;536339
+2021-03-16;US;United States;53943;1161;29550028;537500
+2021-03-17;US;United States;59118;1182;29609146;538682
+2021-03-18;US;United States;60523;1620;29669669;540302
+2021-03-19;US;United States;61616;1097;29731285;541399
+2021-03-20;US;United States;55366;779;29786651;542178
+2021-03-21;US;United States;33760;448;29820411;542626
+2021-03-22;US;United States;51574;562;29871985;543188
+2021-03-23;US;United States;53587;848;29925572;544036
+2021-03-24;US;United States;86950;1456;30012522;545492
+2021-03-25;US;United States;67449;1559;30079971;547051
+2021-03-26;US;United States;77307;1121;30157278;548172
+2021-03-27;US;United States;62070;741;30219348;548913
+2021-03-28;US;United States;43694;507;30263042;549420
+2021-03-29;US;United States;69419;701;30332461;550121
+2021-03-30;US;United States;61240;875;30393701;550996
 2020-03-13;UY;Uruguay;4;0;4;0
 2020-03-14;UY;Uruguay;2;0;6;0
 2020-03-15;UY;Uruguay;2;0;8;0
@@ -74983,6 +75185,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;UY;Uruguay;2935;26;95278;901
 2021-03-28;UY;Uruguay;2128;14;97406;915
 2021-03-29;UY;Uruguay;2178;13;99584;928
+2021-03-30;UY;Uruguay;2877;25;102461;953
 2020-03-15;UZ;Uzbekistan;1;0;1;0
 2020-03-16;UZ;Uzbekistan;5;0;6;0
 2020-03-17;UZ;Uzbekistan;4;0;10;0
@@ -75363,6 +75566,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;UZ;Uzbekistan;186;1;82146;625
 2021-03-28;UZ;Uzbekistan;194;1;82340;626
 2021-03-29;UZ;Uzbekistan;196;0;82536;626
+2021-03-30;UZ;Uzbekistan;146;2;82682;628
 2020-11-10;VU;Vanuatu;1;0;1;0
 2020-11-11;VU;Vanuatu;0;0;1;0
 2020-11-12;VU;Vanuatu;0;0;1;0
@@ -75503,6 +75707,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;VU;Vanuatu;0;0;3;0
 2021-03-28;VU;Vanuatu;0;0;3;0
 2021-03-29;VU;Vanuatu;0;0;3;0
+2021-03-30;VU;Vanuatu;0;0;3;0
 2020-03-06;VA;Vatican;1;0;1;0
 2020-03-07;VA;Vatican;0;0;1;0
 2020-03-08;VA;Vatican;0;0;1;0
@@ -75892,6 +76097,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;VA;Vatican;0;0;27;0
 2021-03-28;VA;Vatican;0;0;27;0
 2021-03-29;VA;Vatican;0;0;27;0
+2021-03-30;VA;Vatican;0;0;27;0
 2020-03-14;VE;Venezuela;2;0;2;0
 2020-03-15;VE;Venezuela;8;0;10;0
 2020-03-16;VE;Venezuela;7;0;17;0
@@ -76273,6 +76479,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;VE;Venezuela;758;12;155663;1555
 2021-03-28;VE;Venezuela;992;10;156655;1565
 2021-03-29;VE;Venezuela;1288;12;157943;1577
+2021-03-30;VE;Venezuela;1206;12;159149;1589
 2020-01-23;VN;Vietnam;2;0;2;0
 2020-01-24;VN;Vietnam;0;0;2;0
 2020-01-25;VN;Vietnam;0;0;2;0
@@ -76705,6 +76912,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;VN;Vietnam;0;0;2586;35
 2021-03-28;VN;Vietnam;5;0;2591;35
 2021-03-29;VN;Vietnam;3;0;2594;35
+2021-03-30;VN;Vietnam;0;0;2594;35
 2020-01-22;;World;0;0;557;17
 2020-01-23;;World;98;1;655;18
 2020-01-24;;World;286;8;941;26
@@ -76797,347 +77005,348 @@ date;id;country;newc;newd;totalc;totald
 2020-04-20;;World;76018;5874;2494325;176188
 2020-04-21;;World;75749;7275;2570074;183463
 2020-04-22;;World;81247;6856;2651321;190319
-2020-04-23;;World;84249;6833;2735570;197152
-2020-04-24;;World;84096;6768;2819666;203920
-2020-04-25;;World;82259;5627;2901925;209547
-2020-04-26;;World;71588;3979;2973513;213526
-2020-04-27;;World;70192;4746;3043705;218272
-2020-04-28;;World;75540;6581;3119245;224853
-2020-04-29;;World;77110;6722;3196355;231575
-2020-04-30;;World;83495;5843;3279850;237418
-2020-05-01;;World;88376;5147;3368226;242565
-2020-05-02;;World;79200;5496;3447426;248061
-2020-05-03;;World;76373;3510;3523799;251571
-2020-05-04;;World;77689;4212;3601488;255783
-2020-05-05;;World;80502;5827;3681990;261610
-2020-05-06;;World;90027;6502;3772017;268112
-2020-05-07;;World;88707;5307;3860724;273419
-2020-05-08;;World;90279;5550;3951003;278969
-2020-05-09;;World;85223;4224;4036226;283193
-2020-05-10;;World;74976;3557;4111202;286750
-2020-05-11;;World;76631;3487;4187833;290237
-2020-05-12;;World;84491;5486;4272324;295723
-2020-05-13;;World;84980;5143;4357304;300866
-2020-05-14;;World;96231;5160;4453535;306026
-2020-05-15;;World;95732;5223;4549267;311249
-2020-05-16;;World;94439;4177;4643706;315426
-2020-05-17;;World;78022;3184;4721728;318610
-2020-05-18;;World;89167;3763;4810895;322373
-2020-05-19;;World;96775;4648;4907670;327021
-2020-05-20;;World;101878;4778;5009548;331799
-2020-05-21;;World;106644;4662;5116192;336461
-2020-05-22;;World;106421;5247;5222613;341708
-2020-05-23;;World;104805;3923;5327418;345631
-2020-05-24;;World;94211;3014;5421629;348645
-2020-05-25;;World;86717;1212;5508346;349857
-2020-05-26;;World;93967;4242;5602313;354099
-2020-05-27;;World;102762;5055;5705075;359154
-2020-05-28;;World;119283;4558;5824358;363712
-2020-05-29;;World;120903;4608;5945261;368320
-2020-05-30;;World;136515;4024;6081776;372344
-2020-05-31;;World;106408;2690;6188184;375034
-2020-06-01;;World;95994;3073;6284178;378107
-2020-06-02;;World;121965;4677;6406143;382784
-2020-06-03;;World;114239;5433;6520382;388217
-2020-06-04;;World;130954;5032;6651336;393249
-2020-06-05;;World;131223;4581;6782559;397830
-2020-06-06;;World;133737;3770;6916296;401600
-2020-06-07;;World;112363;2737;7028659;404337
-2020-06-08;;World;102497;3702;7131156;408039
-2020-06-09;;World;125060;4774;7256216;412813
-2020-06-10;;World;135105;5040;7391321;417853
-2020-06-11;;World;138020;4640;7529341;422493
-2020-06-12;;World;128765;4209;7658106;426702
-2020-06-13;;World;135289;4114;7793395;430816
-2020-06-14;;World;132284;3397;7925679;434213
-2020-06-15;;World;119658;3415;8045337;437628
-2020-06-16;;World;142084;6710;8187421;444338
-2020-06-17;;World;143746;5147;8331167;449485
-2020-06-18;;World;141062;4911;8472229;454396
-2020-06-19;;World;179916;6065;8652145;460461
-2020-06-20;;World;157448;4112;8809593;464573
-2020-06-21;;World;127702;4011;8937295;468584
-2020-06-22;;World;139359;3563;9076654;472147
-2020-06-23;;World;166811;5217;9243465;477364
-2020-06-24;;World;172592;5186;9416057;482550
-2020-06-25;;World;178383;4685;9594440;487235
-2020-06-26;;World;191596;4745;9786036;491980
-2020-06-27;;World;178132;4462;9964168;496442
-2020-06-28;;World;163872;3167;10128040;499609
-2020-06-29;;World;155346;3676;10283386;503285
-2020-06-30;;World;174543;4889;10457929;508174
-2020-07-01;;World;217607;4946;10675536;513120
-2020-07-02;;World;209944;5078;10885480;518198
-2020-07-03;;World;201384;4924;11086864;523122
-2020-07-04;;World;193810;4395;11280674;527517
-2020-07-05;;World;184004;3488;11464678;531005
-2020-07-06;;World;163974;3845;11628652;534850
-2020-07-07;;World;211362;5968;11840014;540818
-2020-07-08;;World;214160;5291;12054174;546109
-2020-07-09;;World;226827;5399;12281001;551508
-2020-07-10;;World;232674;5288;12513675;556796
-2020-07-11;;World;216467;4817;12730142;561613
-2020-07-12;;World;192289;3987;12922431;565600
-2020-07-13;;World;191442;3910;13113873;569510
-2020-07-14;;World;222187;5598;13336060;575108
-2020-07-15;;World;231469;5444;13567529;580552
-2020-07-16;;World;251311;5771;13818840;586323
-2020-07-17;;World;242743;6669;14061583;592992
-2020-07-18;;World;236180;5609;14297763;598601
-2020-07-19;;World;213432;4067;14511195;602668
-2020-07-20;;World;207117;4210;14718312;606878
-2020-07-21;;World;233672;6172;14951984;613050
-2020-07-22;;World;279875;6946;15231859;619996
-2020-07-23;;World;282856;9904;15514715;629900
-2020-07-24;;World;281073;6023;15795788;635923
-2020-07-25;;World;254055;5552;16049843;641475
-2020-07-26;;World;213128;3716;16262971;645191
-2020-07-27;;World;226436;5177;16489407;650368
-2020-07-28;;World;252787;6276;16742194;656644
-2020-07-29;;World;291729;6620;17033923;663264
-2020-07-30;;World;280098;6045;17314021;669309
-2020-07-31;;World;290746;6166;17604767;675475
-2020-08-01;;World;248336;5456;17853103;680931
-2020-08-02;;World;230995;4319;18084098;685250
-2020-08-03;;World;206475;4684;18290573;689934
-2020-08-04;;World;257942;6588;18548515;696522
-2020-08-05;;World;276574;7010;18825089;703532
-2020-08-06;;World;285203;6485;19110292;710017
-2020-08-07;;World;282237;6283;19392529;716300
-2020-08-08;;World;258520;5411;19651049;721711
-2020-08-09;;World;224680;4609;19875729;726320
-2020-08-10;;World;226032;5305;20101761;731625
-2020-08-11;;World;257564;6199;20359325;737824
-2020-08-12;;World;276653;6572;20635978;744396
-2020-08-13;;World;289216;6209;20925194;750605
-2020-08-14;;World;303748;10142;21228942;760747
-2020-08-15;;World;247705;5360;21476647;766107
-2020-08-16;;World;214473;4256;21691120;770363
-2020-08-17;;World;207731;4179;21898851;774542
-2020-08-18;;World;258256;6854;22157107;781396
-2020-08-19;;World;279590;6688;22436697;788084
-2020-08-20;;World;272357;6062;22709054;794146
-2020-08-21;;World;261123;5430;22970177;799576
-2020-08-22;;World;264273;5564;23234450;805140
-2020-08-23;;World;206181;3905;23440631;809045
-2020-08-24;;World;225400;4507;23666031;813552
-2020-08-25;;World;243809;6277;23909840;819829
-2020-08-26;;World;283986;6244;24193826;826073
-2020-08-27;;World;283745;5879;24477571;831952
-2020-08-28;;World;283762;5510;24761333;837462
-2020-08-29;;World;263757;5322;25025090;842784
-2020-08-30;;World;220984;4056;25246074;846840
-2020-08-31;;World;263016;4177;25509090;851017
-2020-09-01;;World;264790;6415;25773880;857432
-2020-09-02;;World;283495;6091;26057375;863523
-2020-09-03;;World;281401;5679;26338776;869202
-2020-09-04;;World;314083;5861;26652859;875063
-2020-09-05;;World;269904;4960;26922763;880023
-2020-09-06;;World;230607;3820;27153370;883843
-2020-09-07;;World;217823;9375;27371193;893218
-2020-09-08;;World;242275;4916;27613468;898134
-2020-09-09;;World;284676;6095;27898144;904229
-2020-09-10;;World;299976;5790;28198120;910019
-2020-09-11;;World;321316;5849;28519436;915868
-2020-09-12;;World;286642;4902;28806078;920770
-2020-09-13;;World;242665;3706;29048743;924476
-2020-09-14;;World;263750;4447;29312493;928923
-2020-09-15;;World;285511;6428;29598004;935351
-2020-09-16;;World;304441;5768;29902445;941119
-2020-09-17;;World;314974;5473;30217419;946592
-2020-09-18;;World;325880;5680;30543299;952272
-2020-09-19;;World;292114;5269;30835413;957541
-2020-09-20;;World;252103;3742;31087516;961283
-2020-09-21;;World;276153;4103;31363669;965386
-2020-09-22;;World;284502;5969;31648171;971355
-2020-09-23;;World;275855;5609;31924026;976964
-2020-09-24;;World;353062;6664;32277088;983628
-2020-09-25;;World;330862;5887;32607950;989515
-2020-09-26;;World;288347;5353;32896297;994868
-2020-09-27;;World;251734;3688;33148031;998556
-2020-09-28;;World;254800;3975;33402831;1002531
-2020-09-29;;World;282640;5929;33685471;1008460
-2020-09-30;;World;326207;6442;34011678;1014902
-2020-10-01;;World;318304;8708;34329982;1023610
-2020-10-02;;World;297668;4931;34627650;1028541
-2020-10-03;;World;332198;5361;34959848;1033902
-2020-10-04;;World;261449;3841;35221297;1037743
-2020-10-05;;World;301040;6947;35522337;1044690
-2020-10-06;;World;326463;5779;35848800;1050469
-2020-10-07;;World;351016;5829;36199816;1056298
-2020-10-08;;World;361327;6282;36561143;1062580
-2020-10-09;;World;360874;6150;36922017;1068730
-2020-10-10;;World;357023;4878;37279040;1073608
-2020-10-11;;World;286992;4030;37566032;1077638
-2020-10-12;;World;291658;3984;37857690;1081622
-2020-10-13;;World;319385;5284;38177075;1086906
-2020-10-14;;World;382346;6066;38559421;1092972
-2020-10-15;;World;406956;6125;38966377;1099097
-2020-10-16;;World;411794;6180;39378171;1105277
-2020-10-17;;World;372632;5604;39750803;1110881
-2020-10-18;;World;316574;3539;40067377;1114420
-2020-10-19;;World;387073;4835;40454450;1119255
-2020-10-20;;World;389157;6555;40843607;1125810
-2020-10-21;;World;444864;6659;41288471;1132469
-2020-10-22;;World;472761;5910;41761232;1138379
-2020-10-23;;World;496730;6964;42257962;1145343
-2020-10-24;;World;456849;5818;42714811;1151161
-2020-10-25;;World;360459;4208;43075270;1155369
-2020-10-26;;World;486597;5517;43561867;1160886
-2020-10-27;;World;470018;7369;44031885;1168255
-2020-10-28;;World;511710;7163;44543595;1175418
-2020-10-29;;World;550797;7083;45094392;1182501
-2020-10-30;;World;570759;7606;45665151;1190107
-2020-10-31;;World;476649;6576;46141800;1196683
-2020-11-01;;World;462841;5008;46604641;1201691
-2020-11-02;;World;562926;6104;47167567;1207795
-2020-11-03;;World;553554;9345;47721121;1217140
-2020-11-04;;World;511378;10258;48232499;1227398
-2020-11-05;;World;597120;8007;48829619;1235405
-2020-11-06;;World;644849;9655;49474468;1245060
-2020-11-07;;World;596753;7596;50071221;1252656
-2020-11-08;;World;483937;5874;50555158;1258530
-2020-11-09;;World;501348;7223;51056506;1265753
-2020-11-10;;World;559204;9993;51615710;1275746
-2020-11-11;;World;648428;10451;52264138;1286197
-2020-11-12;;World;650254;9765;52914392;1295962
-2020-11-13;;World;652073;9588;53566465;1305550
-2020-11-14;;World;594974;9081;54161439;1314631
-2020-11-15;;World;473780;6423;54635219;1321054
-2020-11-16;;World;534612;7954;55169831;1329008
-2020-11-17;;World;611070;11069;55780901;1340077
-2020-11-18;;World;627254;11431;56408155;1351508
-2020-11-19;;World;653580;11020;57061735;1362528
-2020-11-20;;World;668746;11878;57730481;1374406
-2020-11-21;;World;587409;8968;58317890;1383374
-2020-11-22;;World;488129;7194;58806019;1390568
-2020-11-23;;World;525163;8523;59331182;1399091
-2020-11-24;;World;590421;12660;59921603;1411751
-2020-11-25;;World;636050;12127;60557653;1423878
-2020-11-26;;World;582306;10889;61139959;1434767
-2020-11-27;;World;687491;11387;61827450;1446154
-2020-11-28;;World;585847;9280;62413297;1455434
-2020-11-29;;World;488412;7160;62901709;1462594
-2020-11-30;;World;508458;8880;63410167;1471474
-2020-12-01;;World;612631;12686;64022798;1484160
-2020-12-02;;World;651199;12593;64673997;1496753
-2020-12-03;;World;694137;12569;65368134;1509322
-2020-12-04;;World;683661;12499;66051795;1521821
-2020-12-05;;World;641955;10280;66693750;1532101
-2020-12-06;;World;538965;7432;67232715;1539533
-2020-12-07;;World;520022;8722;67752737;1548255
-2020-12-08;;World;643526;12286;68396263;1560541
-2020-12-09;;World;669907;12714;69066170;1573255
-2020-12-10;;World;674784;12693;70564179;1585948
-2020-12-11;;World;704279;13025;71268458;1598973
-2020-12-12;;World;635072;10539;71903530;1609512
-2020-12-13;;World;530702;7457;72434232;1616969
-2020-12-14;;World;524515;9176;72958747;1626145
-2020-12-15;;World;637304;13934;73596051;1640079
-2020-12-16;;World;733670;13716;74329721;1653795
-2020-12-17;;World;739291;13412;75069012;1667207
-2020-12-18;;World;720155;12763;75789167;1679970
-2020-12-19;;World;611758;10767;76400925;1690737
-2020-12-20;;World;533400;7910;76934325;1698647
-2020-12-21;;World;549347;9665;77483672;1708312
-2020-12-22;;World;650031;14306;78133703;1722618
-2020-12-23;;World;694795;13801;78828498;1736419
-2020-12-24;;World;667158;11633;79495656;1748052
-2020-12-25;;World;465246;8574;79960902;1756626
-2020-12-26;;World;512617;7393;80473519;1764019
-2020-12-27;;World;438187;7402;80911706;1771421
-2020-12-28;;World;496878;9755;81408584;1781176
-2020-12-29;;World;664098;15162;82072682;1796338
-2020-12-30;;World;761449;15258;82834131;1811596
-2020-12-31;;World;724625;13136;83558756;1824732
-2021-01-01;;World;532627;9667;84091383;1834399
-2021-01-02;;World;626177;8428;84717560;1842827
-2021-01-03;;World;533634;7335;85251194;1850162
-2021-01-04;;World;554135;10153;85805329;1860315
-2021-01-05;;World;740059;15311;86545388;1875626
-2021-01-06;;World;783027;15055;87328415;1890681
-2021-01-07;;World;880902;14918;88209317;1905599
-2021-01-08;;World;801254;15149;89010571;1920748
-2021-01-09;;World;762956;12796;89773527;1933544
-2021-01-10;;World;589154;8347;90362681;1941891
-2021-01-11;;World;619599;10316;90982280;1952207
-2021-01-12;;World;705861;17106;91688141;1969313
-2021-01-13;;World;748055;16701;92436196;1986014
-2021-01-14;;World;755455;15356;93191651;2001370
-2021-01-15;;World;766894;15116;93958545;2016486
-2021-01-16;;World;639413;13272;94597958;2029758
-2021-01-17;;World;528900;8633;95126858;2038391
-2021-01-18;;World;515364;9405;95642222;2047796
-2021-01-19;;World;608123;16581;96250345;2064377
-2021-01-20;;World;692583;17904;96942928;2082281
-2021-01-21;;World;656912;16765;97599840;2099046
-2021-01-22;;World;658985;16007;98258825;2115053
-2021-01-23;;World;567856;13292;98826681;2128345
-2021-01-24;;World;445900;8965;99272581;2137310
-2021-01-25;;World;497340;10762;99769921;2148072
-2021-01-26;;World;556009;17333;100325930;2165405
-2021-01-27;;World;597914;16673;100923844;2182078
-2021-01-28;;World;614649;17037;101538493;2199115
-2021-01-29;;World;590122;14924;102128615;2214039
-2021-01-30;;World;515105;13570;102643720;2227609
-2021-01-31;;World;382395;7977;103026115;2235586
-2021-02-01;;World;446745;10199;103472860;2245785
-2021-02-02;;World;457736;14880;103930596;2260665
-2021-02-03;;World;522172;15702;104452768;2276367
-2021-02-04;;World;466856;12541;104919624;2288908
-2021-02-05;;World;535393;16506;105455017;2305414
-2021-02-06;;World;372125;10096;105827142;2315510
-2021-02-07;;World;397884;7916;106225026;2323426
-2021-02-08;;World;316126;8322;106541152;2331748
-2021-02-09;;World;427815;15536;106968967;2347284
-2021-02-10;;World;435516;13418;107404483;2360702
-2021-02-11;;World;441219;13445;107845702;2374147
-2021-02-12;;World;429236;12459;108274938;2386606
-2021-02-13;;World;373088;9796;108648026;2396402
-2021-02-14;;World;293648;6329;108941674;2402731
-2021-02-15;;World;283585;6886;109225259;2409617
-2021-02-16;;World;350848;10898;109576107;2420515
-2021-02-17;;World;395367;11341;109971474;2431856
-2021-02-18;;World;403499;11324;110374973;2443180
-2021-02-19;;World;412635;11068;110787608;2454248
-2021-02-20;;World;370269;8492;111157877;2462740
-2021-02-21;;World;314249;5844;111472126;2468584
-2021-02-22;;World;288966;6925;111761092;2475509
-2021-02-23;;World;388683;11175;112149775;2486684
-2021-02-24;;World;444746;11996;112594521;2498680
-2021-02-25;;World;447315;10084;113041836;2508764
-2021-02-26;;World;443099;10289;113484935;2519053
-2021-02-27;;World;388893;8131;113873828;2527184
-2021-02-28;;World;303231;5397;114177059;2532581
-2021-03-01;;World;306391;7220;114483450;2539801
-2021-03-02;;World;310740;10428;114794190;2550229
-2021-03-03;;World;440994;11076;115235184;2561305
-2021-03-04;;World;453145;9772;115688329;2571077
-2021-03-05;;World;446852;10010;116135181;2581087
-2021-03-06;;World;410378;7828;116545559;2588915
-2021-03-07;;World;368121;5258;116913680;2594173
-2021-03-08;;World;298554;6857;117212234;2601030
-2021-03-09;;World;415316;9973;117627550;2611003
-2021-03-10;;World;467098;9680;118094648;2620683
-2021-03-11;;World;476826;9761;118571474;2630444
-2021-03-12;;World;489009;9626;119060483;2640070
-2021-03-13;;World;454399;8721;119514882;2648791
-2021-03-14;;World;360243;5497;119875125;2654288
-2021-03-15;;World;349027;6809;120224152;2661097
-2021-03-16;;World;472996;9872;120697148;2670969
-2021-03-17;;World;539083;10069;121236231;2681038
-2021-03-18;;World;553524;10528;121789755;2691566
-2021-03-19;;World;561413;10345;122351168;2701911
-2021-03-20;;World;498724;8079;122849892;2709990
-2021-03-21;;World;423970;5808;123273862;2715798
-2021-03-22;;World;416649;7337;123690511;2723135
-2021-03-23;;World;514125;11075;124204636;2734210
-2021-03-24;;World;636719;9664;124841355;2743874
-2021-03-25;;World;650380;11481;125491735;2755355
-2021-03-26;;World;639180;12192;126130915;2767547
-2021-03-27;;World;583825;9790;126714740;2777337
-2021-03-28;;World;470424;6464;127185164;2783801
-2021-03-29;;World;458926;7951;127644090;2791752
+2020-04-23;;World;84249;6835;2735570;197154
+2020-04-24;;World;84096;6768;2819666;203922
+2020-04-25;;World;82259;5627;2901925;209549
+2020-04-26;;World;71588;3979;2973513;213528
+2020-04-27;;World;70192;4746;3043705;218274
+2020-04-28;;World;75540;6581;3119245;224855
+2020-04-29;;World;77110;6722;3196355;231577
+2020-04-30;;World;83495;5843;3279850;237420
+2020-05-01;;World;88376;5147;3368226;242567
+2020-05-02;;World;79200;5496;3447426;248063
+2020-05-03;;World;76373;3510;3523799;251573
+2020-05-04;;World;77689;4212;3601488;255785
+2020-05-05;;World;80502;5827;3681990;261612
+2020-05-06;;World;90027;6503;3772017;268115
+2020-05-07;;World;88707;5308;3860724;273423
+2020-05-08;;World;90279;5550;3951003;278973
+2020-05-09;;World;85223;4224;4036226;283197
+2020-05-10;;World;74976;3557;4111202;286754
+2020-05-11;;World;76631;3487;4187833;290241
+2020-05-12;;World;84491;5486;4272324;295727
+2020-05-13;;World;84980;5143;4357304;300870
+2020-05-14;;World;96231;5160;4453535;306030
+2020-05-15;;World;95732;5223;4549267;311253
+2020-05-16;;World;94439;4177;4643706;315430
+2020-05-17;;World;78022;3184;4721728;318614
+2020-05-18;;World;89167;3763;4810895;322377
+2020-05-19;;World;96775;4648;4907670;327025
+2020-05-20;;World;101878;4778;5009548;331803
+2020-05-21;;World;106644;4662;5116192;336465
+2020-05-22;;World;106421;5247;5222613;341712
+2020-05-23;;World;104805;3923;5327418;345635
+2020-05-24;;World;94211;3014;5421629;348649
+2020-05-25;;World;86717;1212;5508346;349861
+2020-05-26;;World;93967;4242;5602313;354103
+2020-05-27;;World;102762;5055;5705075;359158
+2020-05-28;;World;119283;4558;5824358;363716
+2020-05-29;;World;120903;4608;5945261;368324
+2020-05-30;;World;136515;4024;6081776;372348
+2020-05-31;;World;106408;2690;6188184;375038
+2020-06-01;;World;95994;3073;6284178;378111
+2020-06-02;;World;121965;4677;6406143;382788
+2020-06-03;;World;114239;5433;6520382;388221
+2020-06-04;;World;130954;5032;6651336;393253
+2020-06-05;;World;131223;4581;6782559;397834
+2020-06-06;;World;133737;3770;6916296;401604
+2020-06-07;;World;112363;2737;7028659;404341
+2020-06-08;;World;102497;3702;7131156;408043
+2020-06-09;;World;125060;4774;7256216;412817
+2020-06-10;;World;135105;5040;7391321;417857
+2020-06-11;;World;138020;4640;7529341;422497
+2020-06-12;;World;128765;4209;7658106;426706
+2020-06-13;;World;135289;4114;7793395;430820
+2020-06-14;;World;132284;3397;7925679;434217
+2020-06-15;;World;119658;3415;8045337;437632
+2020-06-16;;World;142084;6710;8187421;444342
+2020-06-17;;World;143746;5147;8331167;449489
+2020-06-18;;World;141062;4911;8472229;454400
+2020-06-19;;World;179916;6065;8652145;460465
+2020-06-20;;World;157448;4112;8809593;464577
+2020-06-21;;World;127702;4011;8937295;468588
+2020-06-22;;World;139359;3563;9076654;472151
+2020-06-23;;World;166811;5217;9243465;477368
+2020-06-24;;World;172592;5186;9416057;482554
+2020-06-25;;World;178383;4685;9594440;487239
+2020-06-26;;World;191596;4745;9786036;491984
+2020-06-27;;World;178132;4462;9964168;496446
+2020-06-28;;World;163872;3167;10128040;499613
+2020-06-29;;World;155346;3676;10283386;503289
+2020-06-30;;World;174543;4889;10457929;508178
+2020-07-01;;World;217607;4946;10675536;513124
+2020-07-02;;World;209944;5078;10885480;518202
+2020-07-03;;World;201384;4924;11086864;523126
+2020-07-04;;World;193810;4395;11280674;527521
+2020-07-05;;World;184004;3488;11464678;531009
+2020-07-06;;World;163974;3845;11628652;534854
+2020-07-07;;World;211362;5968;11840014;540822
+2020-07-08;;World;214160;5291;12054174;546113
+2020-07-09;;World;226827;5399;12281001;551512
+2020-07-10;;World;232674;5288;12513675;556800
+2020-07-11;;World;216467;4817;12730142;561617
+2020-07-12;;World;192289;3987;12922431;565604
+2020-07-13;;World;191442;3910;13113873;569514
+2020-07-14;;World;222187;5598;13336060;575112
+2020-07-15;;World;231469;5444;13567529;580556
+2020-07-16;;World;251311;5771;13818840;586327
+2020-07-17;;World;242743;6669;14061583;592996
+2020-07-18;;World;236180;5609;14297763;598605
+2020-07-19;;World;213432;4067;14511195;602672
+2020-07-20;;World;207117;4210;14718312;606882
+2020-07-21;;World;233672;6172;14951984;613054
+2020-07-22;;World;279875;6946;15231859;620000
+2020-07-23;;World;282856;9904;15514715;629904
+2020-07-24;;World;281073;6023;15795788;635927
+2020-07-25;;World;254055;5552;16049843;641479
+2020-07-26;;World;213128;3716;16262971;645195
+2020-07-27;;World;226436;5177;16489407;650372
+2020-07-28;;World;252787;6276;16742194;656648
+2020-07-29;;World;291729;6620;17033923;663268
+2020-07-30;;World;280098;6045;17314021;669313
+2020-07-31;;World;290746;6166;17604767;675479
+2020-08-01;;World;248336;5456;17853103;680935
+2020-08-02;;World;230995;4320;18084098;685255
+2020-08-03;;World;206475;4684;18290573;689939
+2020-08-04;;World;257942;6588;18548515;696527
+2020-08-05;;World;276574;7010;18825089;703537
+2020-08-06;;World;285203;6485;19110292;710022
+2020-08-07;;World;282237;6283;19392529;716305
+2020-08-08;;World;258520;5411;19651049;721716
+2020-08-09;;World;224680;4609;19875729;726325
+2020-08-10;;World;226032;5305;20101761;731630
+2020-08-11;;World;257564;6199;20359325;737829
+2020-08-12;;World;276653;6572;20635978;744401
+2020-08-13;;World;289216;6209;20925194;750610
+2020-08-14;;World;303748;10142;21228942;760752
+2020-08-15;;World;247705;5360;21476647;766112
+2020-08-16;;World;214473;4256;21691120;770368
+2020-08-17;;World;207731;4179;21898851;774547
+2020-08-18;;World;258256;6854;22157107;781401
+2020-08-19;;World;279590;6688;22436697;788089
+2020-08-20;;World;272357;6062;22709054;794151
+2020-08-21;;World;261123;5430;22970177;799581
+2020-08-22;;World;264273;5564;23234450;805145
+2020-08-23;;World;206181;3905;23440631;809050
+2020-08-24;;World;225400;4507;23666031;813557
+2020-08-25;;World;243809;6277;23909840;819834
+2020-08-26;;World;283986;6244;24193826;826078
+2020-08-27;;World;283745;5879;24477571;831957
+2020-08-28;;World;283762;5510;24761333;837467
+2020-08-29;;World;263757;5322;25025090;842789
+2020-08-30;;World;220984;4056;25246074;846845
+2020-08-31;;World;263016;4177;25509090;851022
+2020-09-01;;World;264790;6415;25773880;857437
+2020-09-02;;World;283495;6091;26057375;863528
+2020-09-03;;World;281401;5679;26338776;869207
+2020-09-04;;World;314083;5861;26652859;875068
+2020-09-05;;World;269904;4960;26922763;880028
+2020-09-06;;World;230607;3820;27153370;883848
+2020-09-07;;World;217823;9375;27371193;893223
+2020-09-08;;World;242275;4916;27613468;898139
+2020-09-09;;World;284676;6095;27898144;904234
+2020-09-10;;World;299976;5790;28198120;910024
+2020-09-11;;World;321316;5849;28519436;915873
+2020-09-12;;World;286642;4902;28806078;920775
+2020-09-13;;World;242665;3706;29048743;924481
+2020-09-14;;World;263750;4447;29312493;928928
+2020-09-15;;World;285511;6428;29598004;935356
+2020-09-16;;World;304441;5768;29902445;941124
+2020-09-17;;World;314974;5473;30217419;946597
+2020-09-18;;World;325880;5680;30543299;952277
+2020-09-19;;World;292114;5269;30835413;957546
+2020-09-20;;World;252103;3742;31087516;961288
+2020-09-21;;World;276153;4103;31363669;965391
+2020-09-22;;World;284502;5969;31648171;971360
+2020-09-23;;World;275855;5609;31924026;976969
+2020-09-24;;World;353062;6664;32277088;983633
+2020-09-25;;World;330862;5887;32607950;989520
+2020-09-26;;World;288347;5353;32896297;994873
+2020-09-27;;World;251734;3688;33148031;998561
+2020-09-28;;World;254800;3975;33402831;1002536
+2020-09-29;;World;282640;5929;33685471;1008465
+2020-09-30;;World;326207;6442;34011678;1014907
+2020-10-01;;World;318304;8708;34329982;1023615
+2020-10-02;;World;297668;4931;34627650;1028546
+2020-10-03;;World;332198;5361;34959848;1033907
+2020-10-04;;World;261449;3841;35221297;1037748
+2020-10-05;;World;301040;6947;35522337;1044695
+2020-10-06;;World;326463;5779;35848800;1050474
+2020-10-07;;World;351016;5829;36199816;1056303
+2020-10-08;;World;361327;6282;36561143;1062585
+2020-10-09;;World;360874;6150;36922017;1068735
+2020-10-10;;World;357023;4878;37279040;1073613
+2020-10-11;;World;286992;4030;37566032;1077643
+2020-10-12;;World;291658;3984;37857690;1081627
+2020-10-13;;World;319385;5284;38177075;1086911
+2020-10-14;;World;382346;6066;38559421;1092977
+2020-10-15;;World;406956;6125;38966377;1099102
+2020-10-16;;World;411794;6180;39378171;1105282
+2020-10-17;;World;372632;5604;39750803;1110886
+2020-10-18;;World;316574;3539;40067377;1114425
+2020-10-19;;World;387073;4835;40454450;1119260
+2020-10-20;;World;389157;6555;40843607;1125815
+2020-10-21;;World;444864;6659;41288471;1132474
+2020-10-22;;World;472761;5910;41761232;1138384
+2020-10-23;;World;496730;6964;42257962;1145348
+2020-10-24;;World;456849;5818;42714811;1151166
+2020-10-25;;World;360459;4208;43075270;1155374
+2020-10-26;;World;486597;5517;43561867;1160891
+2020-10-27;;World;470018;7369;44031885;1168260
+2020-10-28;;World;511710;7163;44543595;1175423
+2020-10-29;;World;550797;7083;45094392;1182506
+2020-10-30;;World;570759;7606;45665151;1190112
+2020-10-31;;World;476649;6576;46141800;1196688
+2020-11-01;;World;462841;5008;46604641;1201696
+2020-11-02;;World;562926;6104;47167567;1207800
+2020-11-03;;World;553554;9345;47721121;1217145
+2020-11-04;;World;511378;10258;48232499;1227403
+2020-11-05;;World;597120;8007;48829619;1235410
+2020-11-06;;World;644849;9655;49474468;1245065
+2020-11-07;;World;596753;7596;50071221;1252661
+2020-11-08;;World;483937;5874;50555158;1258535
+2020-11-09;;World;501348;7223;51056506;1265758
+2020-11-10;;World;559204;9993;51615710;1275751
+2020-11-11;;World;648428;10451;52264138;1286202
+2020-11-12;;World;650254;9765;52914392;1295967
+2020-11-13;;World;652073;9588;53566465;1305555
+2020-11-14;;World;594974;9081;54161439;1314636
+2020-11-15;;World;473780;6423;54635219;1321059
+2020-11-16;;World;534612;7954;55169831;1329013
+2020-11-17;;World;611070;11069;55780901;1340082
+2020-11-18;;World;627254;11431;56408155;1351513
+2020-11-19;;World;653580;11020;57061735;1362533
+2020-11-20;;World;668746;11878;57730481;1374411
+2020-11-21;;World;587409;8968;58317890;1383379
+2020-11-22;;World;488129;7194;58806019;1390573
+2020-11-23;;World;525163;8523;59331182;1399096
+2020-11-24;;World;590421;12660;59921603;1411756
+2020-11-25;;World;636050;12127;60557653;1423883
+2020-11-26;;World;582306;10889;61139959;1434772
+2020-11-27;;World;687491;11388;61827450;1446160
+2020-11-28;;World;585847;9281;62413297;1455441
+2020-11-29;;World;488412;7160;62901709;1462601
+2020-11-30;;World;508458;8880;63410167;1471481
+2020-12-01;;World;612631;12687;64022798;1484168
+2020-12-02;;World;651199;12593;64673997;1496761
+2020-12-03;;World;694137;12569;65368134;1509330
+2020-12-04;;World;683661;12499;66051795;1521829
+2020-12-05;;World;641955;10280;66693750;1532109
+2020-12-06;;World;538965;7434;67232715;1539543
+2020-12-07;;World;520022;8723;67752737;1548266
+2020-12-08;;World;643526;12286;68396263;1560552
+2020-12-09;;World;669907;12714;69066170;1573266
+2020-12-10;;World;674784;12693;70564179;1585959
+2020-12-11;;World;704279;13025;71268458;1598984
+2020-12-12;;World;635269;10539;71903727;1609523
+2020-12-13;;World;530593;7457;72434320;1616980
+2020-12-14;;World;524627;9176;72958947;1626156
+2020-12-15;;World;637173;13935;73596120;1640091
+2020-12-16;;World;733728;13716;74329848;1653807
+2020-12-17;;World;739328;13414;75069176;1667221
+2020-12-18;;World;720181;12764;75789357;1679985
+2020-12-19;;World;611758;10767;76401115;1690752
+2020-12-20;;World;533450;7911;76934565;1698663
+2020-12-21;;World;549279;9665;77483844;1708328
+2020-12-22;;World;649965;14306;78133809;1722634
+2020-12-23;;World;694836;13801;78828645;1736435
+2020-12-24;;World;667191;11633;79495836;1748068
+2020-12-25;;World;465277;8574;79961113;1756642
+2020-12-26;;World;512582;7393;80473695;1764035
+2020-12-27;;World;438173;7402;80911868;1771437
+2020-12-28;;World;496829;9755;81408697;1781192
+2020-12-29;;World;664128;15162;82072825;1796354
+2020-12-30;;World;761484;15258;82834309;1811612
+2020-12-31;;World;724709;13136;83559018;1824748
+2021-01-01;;World;532740;9667;84091758;1834415
+2021-01-02;;World;626069;8428;84717827;1842843
+2021-01-03;;World;533624;7335;85251451;1850178
+2021-01-04;;World;554102;10153;85805553;1860331
+2021-01-05;;World;740107;15311;86545660;1875642
+2021-01-06;;World;783062;15055;87328722;1890697
+2021-01-07;;World;881098;14918;88209820;1905615
+2021-01-08;;World;801275;15149;89011095;1920764
+2021-01-09;;World;762921;12797;89774016;1933561
+2021-01-10;;World;589124;8347;90363140;1941908
+2021-01-11;;World;619593;10316;90982733;1952224
+2021-01-12;;World;705813;17105;91688546;1969329
+2021-01-13;;World;748053;16702;92436599;1986031
+2021-01-14;;World;755537;15356;93192136;2001387
+2021-01-15;;World;766880;15116;93959016;2016503
+2021-01-16;;World;639437;13272;94598453;2029775
+2021-01-17;;World;528874;8633;95127327;2038408
+2021-01-18;;World;515372;9405;95642699;2047813
+2021-01-19;;World;608072;16581;96250771;2064394
+2021-01-20;;World;692598;17904;96943369;2082298
+2021-01-21;;World;656963;16765;97600332;2099063
+2021-01-22;;World;659042;16007;98259374;2115070
+2021-01-23;;World;567829;13292;98827203;2128362
+2021-01-24;;World;445924;8967;99273127;2137329
+2021-01-25;;World;497318;10762;99770445;2148091
+2021-01-26;;World;555957;17333;100326402;2165424
+2021-01-27;;World;597954;16673;100924356;2182097
+2021-01-28;;World;614654;17038;101539010;2199135
+2021-01-29;;World;590180;14925;102129190;2214060
+2021-01-30;;World;515081;13570;102644271;2227630
+2021-01-31;;World;382368;7977;103026639;2235607
+2021-02-01;;World;446757;10199;103473396;2245806
+2021-02-02;;World;457716;14880;103931112;2260686
+2021-02-03;;World;522184;15702;104453296;2276388
+2021-02-04;;World;466894;12541;104920190;2288929
+2021-02-05;;World;535421;16506;105455611;2305435
+2021-02-06;;World;372112;10096;105827723;2315531
+2021-02-07;;World;397855;7916;106225578;2323447
+2021-02-08;;World;316085;8322;106541663;2331769
+2021-02-09;;World;427816;15536;106969479;2347305
+2021-02-10;;World;435541;13418;107405020;2360723
+2021-02-11;;World;441259;13445;107846279;2374168
+2021-02-12;;World;429242;12459;108275521;2386627
+2021-02-13;;World;373074;9796;108648595;2396423
+2021-02-14;;World;293637;6329;108942232;2402752
+2021-02-15;;World;283575;6886;109225807;2409638
+2021-02-16;;World;350834;10898;109576641;2420536
+2021-02-17;;World;395380;11341;109972021;2431877
+2021-02-18;;World;403537;11325;110375558;2443202
+2021-02-19;;World;412636;11069;110788194;2454271
+2021-02-20;;World;370272;8493;111158466;2462764
+2021-02-21;;World;314267;5845;111472733;2468609
+2021-02-22;;World;288951;6925;111761684;2475534
+2021-02-23;;World;388681;11177;112150365;2486711
+2021-02-24;;World;444752;11996;112595117;2498707
+2021-02-25;;World;447310;10084;113042427;2508791
+2021-02-26;;World;443141;10289;113485568;2519080
+2021-02-27;;World;388924;8132;113874492;2527212
+2021-02-28;;World;303188;5399;114177680;2532611
+2021-03-01;;World;306366;7223;114484046;2539834
+2021-03-02;;World;310749;10430;114794795;2550264
+2021-03-03;;World;440978;11076;115235773;2561340
+2021-03-04;;World;453187;9775;115688960;2571115
+2021-03-05;;World;446892;10013;116135852;2581128
+2021-03-06;;World;410374;7829;116546226;2588957
+2021-03-07;;World;368093;5262;116914319;2594219
+2021-03-08;;World;298551;6860;117212870;2601079
+2021-03-09;;World;415318;9975;117628188;2611054
+2021-03-10;;World;467061;9688;118095249;2620742
+2021-03-11;;World;476884;9762;118572133;2630504
+2021-03-12;;World;489121;9630;119061254;2640134
+2021-03-13;;World;454304;8725;119515558;2648859
+2021-03-14;;World;360232;5497;119875790;2654356
+2021-03-15;;World;349023;6811;120224813;2661167
+2021-03-16;;World;472999;9872;120697812;2671039
+2021-03-17;;World;539107;10072;121236919;2681111
+2021-03-18;;World;553546;10528;121790465;2691639
+2021-03-19;;World;561502;10347;122351967;2701986
+2021-03-20;;World;498641;8081;122850608;2710067
+2021-03-21;;World;423964;5809;123274572;2715876
+2021-03-22;;World;416656;7338;123691228;2723214
+2021-03-23;;World;514088;11077;124205316;2734291
+2021-03-24;;World;633858;9665;124839174;2743956
+2021-03-25;;World;651200;11487;125490374;2755443
+2021-03-26;;World;641198;12188;126131572;2767631
+2021-03-27;;World;583833;9790;126715405;2777421
+2021-03-28;;World;470424;6464;127185829;2783885
+2021-03-29;;World;458928;7951;127644757;2791836
+2021-03-30;;World;568122;11561;128212879;2803397
 2020-04-10;YE;Yemen;1;0;1;0
 2020-04-11;YE;Yemen;0;0;1;0
 2020-04-12;YE;Yemen;0;0;1;0
@@ -77492,6 +77701,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;YE;Yemen;69;12;3969;832
 2021-03-28;YE;Yemen;64;19;4033;851
 2021-03-29;YE;Yemen;82;12;4115;863
+2021-03-30;YE;Yemen;132;19;4247;882
 2020-03-18;ZM;Zambia;2;0;2;0
 2020-03-19;ZM;Zambia;0;0;2;0
 2020-03-20;ZM;Zambia;0;0;2;0
@@ -77869,6 +78079,7 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ZM;Zambia;0;4;87583;1198
 2021-03-28;ZM;Zambia;289;2;87872;1200
 2021-03-29;ZM;Zambia;140;0;88012;1200
+2021-03-30;ZM;Zambia;187;2;88199;1202
 2020-03-20;ZW;Zimbabwe;1;0;1;0
 2020-03-21;ZW;Zimbabwe;2;0;3;0
 2020-03-22;ZW;Zimbabwe;0;0;3;0
@@ -78244,3 +78455,4 @@ date;id;country;newc;newd;totalc;totald
 2021-03-27;ZW;Zimbabwe;13;1;36818;1519
 2021-03-28;ZW;Zimbabwe;4;1;36822;1520
 2021-03-29;ZW;Zimbabwe;17;0;36839;1520
+2021-03-30;ZW;Zimbabwe;0;0;36839;1520
