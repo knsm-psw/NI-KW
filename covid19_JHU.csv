@@ -490,6 +490,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AF;Afghanistan;0;0;111592;4519
 2021-06-27;AF;Afghanistan;0;0;111592;4519
 2021-06-28;AF;Afghanistan;4159;211;115751;4730
+2021-06-29;AF;Afghanistan;1407;64;117158;4794
 2020-02-13;;Africa;0;0;0;0
 2020-02-14;;Africa;1;0;1;0
 2020-02-15;;Africa;0;0;1;0
@@ -992,6 +993,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;Africa;34372;490;5384703;140663
 2021-06-27;;Africa;27555;455;5412258;141118
 2021-06-28;;Africa;25147;531;5437405;141649
+2021-06-29;;Africa;28347;522;5465752;142171
 2020-02-25;AL;Albania;0;0;0;0
 2020-02-26;AL;Albania;0;0;0;0
 2020-02-27;AL;Albania;0;0;0;0
@@ -1482,6 +1484,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AL;Albania;3;1;132509;2456
 2021-06-27;AL;Albania;3;0;132512;2456
 2021-06-28;AL;Albania;1;0;132513;2456
+2021-06-29;AL;Albania;1;0;132514;2456
 2020-02-25;DZ;Algeria;1;0;1;0
 2020-02-26;DZ;Algeria;0;0;1;0
 2020-02-27;DZ;Algeria;0;0;1;0
@@ -1972,6 +1975,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DZ;Algeria;341;7;138113;3685
 2021-06-27;DZ;Algeria;352;8;138465;3693
 2021-06-28;DZ;Algeria;375;6;138840;3699
+2021-06-29;DZ;Algeria;389;9;139229;3708
 2020-03-02;AD;Andorra;1;0;1;0
 2020-03-03;AD;Andorra;0;0;1;0
 2020-03-04;AD;Andorra;0;0;1;0
@@ -2456,6 +2460,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AD;Andorra;0;0;13882;127
 2021-06-27;AD;Andorra;0;0;13882;127
 2021-06-28;AD;Andorra;0;0;13882;127
+2021-06-29;AD;Andorra;18;0;13900;127
 2020-03-20;AO;Angola;1;0;1;0
 2020-03-21;AO;Angola;1;0;2;0
 2020-03-22;AO;Angola;0;0;2;0
@@ -2922,6 +2927,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AO;Angola;157;4;38528;887
 2021-06-27;AO;Angola;28;2;38556;889
 2021-06-28;AO;Angola;57;2;38613;891
+2021-06-29;AO;Angola;69;3;38682;894
 2021-02-04;AI;Anguilla;0;0;0;0
 2021-02-05;AI;Anguilla;0;0;0;0
 2021-02-06;AI;Anguilla;0;0;0;0
@@ -3537,6 +3543,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AG;Antigua and Barbuda;0;0;1263;42
 2021-06-27;AG;Antigua and Barbuda;0;0;1263;42
 2021-06-28;AG;Antigua and Barbuda;0;0;1263;42
+2021-06-29;AG;Antigua and Barbuda;0;0;1263;42
 2020-01-01;AR;Argentina;0;0;0;0
 2020-01-02;AR;Argentina;0;0;0;0
 2020-01-03;AR;Argentina;0;0;0;0
@@ -4082,6 +4089,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AR;Argentina;18555;338;4393142;92317
 2021-06-27;AR;Argentina;12105;251;4405247;92568
 2021-06-28;AR;Argentina;18389;574;4423636;93142
+2021-06-29;AR;Argentina;24065;526;4447701;93668
 2020-03-01;AM;Armenia;1;0;1;0
 2020-03-02;AM;Armenia;0;0;1;0
 2020-03-03;AM;Armenia;0;0;1;0
@@ -4567,6 +4575,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AM;Armenia;93;1;224728;4506
 2021-06-27;AM;Armenia;69;2;224797;4508
 2021-06-28;AM;Armenia;54;2;224851;4510
+2021-06-29;AM;Armenia;116;4;224967;4514
 2021-03-29;AW;Aruba;0;0;0;0
 2021-03-30;AW;Aruba;0;0;0;0
 2021-03-31;AW;Aruba;0;0;0;0
@@ -4659,6 +4668,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AW;Aruba;0;0;0;0
 2021-06-27;AW;Aruba;0;0;0;0
 2021-06-28;AW;Aruba;0;0;0;0
+2021-06-29;AW;Aruba;0;0;0;0
 2020-01-22;;Asia;0;0;556;17
 2020-01-23;;Asia;98;1;654;18
 2020-01-24;;Asia;283;8;937;26
@@ -5183,6 +5193,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;Asia;129356;2377;55265022;781259
 2021-06-27;;Asia;135125;2308;55400147;783567
 2021-06-28;;Asia;131585;2335;55531732;785902
+2021-06-29;;Asia;141740;2248;55673472;788150
 2020-01-26;AU;Australia;4;0;4;0
 2020-01-27;AU;Australia;1;0;5;0
 2020-01-28;AU;Australia;0;0;5;0
@@ -5703,6 +5714,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AU;Australia;42;0;30499;910
 2021-06-27;AU;Australia;29;0;30528;910
 2021-06-28;AU;Australia;32;0;30560;910
+2021-06-29;AU;Australia;42;0;30602;910
 2020-02-25;AT;Austria;2;0;2;0
 2020-02-26;AT;Austria;0;0;2;0
 2020-02-27;AT;Austria;1;0;3;0
@@ -6193,6 +6205,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AT;Austria;176;-1;650192;10699
 2021-06-27;AT;Austria;69;1;650261;10700
 2021-06-28;AT;Austria;63;1;650324;10701
+2021-06-29;AT;Austria;29;-1;650353;10700
 2020-03-01;AZ;Azerbaijan;3;0;3;0
 2020-03-02;AZ;Azerbaijan;0;0;3;0
 2020-03-03;AZ;Azerbaijan;0;0;3;0
@@ -6678,6 +6691,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AZ;Azerbaijan;55;0;335796;4967
 2021-06-27;AZ;Azerbaijan;40;1;335836;4968
 2021-06-28;AZ;Azerbaijan;38;2;335874;4970
+2021-06-29;AZ;Azerbaijan;87;3;335961;4973
 2020-03-16;BS;Bahamas;1;0;1;0
 2020-03-17;BS;Bahamas;0;0;1;0
 2020-03-18;BS;Bahamas;0;0;1;0
@@ -7148,6 +7162,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BS;Bahamas;0;0;12467;245
 2021-06-27;BS;Bahamas;0;0;12467;245
 2021-06-28;BS;Bahamas;0;0;12467;245
+2021-06-29;BS;Bahamas;119;1;12586;246
 2020-02-24;BH;Bahrain;1;0;1;0
 2020-02-25;BH;Bahrain;22;0;23;0
 2020-02-26;BH;Bahrain;10;0;33;0
@@ -7639,6 +7654,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BH;Bahrain;302;6;264995;1341
 2021-06-27;BH;Bahrain;252;4;265247;1345
 2021-06-28;BH;Bahrain;230;3;265477;1348
+2021-06-29;BH;Bahrain;166;3;265643;1351
 2020-03-03;BD;Bangladesh;0;0;0;0
 2020-03-04;BD;Bangladesh;0;0;0;0
 2020-03-05;BD;Bangladesh;0;0;0;0
@@ -8122,6 +8138,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BD;Bangladesh;4334;77;883138;14053
 2021-06-27;BD;Bangladesh;5268;119;888406;14172
 2021-06-28;BD;Bangladesh;8364;104;896770;14276
+2021-06-29;BD;Bangladesh;7666;112;904436;14388
 2020-03-17;BB;Barbados;2;0;2;0
 2020-03-18;BB;Barbados;0;0;2;0
 2020-03-19;BB;Barbados;3;0;5;0
@@ -8591,6 +8608,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BB;Barbados;8;0;4074;47
 2021-06-27;BB;Barbados;1;0;4075;47
 2021-06-28;BB;Barbados;2;0;4077;47
+2021-06-29;BB;Barbados;2;0;4079;47
 2020-02-28;BY;Belarus;1;0;1;0
 2020-02-29;BY;Belarus;0;0;1;0
 2020-03-01;BY;Belarus;0;0;1;0
@@ -9078,6 +9096,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BY;Belarus;778;10;414730;3103
 2021-06-27;BY;Belarus;609;10;415339;3113
 2021-06-28;BY;Belarus;441;9;415780;3122
+2021-06-29;BY;Belarus;495;10;416275;3132
 2020-02-04;BE;Belgium;1;0;1;0
 2020-02-05;BE;Belgium;0;0;1;0
 2020-02-06;BE;Belgium;0;0;1;0
@@ -9589,6 +9608,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BE;Belgium;0;0;1082476;25160
 2021-06-27;BE;Belgium;0;0;1082476;25160
 2021-06-28;BE;Belgium;1002;8;1083478;25168
+2021-06-29;BE;Belgium;1072;2;1084550;25170
 2020-03-23;BZ;Belize;1;0;1;0
 2020-03-24;BZ;Belize;0;0;1;0
 2020-03-25;BZ;Belize;1;0;2;0
@@ -10052,6 +10072,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BZ;Belize;0;0;13137;329
 2021-06-27;BZ;Belize;0;0;13137;329
 2021-06-28;BZ;Belize;52;0;13189;329
+2021-06-29;BZ;Belize;38;0;13227;329
 2020-03-16;BJ;Benin;1;0;1;0
 2020-03-17;BJ;Benin;0;0;1;0
 2020-03-18;BJ;Benin;1;0;2;0
@@ -10522,6 +10543,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BJ;Benin;0;0;8170;104
 2021-06-27;BJ;Benin;0;0;8170;104
 2021-06-28;BJ;Benin;0;0;8170;104
+2021-06-29;BJ;Benin;29;0;8199;104
 2021-01-10;BM;Bermuda;0;0;0;0
 2021-01-11;BM;Bermuda;0;0;0;0
 2021-01-12;BM;Bermuda;0;0;0;0
@@ -10689,6 +10711,10 @@ date;id;country;newc;newd;totalc;totald
 2021-06-23;BM;Bermuda;0;0;0;0
 2021-06-24;BM;Bermuda;0;0;0;0
 2021-06-25;BM;Bermuda;0;0;0;0
+2021-06-26;BM;Bermuda;0;0;0;0
+2021-06-27;BM;Bermuda;0;0;0;0
+2021-06-28;BM;Bermuda;0;0;0;0
+2021-06-29;BM;Bermuda;0;0;0;0
 2020-03-06;BT;Bhutan;1;0;1;0
 2020-03-07;BT;Bhutan;0;0;1;0
 2020-03-08;BT;Bhutan;0;0;1;0
@@ -11169,6 +11195,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BT;Bhutan;14;0;2027;1
 2021-06-27;BT;Bhutan;25;0;2052;1
 2021-06-28;BT;Bhutan;10;0;2062;1
+2021-06-29;BT;Bhutan;14;0;2076;1
 2020-03-11;BO;Bolivia;2;0;2;0
 2020-03-12;BO;Bolivia;0;0;2;0
 2020-03-13;BO;Bolivia;1;0;3;0
@@ -11644,6 +11671,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BO;Bolivia;1653;55;433013;16551
 2021-06-27;BO;Bolivia;922;30;433935;16581
 2021-06-28;BO;Bolivia;1633;50;435568;16631
+2021-06-29;BO;Bolivia;2055;71;437623;16702
 2021-04-09;BQ;Bonaire Sint Eustatius and Saba;0;0;0;0
 2020-03-05;BA;Bosnia and Herzegovina;2;0;2;0
 2020-03-06;BA;Bosnia and Herzegovina;0;0;2;0
@@ -12126,6 +12154,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BA;Bosnia and Herzegovina;0;0;204945;9655
 2021-06-27;BA;Bosnia and Herzegovina;0;0;204945;9655
 2021-06-28;BA;Bosnia and Herzegovina;46;3;204991;9658
+2021-06-29;BA;Bosnia and Herzegovina;13;5;205004;9663
 2020-03-30;BW;Botswana;3;0;3;0
 2020-03-31;BW;Botswana;1;1;4;1
 2020-04-01;BW;Botswana;0;0;4;1
@@ -12582,6 +12611,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BW;Botswana;0;0;67492;1095
 2021-06-27;BW;Botswana;0;0;67492;1095
 2021-06-28;BW;Botswana;2188;30;69680;1125
+2021-06-29;BW;Botswana;0;0;69680;1125
 2020-02-26;BR;Brazil;1;0;1;0
 2020-02-27;BR;Brazil;0;0;1;0
 2020-02-28;BR;Brazil;0;0;1;0
@@ -13071,6 +13101,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BR;Brazil;64134;1593;18386894;512735
 2021-06-27;BR;Brazil;33704;739;18420598;513474
 2021-06-28;BR;Brazil;27804;618;18448402;514092
+2021-06-29;BR;Brazil;64903;1893;18513305;515985
 2021-05-21;VG;British Virgin Islands;0;0;0;0
 2021-05-22;VG;British Virgin Islands;0;0;0;0
 2021-05-23;VG;British Virgin Islands;0;0;0;0
@@ -13584,6 +13615,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BN;Brunei;3;0;259;3
 2021-06-27;BN;Brunei;0;0;259;3
 2021-06-28;BN;Brunei;0;0;259;3
+2021-06-29;BN;Brunei;0;0;259;3
 2020-03-08;BG;Bulgaria;4;0;4;0
 2020-03-09;BG;Bulgaria;0;0;4;0
 2020-03-10;BG;Bulgaria;0;0;4;0
@@ -14062,6 +14094,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BG;Bulgaria;28;1;421515;18027
 2021-06-27;BG;Bulgaria;16;0;421531;18027
 2021-06-28;BG;Bulgaria;115;13;421646;18040
+2021-06-29;BG;Bulgaria;105;9;421751;18049
 2020-03-10;BF;Burkina Faso;1;0;1;0
 2020-03-11;BF;Burkina Faso;1;0;2;0
 2020-03-12;BF;Burkina Faso;0;0;2;0
@@ -14538,6 +14571,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BF;Burkina Faso;1;0;13478;168
 2021-06-27;BF;Burkina Faso;0;0;13478;168
 2021-06-28;BF;Burkina Faso;1;0;13479;168
+2021-06-29;BF;Burkina Faso;0;0;13479;168
 2020-03-31;BI;Burundi;2;0;2;0
 2020-04-01;BI;Burundi;0;0;2;0
 2020-04-02;BI;Burundi;1;0;3;0
@@ -14993,6 +15027,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;BI;Burundi;0;0;5348;8
 2021-06-27;BI;Burundi;0;0;5348;8
 2021-06-28;BI;Burundi;75;0;5423;8
+2021-06-29;BI;Burundi;5;0;5428;8
 2020-01-27;KH;Cambodia;1;0;1;0
 2020-01-28;KH;Cambodia;0;0;1;0
 2020-01-29;KH;Cambodia;0;0;1;0
@@ -15512,6 +15547,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KH;Cambodia;745;14;46810;523
 2021-06-27;KH;Cambodia;839;17;47649;540
 2021-06-28;KH;Cambodia;883;16;48532;556
+2021-06-29;KH;Cambodia;723;19;49255;575
 2020-03-06;CM;Cameroon;1;0;1;0
 2020-03-07;CM;Cameroon;0;0;1;0
 2020-03-08;CM;Cameroon;1;0;2;0
@@ -15992,6 +16028,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CM;Cameroon;0;0;80487;1320
 2021-06-27;CM;Cameroon;0;0;80487;1320
 2021-06-28;CM;Cameroon;0;0;80487;1320
+2021-06-29;CM;Cameroon;371;4;80858;1324
 2020-01-26;CA;Canada;1;0;1;0
 2020-01-27;CA;Canada;0;0;1;0
 2020-01-28;CA;Canada;1;0;2;0
@@ -16512,6 +16549,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CA;Canada;454;10;1420258;26184
 2021-06-27;CA;Canada;349;3;1420607;26187
 2021-06-28;CA;Canada;1088;28;1421695;26215
+2021-06-29;CA;Canada;531;31;1422226;26246
 2020-03-20;CV;Cape Verde;1;0;1;0
 2020-03-21;CV;Cape Verde;2;0;3;0
 2020-03-22;CV;Cape Verde;0;0;3;0
@@ -16978,6 +17016,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CV;Cape Verde;31;0;32344;286
 2021-06-27;CV;Cape Verde;28;0;32372;286
 2021-06-28;CV;Cape Verde;27;0;32399;286
+2021-06-29;CV;Cape Verde;58;0;32457;286
 2020-12-26;KY;Cayman Islands;0;0;0;0
 2020-12-27;KY;Cayman Islands;0;0;0;0
 2020-12-28;KY;Cayman Islands;0;0;0;0
@@ -17634,6 +17673,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CF;Central African Republic;0;0;7139;98
 2021-06-27;CF;Central African Republic;0;0;7139;98
 2021-06-28;CF;Central African Republic;2;0;7141;98
+2021-06-29;CF;Central African Republic;0;0;7141;98
 2020-03-19;TD;Chad;1;0;1;0
 2020-03-20;TD;Chad;0;0;1;0
 2020-03-21;TD;Chad;0;0;1;0
@@ -18101,6 +18141,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TD;Chad;0;0;4951;174
 2021-06-27;TD;Chad;0;0;4951;174
 2021-06-28;TD;Chad;0;0;4951;174
+2021-06-29;TD;Chad;0;0;4951;174
 2020-02-23;CL;Chile;2;0;2;0
 2020-02-24;CL;Chile;0;0;2;0
 2020-02-25;CL;Chile;0;0;2;0
@@ -18593,6 +18634,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CL;Chile;5171;151;1542642;32163
 2021-06-27;CL;Chile;4461;135;1547103;32298
 2021-06-28;CL;Chile;4034;156;1551137;32454
+2021-06-29;CL;Chile;2637;35;1553774;32489
 2020-01-22;CN;China;0;0;548;17
 2020-01-23;CN;China;93;1;641;18
 2020-01-24;CN;China;277;8;918;26
@@ -19117,6 +19159,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CN;China;14;0;91785;4636
 2021-06-27;CN;China;22;0;91807;4636
 2021-06-28;CN;China;18;0;91825;4636
+2021-06-29;CN;China;9;0;91834;4636
 2020-03-06;CO;Colombia;1;0;1;0
 2020-03-07;CO;Colombia;0;0;1;0
 2020-03-08;CO;Colombia;0;0;1;0
@@ -19597,6 +19640,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CO;Colombia;33594;693;4126340;104014
 2021-06-27;CO;Colombia;32376;664;4158716;104678
 2021-06-28;CO;Colombia;28478;648;4187194;105326
+2021-06-29;CO;Colombia;25880;608;4213074;105934
 2020-04-30;KM;Comoros;1;0;1;0
 2020-05-01;KM;Comoros;0;0;1;0
 2020-05-02;KM;Comoros;2;0;3;0
@@ -20022,6 +20066,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KM;Comoros;0;0;3912;146
 2021-06-27;KM;Comoros;0;0;3912;146
 2021-06-28;KM;Comoros;0;0;3912;146
+2021-06-29;KM;Comoros;0;0;3912;146
 2020-03-15;CG;Congo;1;0;1;0
 2020-03-16;CG;Congo;0;0;1;0
 2020-03-17;CG;Congo;0;0;1;0
@@ -20493,6 +20538,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CG;Congo;0;0;12485;165
 2021-06-27;CG;Congo;0;0;12485;165
 2021-06-28;CG;Congo;0;0;12485;165
+2021-06-29;CG;Congo;111;0;12596;165
 2021-05-25;CK;Cook Islands;0;0;0;0
 2021-05-26;CK;Cook Islands;0;0;0;0
 2021-05-27;CK;Cook Islands;0;0;0;0
@@ -20521,6 +20567,14 @@ date;id;country;newc;newd;totalc;totald
 2021-06-19;CK;Cook Islands;0;0;0;0
 2021-06-20;CK;Cook Islands;0;0;0;0
 2021-06-21;CK;Cook Islands;0;0;0;0
+2021-06-22;CK;Cook Islands;0;0;0;0
+2021-06-23;CK;Cook Islands;0;0;0;0
+2021-06-24;CK;Cook Islands;0;0;0;0
+2021-06-25;CK;Cook Islands;0;0;0;0
+2021-06-26;CK;Cook Islands;0;0;0;0
+2021-06-27;CK;Cook Islands;0;0;0;0
+2021-06-28;CK;Cook Islands;0;0;0;0
+2021-06-29;CK;Cook Islands;0;0;0;0
 2020-03-06;CR;Costa Rica;1;0;1;0
 2020-03-07;CR;Costa Rica;0;0;1;0
 2020-03-08;CR;Costa Rica;4;0;5;0
@@ -21001,6 +21055,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CR;Costa Rica;0;0;361005;4602
 2021-06-27;CR;Costa Rica;0;0;361005;4602
 2021-06-28;CR;Costa Rica;3299;46;364304;4648
+2021-06-29;CR;Costa Rica;1857;13;366161;4661
 2020-03-11;CI;Cote d'Ivoire;1;0;1;0
 2020-03-12;CI;Cote d'Ivoire;0;0;1;0
 2020-03-13;CI;Cote d'Ivoire;0;0;1;0
@@ -21476,6 +21531,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CI;Cote d'Ivoire;118;2;48176;311
 2021-06-27;CI;Cote d'Ivoire;16;1;48192;312
 2021-06-28;CI;Cote d'Ivoire;11;1;48203;313
+2021-06-29;CI;Cote d'Ivoire;39;0;48242;313
 2020-02-25;HR;Croatia;1;0;1;0
 2020-02-26;HR;Croatia;2;0;3;0
 2020-02-27;HR;Croatia;0;0;3;0
@@ -21966,6 +22022,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;HR;Croatia;86;1;359607;8197
 2021-06-27;HR;Croatia;45;3;359652;8200
 2021-06-28;HR;Croatia;14;2;359666;8202
+2021-06-29;HR;Croatia;70;3;359736;8205
 2020-03-12;CU;Cuba;3;0;3;0
 2020-03-13;CU;Cuba;1;0;4;0
 2020-03-14;CU;Cuba;0;0;4;0
@@ -22440,6 +22497,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CU;Cuba;2403;12;179656;1231
 2021-06-27;CU;Cuba;2698;10;182354;1241
 2021-06-28;CU;Cuba;2589;12;184943;1253
+2021-06-29;CU;Cuba;3080;17;188023;1270
 2021-03-29;CW;Curacao;0;0;0;0
 2021-03-30;CW;Curacao;0;0;0;0
 2021-03-31;CW;Curacao;0;0;0;0
@@ -22532,6 +22590,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CW;Curacao;0;0;0;0
 2021-06-27;CW;Curacao;0;0;0;0
 2021-06-28;CW;Curacao;0;0;0;0
+2021-06-29;CW;Curacao;0;0;0;0
 2020-03-09;CY;Cyprus;2;0;2;0
 2020-03-10;CY;Cyprus;1;0;3;0
 2020-03-11;CY;Cyprus;3;0;6;0
@@ -23009,6 +23068,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CY;Cyprus;226;0;74569;374
 2021-06-27;CY;Cyprus;216;0;74785;374
 2021-06-28;CY;Cyprus;314;0;75099;374
+2021-06-29;CY;Cyprus;332;0;75431;374
 2020-03-01;CZ;Czechia;3;0;3;0
 2020-03-02;CZ;Czechia;0;0;3;0
 2020-03-03;CZ;Czechia;2;0;5;0
@@ -23494,6 +23554,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CZ;Czechia;135;4;1666821;30296
 2021-06-27;CZ;Czechia;69;2;1666890;30298
 2021-06-28;CZ;Czechia;57;0;1666947;30298
+2021-06-29;CZ;Czechia;168;0;1667115;30298
 2020-03-11;CD;Democratic Republic of Congo;1;0;1;0
 2020-03-12;CD;Democratic Republic of Congo;0;0;1;0
 2020-03-13;CD;Democratic Republic of Congo;1;0;2;0
@@ -23969,6 +24030,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CD;Democratic Republic of Congo;363;14;39758;912
 2021-06-27;CD;Democratic Republic of Congo;496;4;40254;916
 2021-06-28;CD;Democratic Republic of Congo;185;0;40439;916
+2021-06-29;CD;Democratic Republic of Congo;397;8;40836;924
 2020-02-02;DK;Denmark;0;0;0;0
 2020-02-03;DK;Denmark;0;0;0;0
 2020-02-04;DK;Denmark;0;0;0;0
@@ -24482,6 +24544,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DK;Denmark;196;0;293590;2532
 2021-06-27;DK;Denmark;175;1;293765;2533
 2021-06-28;DK;Denmark;151;1;293916;2534
+2021-06-29;DK;Denmark;246;1;294162;2535
 2020-03-18;DJ;Djibouti;1;0;1;0
 2020-03-19;DJ;Djibouti;0;0;1;0
 2020-03-20;DJ;Djibouti;0;0;1;0
@@ -24950,6 +25013,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DJ;Djibouti;0;0;11600;155
 2021-06-27;DJ;Djibouti;1;0;11601;155
 2021-06-28;DJ;Djibouti;0;0;11601;155
+2021-06-29;DJ;Djibouti;1;0;11602;155
 2020-03-22;DM;Dominica;1;0;1;0
 2020-03-23;DM;Dominica;1;0;2;0
 2020-03-24;DM;Dominica;0;0;2;0
@@ -25414,6 +25478,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DM;Dominica;0;0;192;0
 2021-06-27;DM;Dominica;1;0;193;0
 2021-06-28;DM;Dominica;0;0;193;0
+2021-06-29;DM;Dominica;0;0;193;0
 2020-03-01;DO;Dominican Republic;1;0;1;0
 2020-03-02;DO;Dominican Republic;0;0;1;0
 2020-03-03;DO;Dominican Republic;0;0;1;0
@@ -25899,6 +25964,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DO;Dominican Republic;998;7;322071;3796
 2021-06-27;DO;Dominican Republic;707;1;322778;3797
 2021-06-28;DO;Dominican Republic;872;4;323650;3801
+2021-06-29;DO;Dominican Republic;714;14;324364;3815
 2020-03-01;EC;Ecuador;6;0;6;0
 2020-03-02;EC;Ecuador;0;0;6;0
 2020-03-03;EC;Ecuador;1;0;7;0
@@ -26384,6 +26450,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;EC;Ecuador;1131;52;453365;21485
 2021-06-27;EC;Ecuador;971;38;454336;21523
 2021-06-28;EC;Ecuador;1407;0;455743;21523
+2021-06-29;EC;Ecuador;1746;22;457489;21545
 2020-02-14;EG;Egypt;1;0;1;0
 2020-02-15;EG;Egypt;0;0;1;0
 2020-02-16;EG;Egypt;0;0;1;0
@@ -26885,6 +26952,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;EG;Egypt;409;31;280005;16062
 2021-06-27;EG;Egypt;389;30;280394;16092
 2021-06-28;EG;Egypt;376;33;280770;16125
+2021-06-29;EG;Egypt;261;23;281031;16148
 2020-03-19;SV;El Salvador;1;0;1;0
 2020-03-20;SV;El Salvador;0;0;1;0
 2020-03-21;SV;El Salvador;2;0;3;0
@@ -27352,6 +27420,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SV;El Salvador;0;5;77484;2361
 2021-06-27;SV;El Salvador;1088;6;78572;2367
 2021-06-28;SV;El Salvador;194;4;78766;2371
+2021-06-29;SV;El Salvador;0;5;78766;2376
 2020-03-15;GQ;Equatorial Guinea;1;0;1;0
 2020-03-16;GQ;Equatorial Guinea;0;0;1;0
 2020-03-17;GQ;Equatorial Guinea;0;0;1;0
@@ -27823,6 +27892,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GQ;Equatorial Guinea;11;1;8723;121
 2021-06-27;GQ;Equatorial Guinea;0;0;8723;121
 2021-06-28;GQ;Equatorial Guinea;0;0;8723;121
+2021-06-29;GQ;Equatorial Guinea;11;0;8734;121
 2020-03-21;ER;Eritrea;1;0;1;0
 2020-03-22;ER;Eritrea;0;0;1;0
 2020-03-23;ER;Eritrea;0;0;1;0
@@ -28288,6 +28358,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ER;Eritrea;60;0;5780;21
 2021-06-27;ER;Eritrea;0;0;5780;21
 2021-06-28;ER;Eritrea;104;1;5884;22
+2021-06-29;ER;Eritrea;52;1;5936;23
 2020-01-06;EE;Estonia;0;0;0;0
 2020-01-18;EE;Estonia;0;0;0;0
 2020-02-05;EE;Estonia;0;0;0;0
@@ -28800,6 +28871,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;EE;Estonia;33;0;130941;1269
 2021-06-27;EE;Estonia;27;0;130968;1269
 2021-06-28;EE;Estonia;15;0;130983;1269
+2021-06-29;EE;Estonia;45;0;131028;1269
 2020-03-14;SZ;Eswatini;1;0;1;0
 2020-03-15;SZ;Eswatini;0;0;1;0
 2020-03-16;SZ;Eswatini;0;0;1;0
@@ -29272,6 +29344,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SZ;Eswatini;29;0;19018;678
 2021-06-27;SZ;Eswatini;17;0;19035;678
 2021-06-28;SZ;Eswatini;49;0;19084;678
+2021-06-29;SZ;Eswatini;0;0;19084;678
 2020-03-13;ET;Ethiopia;1;0;1;0
 2020-03-14;ET;Ethiopia;0;0;1;0
 2020-03-15;ET;Ethiopia;0;0;1;0
@@ -29745,6 +29818,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ET;Ethiopia;112;7;275881;4309
 2021-06-27;ET;Ethiopia;54;5;275935;4314
 2021-06-28;ET;Ethiopia;39;1;275974;4315
+2021-06-29;ET;Ethiopia;63;5;276037;4320
 2020-01-23;;Europe;0;0;0;0
 2020-01-24;;Europe;2;0;2;0
 2020-01-25;;Europe;1;0;3;0
@@ -30268,6 +30342,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;Europe;49299;1066;48027404;1101256
 2021-06-27;;Europe;42642;787;48070046;1102043
 2021-06-28;;Europe;61480;898;48131526;1102941
+2021-06-29;;Europe;60736;1273;48192262;1104214
 2020-01-23;;European Union;0;0;0;0
 2020-01-24;;European Union;2;0;2;0
 2020-01-25;;European Union;1;0;3;0
@@ -30791,6 +30866,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;European Union;7855;372;32676855;738160
 2021-06-27;;European Union;6190;147;32683045;738307
 2021-06-28;;European Union;15744;247;32698789;738554
+2021-06-29;;European Union;18563;567;32717352;739121
 2021-01-29;FO;Faeroe Islands;0;0;0;0
 2021-01-30;FO;Faeroe Islands;0;0;0;0
 2021-01-31;FO;Faeroe Islands;0;0;0;0
@@ -31525,6 +31601,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;FJ;Fiji;266;1;3329;15
 2021-06-27;FJ;Fiji;262;0;3591;15
 2021-06-28;FJ;Fiji;241;2;3832;17
+2021-06-29;FJ;Fiji;312;4;4144;21
 2020-01-29;FI;Finland;1;0;1;0
 2020-01-30;FI;Finland;0;0;1;0
 2020-01-31;FI;Finland;0;0;1;0
@@ -32042,6 +32119,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;FI;Finland;270;0;94989;969
 2021-06-27;FI;Finland;95;0;95084;969
 2021-06-28;FI;Finland;84;0;95168;969
+2021-06-29;FI;Finland;219;0;95387;969
 2020-01-24;FR;France;2;0;2;0
 2020-01-25;FR;France;1;0;3;0
 2020-01-26;FR;France;0;0;3;0
@@ -32564,6 +32642,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;FR;France;2128;12;5830394;111113
 2021-06-27;FR;France;1578;17;5831972;111130
 2021-06-28;FR;France;518;44;5832490;111174
+2021-06-29;FR;France;3395;56;5835885;111230
 2021-02-02;PF;French Polynesia;0;0;0;0
 2021-02-03;PF;French Polynesia;0;0;0;0
 2021-02-04;PF;French Polynesia;0;0;0;0
@@ -32704,6 +32783,14 @@ date;id;country;newc;newd;totalc;totald
 2021-06-19;PF;French Polynesia;0;0;0;0
 2021-06-20;PF;French Polynesia;0;0;0;0
 2021-06-21;PF;French Polynesia;0;0;0;0
+2021-06-22;PF;French Polynesia;0;0;0;0
+2021-06-23;PF;French Polynesia;0;0;0;0
+2021-06-24;PF;French Polynesia;0;0;0;0
+2021-06-25;PF;French Polynesia;0;0;0;0
+2021-06-26;PF;French Polynesia;0;0;0;0
+2021-06-27;PF;French Polynesia;0;0;0;0
+2021-06-28;PF;French Polynesia;0;0;0;0
+2021-06-29;PF;French Polynesia;0;0;0;0
 2020-03-14;GA;Gabon;1;0;1;0
 2020-03-15;GA;Gabon;0;0;1;0
 2020-03-16;GA;Gabon;0;0;1;0
@@ -33176,6 +33263,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GA;Gabon;0;0;24984;159
 2021-06-27;GA;Gabon;0;0;24984;159
 2021-06-28;GA;Gabon;0;0;24984;159
+2021-06-29;GA;Gabon;0;0;24984;159
 2020-03-17;GM;Gambia;1;0;1;0
 2020-03-18;GM;Gambia;0;0;1;0
 2020-03-19;GM;Gambia;0;0;1;0
@@ -33645,6 +33733,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GM;Gambia;4;0;6069;181
 2021-06-27;GM;Gambia;0;0;6069;181
 2021-06-28;GM;Gambia;0;0;6069;181
+2021-06-29;GM;Gambia;10;0;6079;181
 2020-02-26;GE;Georgia;1;0;1;0
 2020-02-27;GE;Georgia;0;0;1;0
 2020-02-28;GE;Georgia;0;0;1;0
@@ -34134,6 +34223,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GE;Georgia;754;18;362937;5255
 2021-06-27;GE;Georgia;585;11;363522;5266
 2021-06-28;GE;Georgia;352;9;363874;5275
+2021-06-29;GE;Georgia;1194;22;365068;5297
 2020-01-06;DE;Germany;0;0;0;0
 2020-01-18;DE;Germany;0;0;0;0
 2020-01-24;DE;Germany;0;0;0;0
@@ -34656,6 +34746,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;DE;Germany;488;9;3734153;90761
 2021-06-27;DE;Germany;336;7;3734489;90768
 2021-06-28;DE;Germany;341;58;3734830;90826
+2021-06-29;DE;Germany;569;57;3735399;90883
 2020-03-14;GH;Ghana;3;0;3;0
 2020-03-15;GH;Ghana;3;0;6;0
 2020-03-16;GH;Ghana;0;0;6;0
@@ -35128,6 +35219,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GH;Ghana;0;0;95259;794
 2021-06-27;GH;Ghana;110;1;95369;795
 2021-06-28;GH;Ghana;107;0;95476;795
+2021-06-29;GH;Ghana;166;0;95642;795
 2021-01-10;GI;Gibraltar;0;0;0;0
 2021-01-11;GI;Gibraltar;0;0;0;0
 2021-01-12;GI;Gibraltar;0;0;0;0
@@ -35294,6 +35386,11 @@ date;id;country;newc;newd;totalc;totald
 2021-06-22;GI;Gibraltar;0;0;0;0
 2021-06-23;GI;Gibraltar;0;0;0;0
 2021-06-24;GI;Gibraltar;0;0;0;0
+2021-06-25;GI;Gibraltar;0;0;0;0
+2021-06-26;GI;Gibraltar;0;0;0;0
+2021-06-27;GI;Gibraltar;0;0;0;0
+2021-06-28;GI;Gibraltar;0;0;0;0
+2021-06-29;GI;Gibraltar;0;0;0;0
 2020-01-06;GR;Greece;0;0;0;0
 2020-01-18;GR;Greece;0;0;0;0
 2020-01-24;GR;Greece;0;0;0;0
@@ -35790,6 +35887,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GR;Greece;375;12;420670;12637
 2021-06-27;GR;Greece;235;18;420905;12655
 2021-06-28;GR;Greece;361;8;421266;12663
+2021-06-29;GR;Greece;563;13;421829;12676
 2021-01-27;GL;Greenland;0;0;0;0
 2021-01-28;GL;Greenland;0;0;0;0
 2021-01-29;GL;Greenland;0;0;0;0
@@ -35943,6 +36041,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GL;Greenland;0;0;0;0
 2021-06-27;GL;Greenland;0;0;0;0
 2021-06-28;GL;Greenland;0;0;0;0
+2021-06-29;GL;Greenland;0;0;0;0
 2020-03-22;GD;Grenada;1;0;1;0
 2020-03-23;GD;Grenada;0;0;1;0
 2020-03-24;GD;Grenada;0;0;1;0
@@ -36407,6 +36506,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GD;Grenada;0;0;161;1
 2021-06-27;GD;Grenada;0;0;161;1
 2021-06-28;GD;Grenada;0;0;161;1
+2021-06-29;GD;Grenada;0;0;161;1
 2020-02-17;GT;Guatemala;0;0;0;0
 2020-02-18;GT;Guatemala;0;0;0;0
 2020-02-19;GT;Guatemala;0;0;0;0
@@ -36905,6 +37005,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GT;Guatemala;1865;48;290852;9008
 2021-06-27;GT;Guatemala;743;42;291595;9050
 2021-06-28;GT;Guatemala;382;39;291977;9089
+2021-06-29;GT;Guatemala;697;58;292674;9147
 2021-01-24;GG;Guernsey;0;0;0;0
 2021-01-25;GG;Guernsey;0;0;0;0
 2021-01-26;GG;Guernsey;0;0;0;0
@@ -37058,6 +37159,10 @@ date;id;country;newc;newd;totalc;totald
 2021-06-23;GG;Guernsey;0;0;0;0
 2021-06-24;GG;Guernsey;0;0;0;0
 2021-06-25;GG;Guernsey;0;0;0;0
+2021-06-26;GG;Guernsey;0;0;0;0
+2021-06-27;GG;Guernsey;0;0;0;0
+2021-06-28;GG;Guernsey;0;0;0;0
+2021-06-29;GG;Guernsey;0;0;0;0
 2020-03-13;GN;Guinea;1;0;1;0
 2020-03-14;GN;Guinea;0;0;1;0
 2020-03-15;GN;Guinea;0;0;1;0
@@ -37531,6 +37636,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GN;Guinea;39;0;23692;168
 2021-06-27;GN;Guinea;0;0;23692;168
 2021-06-28;GN;Guinea;52;0;23744;168
+2021-06-29;GN;Guinea;9;1;23753;169
 2020-03-25;GW;Guinea-Bissau;2;0;2;0
 2020-03-26;GW;Guinea-Bissau;0;0;2;0
 2020-03-27;GW;Guinea-Bissau;0;0;2;0
@@ -37992,6 +38098,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GW;Guinea-Bissau;1;0;3846;69
 2021-06-27;GW;Guinea-Bissau;0;0;3846;69
 2021-06-28;GW;Guinea-Bissau;0;0;3846;69
+2021-06-29;GW;Guinea-Bissau;7;0;3853;69
 2020-03-12;GY;Guyana;1;1;1;1
 2020-03-13;GY;Guyana;0;0;1;1
 2020-03-14;GY;Guyana;0;0;1;1
@@ -38466,6 +38573,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GY;Guyana;100;3;19774;462
 2021-06-27;GY;Guyana;103;0;19877;462
 2021-06-28;GY;Guyana;14;4;19891;466
+2021-06-29;GY;Guyana;68;2;19959;468
 2020-03-20;HT;Haiti;2;0;2;0
 2020-03-21;HT;Haiti;0;0;2;0
 2020-03-22;HT;Haiti;0;0;2;0
@@ -38932,6 +39040,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;HT;Haiti;0;0;17963;400
 2021-06-27;HT;Haiti;0;0;17963;400
 2021-06-28;HT;Haiti;249;13;18212;413
+2021-06-29;HT;Haiti;129;2;18341;415
 2020-03-11;HN;Honduras;2;0;2;0
 2020-03-12;HN;Honduras;0;0;2;0
 2020-03-13;HN;Honduras;0;0;2;0
@@ -39407,6 +39516,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;HN;Honduras;1279;14;259628;6916
 2021-06-27;HN;Honduras;0;0;259628;6916
 2021-06-28;HN;Honduras;703;6;260331;6922
+2021-06-29;HN;Honduras;1738;58;262069;6980
 2020-01-23;HK;Hong Kong;2;0;2;0
 2020-01-24;HK;Hong Kong;0;0;2;0
 2020-01-25;HK;Hong Kong;3;0;5;0
@@ -39930,6 +40040,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;HK;Hong Kong;2;-1;11911;210
 2021-06-27;HK;Hong Kong;6;0;11917;210
 2021-06-28;HK;Hong Kong;3;0;11920;210
+2021-06-29;HK;Hong Kong;1;1;11921;211
 2020-03-03;HU;Hungary;0;0;0;0
 2020-03-04;HU;Hungary;2;0;2;0
 2020-03-05;HU;Hungary;0;0;2;0
@@ -40413,6 +40524,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;HU;Hungary;0;0;807910;29980
 2021-06-27;HU;Hungary;0;0;807910;29980
 2021-06-28;HU;Hungary;132;9;808042;29989
+2021-06-29;HU;Hungary;34;2;808076;29991
 2020-02-27;IS;Iceland;0;0;0;0
 2020-02-28;IS;Iceland;1;0;1;0
 2020-02-29;IS;Iceland;0;0;1;0
@@ -40901,6 +41013,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IS;Iceland;0;0;6555;29
 2021-06-27;IS;Iceland;0;0;6555;29
 2021-06-28;IS;Iceland;0;0;6555;29
+2021-06-29;IS;Iceland;0;0;6555;29
 2020-01-30;IN;India;1;0;1;0
 2020-01-31;IN;India;0;0;1;0
 2020-02-01;IN;India;0;0;1;0
@@ -41417,6 +41530,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IN;India;50040;1258;30233183;395751
 2021-06-27;IN;India;46148;979;30279331;396730
 2021-06-28;IN;India;37566;907;30316897;397637
+2021-06-29;IN;India;45951;817;30362848;398454
 2020-03-02;ID;Indonesia;2;0;2;0
 2020-03-03;ID;Indonesia;0;0;2;0
 2020-03-04;ID;Indonesia;0;0;2;0
@@ -41901,6 +42015,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ID;Indonesia;21095;358;2093962;56729
 2021-06-27;ID;Indonesia;21342;409;2115304;57138
 2021-06-28;ID;Indonesia;20694;423;2135998;57561
+2021-06-29;ID;Indonesia;20467;463;2156465;58024
 2020-02-07;;International;61;0;61;0
 2020-02-08;;International;0;0;61;0
 2020-02-09;;International;3;0;64;0
@@ -42409,6 +42524,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;International;0;0;727;15
 2021-06-27;;International;0;0;727;15
 2021-06-28;;International;-5;0;722;15
+2021-06-29;;International;0;0;722;15
 2020-02-19;IR;Iran;2;2;2;2
 2020-02-20;IR;Iran;3;0;5;2
 2020-02-21;IR;Iran;13;2;18;4
@@ -42905,6 +43021,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IR;Iran;7034;123;3157983;83711
 2021-06-27;IR;Iran;9758;134;3167741;83845
 2021-06-28;IR;Iran;12351;140;3180092;83985
+2021-06-29;IR;Iran;12717;142;3192809;84127
 2020-02-24;IQ;Iraq;1;0;1;0
 2020-02-25;IQ;Iraq;0;0;1;0
 2020-02-26;IQ;Iraq;4;0;5;0
@@ -43396,6 +43513,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IQ;Iraq;4814;28;1321232;17061
 2021-06-27;IQ;Iraq;4468;30;1325700;17091
 2021-06-28;IQ;Iraq;6346;30;1332046;17121
+2021-06-29;IQ;Iraq;6558;35;1338604;17156
 2020-02-29;IE;Ireland;1;0;1;0
 2020-03-01;IE;Ireland;0;0;1;0
 2020-03-02;IE;Ireland;0;0;1;0
@@ -43882,6 +44000,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IE;Ireland;443;0;270920;4989
 2021-06-27;IE;Ireland;340;0;271260;4989
 2021-06-28;IE;Ireland;329;0;271589;4989
+2021-06-29;IE;Ireland;342;0;271931;4989
 2021-01-21;IM;Isle of Man;0;0;0;0
 2021-01-22;IM;Isle of Man;0;0;0;0
 2021-01-23;IM;Isle of Man;0;0;0;0
@@ -44041,6 +44160,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IM;Isle of Man;0;0;0;0
 2021-06-27;IM;Isle of Man;0;0;0;0
 2021-06-28;IM;Isle of Man;0;0;0;0
+2021-06-29;IM;Isle of Man;0;0;0;0
 2020-02-20;IL;Israel;0;0;0;0
 2020-02-21;IL;Israel;1;0;1;0
 2020-02-22;IL;Israel;0;0;1;0
@@ -44536,6 +44656,8 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IL;Israel;185;0;840823;6429
 2021-06-27;IL;Israel;65;0;840888;6429
 2021-06-28;IL;Israel;308;0;841196;6429
+2021-06-29;IL;Israel;290;0;841486;6429
+2021-06-30;IL;Israel;0;0;0;0
 2020-01-31;IT;Italy;2;0;2;0
 2020-02-01;IT;Italy;0;0;2;0
 2020-02-02;IT;Italy;0;0;2;0
@@ -45051,6 +45173,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;IT;Italy;838;40;4257289;127458
 2021-06-27;IT;Italy;780;14;4258069;127472
 2021-06-28;IT;Italy;387;28;4258456;127500
+2021-06-29;IT;Italy;677;42;4259133;127542
 2020-03-11;JM;Jamaica;1;0;1;0
 2020-03-12;JM;Jamaica;1;0;2;0
 2020-03-13;JM;Jamaica;6;0;8;0
@@ -45526,6 +45649,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;JM;Jamaica;55;6;49964;1057
 2021-06-27;JM;Jamaica;41;4;50005;1061
 2021-06-28;JM;Jamaica;49;0;50054;1061
+2021-06-29;JM;Jamaica;26;4;50080;1065
 2020-01-22;JP;Japan;0;0;2;0
 2020-01-23;JP;Japan;0;0;2;0
 2020-01-24;JP;Japan;0;0;2;0
@@ -46050,6 +46174,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;JP;Japan;1626;29;794805;14611
 2021-06-27;JP;Japan;1272;10;796077;14621
 2021-06-28;JP;Japan;1007;38;797084;14659
+2021-06-29;JP;Japan;1401;30;798485;14689
 2021-03-14;JE;Jersey;0;0;0;0
 2021-03-15;JE;Jersey;0;0;0;0
 2021-03-16;JE;Jersey;0;0;0;0
@@ -46635,6 +46760,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;JO;Jordan;273;8;749319;9718
 2021-06-27;JO;Jordan;465;9;749784;9727
 2021-06-28;JO;Jordan;605;10;750389;9737
+2021-06-29;JO;Jordan;497;6;750886;9743
 2020-03-13;KZ;Kazakhstan;4;0;4;0
 2020-03-14;KZ;Kazakhstan;2;0;6;0
 2020-03-15;KZ;Kazakhstan;3;0;9;0
@@ -47108,6 +47234,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KZ;Kazakhstan;54;3;473282;3521
 2021-06-27;KZ;Kazakhstan;3458;3;476740;3524
 2021-06-28;KZ;Kazakhstan;1323;3;478063;3527
+2021-06-29;KZ;Kazakhstan;2099;0;480162;3527
 2020-03-06;KE;Kenya;0;0;0;0
 2020-03-07;KE;Kenya;0;0;0;0
 2020-03-08;KE;Kenya;0;0;0;0
@@ -47588,6 +47715,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KE;Kenya;508;18;182393;3574
 2021-06-27;KE;Kenya;204;21;182597;3595
 2021-06-28;KE;Kenya;287;17;182884;3612
+2021-06-29;KE;Kenya;719;9;183603;3621
 2021-05-18;KI;Kiribati;1;0;1;0
 2021-05-19;KI;Kiribati;0;0;1;0
 2021-05-20;KI;Kiribati;0;0;1;0
@@ -47630,6 +47758,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KI;Kiribati;0;0;2;0
 2021-06-27;KI;Kiribati;0;0;2;0
 2021-06-28;KI;Kiribati;0;0;2;0
+2021-06-29;KI;Kiribati;0;0;2;0
 2020-03-14;;Kosovo;2;0;2;0
 2020-03-15;;Kosovo;3;0;5;0
 2020-03-16;;Kosovo;8;0;13;0
@@ -48102,6 +48231,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;Kosovo;0;0;107299;2260
 2021-06-27;;Kosovo;0;0;107299;2260
 2021-06-28;;Kosovo;32;2;107331;2262
+2021-06-29;;Kosovo;4;0;107335;2262
 2020-02-24;KW;Kuwait;1;0;1;0
 2020-02-25;KW;Kuwait;10;0;11;0
 2020-02-26;KW;Kuwait;15;0;26;0
@@ -48593,6 +48723,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KW;Kuwait;1661;6;349923;1919
 2021-06-27;KW;Kuwait;1558;14;351481;1933
 2021-06-28;KW;Kuwait;1652;10;353133;1943
+2021-06-29;KW;Kuwait;1718;18;354851;1961
 2020-03-18;KG;Kyrgyzstan;3;0;3;0
 2020-03-19;KG;Kyrgyzstan;0;0;3;0
 2020-03-20;KG;Kyrgyzstan;3;0;6;0
@@ -49061,6 +49192,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KG;Kyrgyzstan;892;7;119873;1971
 2021-06-27;KG;Kyrgyzstan;992;6;120865;1977
 2021-06-28;KG;Kyrgyzstan;1081;5;121946;1982
+2021-06-29;KG;Kyrgyzstan;1092;10;123038;1992
 2020-03-24;LA;Laos;2;0;2;0
 2020-03-25;LA;Laos;1;0;3;0
 2020-03-26;LA;Laos;3;0;6;0
@@ -49523,6 +49655,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LA;Laos;6;0;2100;3
 2021-06-27;LA;Laos;10;0;2110;3
 2021-06-28;LA;Laos;0;0;2110;3
+2021-06-29;LA;Laos;0;0;2110;3
 2020-01-06;LV;Latvia;0;0;0;0
 2020-01-18;LV;Latvia;0;0;0;0
 2020-01-24;LV;Latvia;0;0;0;0
@@ -50016,6 +50149,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LV;Latvia;39;2;137169;2503
 2021-06-27;LV;Latvia;41;0;137210;2503
 2021-06-28;LV;Latvia;30;0;137240;2503
+2021-06-29;LV;Latvia;89;5;137329;2508
 2020-02-21;LB;Lebanon;1;0;1;0
 2020-02-22;LB;Lebanon;0;0;1;0
 2020-02-23;LB;Lebanon;0;0;1;0
@@ -50510,6 +50644,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LB;Lebanon;126;2;544291;7841
 2021-06-27;LB;Lebanon;163;2;544454;7843
 2021-06-28;LB;Lebanon;66;2;544520;7845
+2021-06-29;LB;Lebanon;185;3;544705;7848
 2020-05-13;LS;Lesotho;1;0;1;0
 2020-05-14;LS;Lesotho;0;0;1;0
 2020-05-15;LS;Lesotho;0;0;1;0
@@ -50922,6 +51057,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LS;Lesotho;71;0;11239;329
 2021-06-27;LS;Lesotho;0;0;11239;329
 2021-06-28;LS;Lesotho;0;0;11239;329
+2021-06-29;LS;Lesotho;105;0;11344;329
 2020-03-16;LR;Liberia;1;0;1;0
 2020-03-17;LR;Liberia;0;0;1;0
 2020-03-18;LR;Liberia;1;0;2;0
@@ -51392,6 +51528,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LR;Liberia;155;1;3529;113
 2021-06-27;LR;Liberia;207;7;3736;120
 2021-06-28;LR;Liberia;58;3;3794;123
+2021-06-29;LR;Liberia;106;4;3900;127
 2020-03-04;LY;Libya;0;0;0;0
 2020-03-05;LY;Libya;0;0;0;0
 2020-03-06;LY;Libya;0;0;0;0
@@ -51874,6 +52011,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LY;Libya;0;0;192129;3185
 2021-06-27;LY;Libya;341;2;192470;3187
 2021-06-28;LY;Libya;316;4;192786;3191
+2021-06-29;LY;Libya;452;0;193238;3191
 2020-03-04;LI;Liechtenstein;1;0;1;0
 2020-03-05;LI;Liechtenstein;0;0;1;0
 2020-03-06;LI;Liechtenstein;0;0;1;0
@@ -52356,6 +52494,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LI;Liechtenstein;0;0;3032;59
 2021-06-27;LI;Liechtenstein;0;0;3032;59
 2021-06-28;LI;Liechtenstein;2;0;3034;59
+2021-06-29;LI;Liechtenstein;0;0;3034;59
 2020-02-29;LT;Lithuania;1;0;1;0
 2020-03-01;LT;Lithuania;0;0;1;0
 2020-03-02;LT;Lithuania;0;0;1;0
@@ -52842,6 +52981,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LT;Lithuania;47;1;278655;4379
 2021-06-27;LT;Lithuania;19;1;278674;4380
 2021-06-28;LT;Lithuania;15;1;278689;4381
+2021-06-29;LT;Lithuania;37;0;278726;4381
 2020-02-24;LU;Luxembourg;0;0;0;0
 2020-02-25;LU;Luxembourg;0;0;0;0
 2020-02-26;LU;Luxembourg;0;0;0;0
@@ -53333,6 +53473,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LU;Luxembourg;0;0;70600;818
 2021-06-27;LU;Luxembourg;0;0;70600;818
 2021-06-28;LU;Luxembourg;42;0;70642;818
+2021-06-29;LU;Luxembourg;53;0;70695;818
 2021-02-08;MO;Macao;0;0;0;0
 2021-02-09;MO;Macao;0;0;0;0
 2021-02-10;MO;Macao;0;0;0;0
@@ -53474,6 +53615,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MO;Macao;0;0;0;0
 2021-06-27;MO;Macao;0;0;0;0
 2021-06-28;MO;Macao;0;0;0;0
+2021-06-29;MO;Macao;0;0;0;0
 2020-03-20;MG;Madagascar;3;0;3;0
 2020-03-21;MG;Madagascar;0;0;3;0
 2020-03-22;MG;Madagascar;0;0;3;0
@@ -53940,6 +54082,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MG;Madagascar;0;0;42194;906
 2021-06-27;MG;Madagascar;0;0;42194;906
 2021-06-28;MG;Madagascar;0;3;42194;909
+2021-06-29;MG;Madagascar;13;2;42207;911
 2020-03-29;MW;Malawi;0;0;0;0
 2020-03-30;MW;Malawi;0;0;0;0
 2020-03-31;MW;Malawi;0;0;0;0
@@ -54397,6 +54540,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MW;Malawi;166;2;35554;1181
 2021-06-27;MW;Malawi;75;1;35629;1182
 2021-06-28;MW;Malawi;80;5;35709;1187
+2021-06-29;MW;Malawi;188;7;35897;1194
 2020-01-25;MY;Malaysia;3;0;3;0
 2020-01-26;MY;Malaysia;1;0;4;0
 2020-01-27;MY;Malaysia;0;0;4;0
@@ -54918,6 +55062,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MY;Malaysia;5803;81;728462;4884
 2021-06-27;MY;Malaysia;5586;60;734048;4944
 2021-06-28;MY;Malaysia;5218;57;739266;5001
+2021-06-29;MY;Malaysia;6437;107;745703;5108
 2020-03-08;MV;Maldives;4;0;4;0
 2020-03-09;MV;Maldives;0;0;4;0
 2020-03-10;MV;Maldives;2;0;6;0
@@ -55396,6 +55541,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MV;Maldives;150;0;73094;209
 2021-06-27;MV;Maldives;233;0;73327;209
 2021-06-28;MV;Maldives;155;0;73482;209
+2021-06-29;MV;Maldives;178;1;73660;210
 2020-03-25;ML;Mali;2;0;2;0
 2020-03-26;ML;Mali;2;0;4;0
 2020-03-27;ML;Mali;7;0;11;0
@@ -55857,6 +56003,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ML;Mali;10;0;14414;525
 2021-06-27;ML;Mali;3;0;14417;525
 2021-06-28;ML;Mali;2;0;14419;525
+2021-06-29;ML;Mali;3;0;14422;525
 2020-02-06;MT;Malta;0;0;0;0
 2020-02-07;MT;Malta;0;0;0;0
 2020-02-08;MT;Malta;0;0;0;0
@@ -56366,6 +56513,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MT;Malta;3;0;30606;420
 2021-06-27;MT;Malta;0;0;30606;420
 2021-06-28;MT;Malta;6;0;30612;420
+2021-06-29;MT;Malta;6;0;30618;420
 2020-10-28;MH;Marshall Islands;2;0;2;0
 2020-10-29;MH;Marshall Islands;0;0;2;0
 2020-10-30;MH;Marshall Islands;0;0;2;0
@@ -56610,6 +56758,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MH;Marshall Islands;0;0;4;0
 2021-06-27;MH;Marshall Islands;0;0;4;0
 2021-06-28;MH;Marshall Islands;0;0;4;0
+2021-06-29;MH;Marshall Islands;0;0;4;0
 2020-03-14;MR;Mauritania;1;0;1;0
 2020-03-15;MR;Mauritania;0;0;1;0
 2020-03-16;MR;Mauritania;0;0;1;0
@@ -57082,6 +57231,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MR;Mauritania;36;0;20604;486
 2021-06-27;MR;Mauritania;31;0;20635;486
 2021-06-28;MR;Mauritania;41;1;20676;487
+2021-06-29;MR;Mauritania;71;0;20747;487
 2020-03-18;MU;Mauritius;3;0;3;0
 2020-03-19;MU;Mauritius;0;0;3;0
 2020-03-20;MU;Mauritius;9;0;12;0
@@ -57550,6 +57700,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MU;Mauritius;54;0;1833;18
 2021-06-27;MU;Mauritius;0;0;1833;18
 2021-06-28;MU;Mauritius;0;0;1833;18
+2021-06-29;MU;Mauritius;0;0;1833;18
 2020-01-01;MX;Mexico;0;0;0;0
 2020-01-02;MX;Mexico;0;0;0;0
 2020-01-03;MX;Mexico;0;0;0;0
@@ -58095,6 +58246,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MX;Mexico;5051;175;2503408;232521
 2021-06-27;MX;Mexico;2384;43;2505792;232564
 2021-06-28;MX;Mexico;1661;44;2507453;232608
+2021-06-29;MX;Mexico;5711;195;2513164;232803
 2021-01-21;FM;Micronesia (country);1;0;1;0
 2021-01-22;FM;Micronesia (country);0;0;1;0
 2021-01-23;FM;Micronesia (country);0;0;1;0
@@ -58254,6 +58406,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;FM;Micronesia (country);0;0;1;0
 2021-06-27;FM;Micronesia (country);0;0;1;0
 2021-06-28;FM;Micronesia (country);0;0;1;0
+2021-06-29;FM;Micronesia (country);0;0;1;0
 2020-03-08;MD;Moldova;1;0;1;0
 2020-03-09;MD;Moldova;0;0;1;0
 2020-03-10;MD;Moldova;2;0;3;0
@@ -58732,6 +58885,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MD;Moldova;52;1;256527;6183
 2021-06-27;MD;Moldova;32;1;256559;6184
 2021-06-28;MD;Moldova;55;3;256614;6187
+2021-06-29;MD;Moldova;55;4;256669;6191
 2020-02-29;MC;Monaco;1;0;1;0
 2020-03-01;MC;Monaco;0;0;1;0
 2020-03-02;MC;Monaco;0;0;1;0
@@ -59218,6 +59372,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MC;Monaco;0;0;2570;33
 2021-06-27;MC;Monaco;1;0;2571;33
 2021-06-28;MC;Monaco;4;0;2575;33
+2021-06-29;MC;Monaco;1;0;2576;33
 2020-03-10;MN;Mongolia;1;0;1;0
 2020-03-11;MN;Mongolia;0;0;1;0
 2020-03-12;MN;Mongolia;0;0;1;0
@@ -59694,6 +59849,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MN;Mongolia;2432;13;109694;518
 2021-06-27;MN;Mongolia;1811;15;111505;533
 2021-06-28;MN;Mongolia;0;0;111505;533
+2021-06-29;MN;Mongolia;1727;15;113232;548
 2020-03-17;ME;Montenegro;2;0;2;0
 2020-03-18;ME;Montenegro;0;0;2;0
 2020-03-19;ME;Montenegro;1;0;3;0
@@ -60163,6 +60319,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ME;Montenegro;23;0;100168;1609
 2021-06-27;ME;Montenegro;22;0;100190;1609
 2021-06-28;ME;Montenegro;14;0;100204;1609
+2021-06-29;ME;Montenegro;26;1;100230;1610
 2021-02-08;MS;Montserrat;0;0;0;0
 2021-02-09;MS;Montserrat;0;0;0;0
 2021-02-10;MS;Montserrat;0;0;0;0
@@ -60809,6 +60966,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MA;Morocco;493;5;529224;9273
 2021-06-27;MA;Morocco;452;4;529676;9277
 2021-06-28;MA;Morocco;219;6;529895;9283
+2021-06-29;MA;Morocco;690;9;530585;9292
 2020-03-22;MZ;Mozambique;1;0;1;0
 2020-03-23;MZ;Mozambique;0;0;1;0
 2020-03-24;MZ;Mozambique;2;0;3;0
@@ -61273,6 +61431,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MZ;Mozambique;518;2;74704;867
 2021-06-27;MZ;Mozambique;434;1;75138;868
 2021-06-28;MZ;Mozambique;284;1;75422;869
+2021-06-29;MZ;Mozambique;406;3;75828;872
 2020-03-27;MM;Myanmar;8;0;8;0
 2020-03-28;MM;Myanmar;0;0;8;0
 2020-03-29;MM;Myanmar;2;0;10;0
@@ -61732,6 +61891,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MM;Myanmar;783;8;152356;3290
 2021-06-27;MM;Myanmar;804;7;153160;3297
 2021-06-28;MM;Myanmar;1225;12;154385;3309
+2021-06-29;MM;Myanmar;1312;11;155697;3320
 2020-03-14;NA;Namibia;2;0;2;0
 2020-03-15;NA;Namibia;0;0;2;0
 2020-03-16;NA;Namibia;0;0;2;0
@@ -62204,6 +62364,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NA;Namibia;2428;40;83698;1345
 2021-06-27;NA;Namibia;1007;55;84705;1400
 2021-06-28;NA;Namibia;1944;45;86649;1445
+2021-06-29;NA;Namibia;0;0;86649;1445
 2021-04-08;NR;Nauru;0;0;0;0
 2021-04-09;NR;Nauru;0;0;0;0
 2021-04-10;NR;Nauru;0;0;0;0
@@ -62279,6 +62440,14 @@ date;id;country;newc;newd;totalc;totald
 2021-06-19;NR;Nauru;0;0;0;0
 2021-06-20;NR;Nauru;0;0;0;0
 2021-06-21;NR;Nauru;0;0;0;0
+2021-06-22;NR;Nauru;0;0;0;0
+2021-06-23;NR;Nauru;0;0;0;0
+2021-06-24;NR;Nauru;0;0;0;0
+2021-06-25;NR;Nauru;0;0;0;0
+2021-06-26;NR;Nauru;0;0;0;0
+2021-06-27;NR;Nauru;0;0;0;0
+2021-06-28;NR;Nauru;0;0;0;0
+2021-06-29;NR;Nauru;0;0;0;0
 2020-01-25;NP;Nepal;1;0;1;0
 2020-01-26;NP;Nepal;0;0;1;0
 2020-01-27;NP;Nepal;0;0;1;0
@@ -62800,6 +62969,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NP;Nepal;1174;30;632326;8975
 2021-06-27;NP;Nepal;1353;34;633679;9009
 2021-06-28;NP;Nepal;1509;42;635188;9051
+2021-06-29;NP;Nepal;1728;20;636916;9071
 2020-02-27;NL;Netherlands;1;0;1;0
 2020-02-28;NL;Netherlands;0;0;1;0
 2020-02-29;NL;Netherlands;5;0;6;0
@@ -63288,6 +63458,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NL;Netherlands;563;0;1710474;18023
 2021-06-27;NL;Netherlands;499;1;1710973;18024
 2021-06-28;NL;Netherlands;572;0;1711545;18024
+2021-06-29;NL;Netherlands;555;4;1712100;18028
 2021-02-02;NC;New Caledonia;0;0;0;0
 2021-02-03;NC;New Caledonia;0;0;0;0
 2021-02-04;NC;New Caledonia;0;0;0;0
@@ -63428,6 +63599,14 @@ date;id;country;newc;newd;totalc;totald
 2021-06-19;NC;New Caledonia;0;0;0;0
 2021-06-20;NC;New Caledonia;0;0;0;0
 2021-06-21;NC;New Caledonia;0;0;0;0
+2021-06-22;NC;New Caledonia;0;0;0;0
+2021-06-23;NC;New Caledonia;0;0;0;0
+2021-06-24;NC;New Caledonia;0;0;0;0
+2021-06-25;NC;New Caledonia;0;0;0;0
+2021-06-26;NC;New Caledonia;0;0;0;0
+2021-06-27;NC;New Caledonia;0;0;0;0
+2021-06-28;NC;New Caledonia;0;0;0;0
+2021-06-29;NC;New Caledonia;0;0;0;0
 2020-02-28;NZ;New Zealand;1;0;1;0
 2020-02-29;NZ;New Zealand;0;0;1;0
 2020-03-01;NZ;New Zealand;0;0;1;0
@@ -63915,6 +64094,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NZ;New Zealand;0;0;2730;26
 2021-06-27;NZ;New Zealand;9;0;2739;26
 2021-06-28;NZ;New Zealand;3;0;2742;26
+2021-06-29;NZ;New Zealand;1;0;2743;26
 2020-03-19;NI;Nicaragua;1;0;1;0
 2020-03-20;NI;Nicaragua;0;0;1;0
 2020-03-21;NI;Nicaragua;1;0;2;0
@@ -64382,6 +64562,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NI;Nicaragua;0;0;7920;189
 2021-06-27;NI;Nicaragua;0;0;7920;189
 2021-06-28;NI;Nicaragua;0;0;7920;189
+2021-06-29;NI;Nicaragua;258;2;8178;191
 2020-03-20;NE;Niger;1;0;1;0
 2020-03-21;NE;Niger;0;0;1;0
 2020-03-22;NE;Niger;1;0;2;0
@@ -64848,6 +65029,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NE;Niger;0;0;5478;193
 2021-06-27;NE;Niger;1;0;5479;193
 2021-06-28;NE;Niger;1;0;5480;193
+2021-06-29;NE;Niger;8;0;5488;193
 2020-02-28;NG;Nigeria;1;0;1;0
 2020-02-29;NG;Nigeria;0;0;1;0
 2020-03-01;NG;Nigeria;0;0;1;0
@@ -65335,6 +65517,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NG;Nigeria;35;0;167465;2119
 2021-06-27;NG;Nigeria;2;0;167467;2119
 2021-06-28;NG;Nigeria;65;0;167532;2119
+2021-06-29;NG;Nigeria;11;1;167543;2120
 2020-01-22;;North America;0;0;1;0
 2020-01-23;;North America;0;0;1;0
 2020-01-24;;North America;1;0;2;0
@@ -65859,6 +66042,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;North America;20779;442;39582863;900233
 2021-06-27;;North America;12861;210;39595724;900443
 2021-06-28;;North America;27050;356;39622774;900799
+2021-06-29;;North America;27948;777;39650722;901576
 2020-02-26;MK;North Macedonia;1;0;1;0
 2020-02-27;MK;North Macedonia;0;0;1;0
 2020-02-28;MK;North Macedonia;0;0;1;0
@@ -66348,6 +66532,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;MK;North Macedonia;6;0;155669;5484
 2021-06-27;MK;North Macedonia;4;0;155673;5484
 2021-06-28;MK;North Macedonia;3;0;155676;5484
+2021-06-29;MK;North Macedonia;6;0;155682;5484
 2021-01-14;;Northern Cyprus;0;0;0;0
 2021-01-15;;Northern Cyprus;0;0;0;0
 2021-01-16;;Northern Cyprus;0;0;0;0
@@ -66972,6 +67157,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;NO;Norway;149;0;130491;792
 2021-06-27;NO;Norway;97;0;130588;792
 2021-06-28;NO;Norway;156;0;130744;792
+2021-06-29;NO;Norway;293;0;131037;792
 2020-01-25;;Oceania;0;0;0;0
 2020-01-26;;Oceania;4;0;4;0
 2020-01-27;;Oceania;1;0;5;0
@@ -67493,6 +67679,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;Oceania;327;1;53690;1125
 2021-06-27;;Oceania;300;0;53990;1125
 2021-06-28;;Oceania;276;2;54266;1127
+2021-06-29;;Oceania;355;4;54621;1131
 2020-02-24;OM;Oman;2;0;2;0
 2020-02-25;OM;Oman;0;0;2;0
 2020-02-26;OM;Oman;2;0;4;0
@@ -67984,6 +68171,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;OM;Oman;0;0;256542;2848
 2021-06-27;OM;Oman;5517;119;262059;2967
 2021-06-28;OM;Oman;2243;46;264302;3013
+2021-06-29;OM;Oman;2234;43;266536;3056
 2020-02-25;PK;Pakistan;2;0;2;0
 2020-02-26;PK;Pakistan;0;0;2;0
 2020-02-27;PK;Pakistan;0;0;2;0
@@ -68474,6 +68662,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PK;Pakistan;901;23;954743;22211
 2021-06-27;PK;Pakistan;914;20;955657;22231
 2021-06-28;PK;Pakistan;735;23;956392;22254
+2021-06-29;PK;Pakistan;979;27;957371;22281
 2020-03-05;PS;Palestine;4;0;4;0
 2020-03-06;PS;Palestine;3;0;7;0
 2020-03-07;PS;Palestine;9;0;16;0
@@ -68955,6 +69144,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PS;Palestine;0;0;313520;3556
 2021-06-27;PS;Palestine;201;3;313721;3559
 2021-06-28;PS;Palestine;130;2;313851;3561
+2021-06-29;PS;Palestine;0;0;313851;3561
 2020-03-09;PA;Panama;0;0;0;0
 2020-03-10;PA;Panama;1;0;1;0
 2020-03-11;PA;Panama;7;1;8;1
@@ -69432,6 +69622,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PA;Panama;1057;9;399877;6514
 2021-06-27;PA;Panama;789;10;400666;6524
 2021-06-28;PA;Panama;666;5;401332;6529
+2021-06-29;PA;Panama;1249;7;402581;6536
 2020-03-20;PG;Papua New Guinea;1;0;1;0
 2020-03-21;PG;Papua New Guinea;0;0;1;0
 2020-03-22;PG;Papua New Guinea;0;0;1;0
@@ -69898,6 +70089,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PG;Papua New Guinea;19;0;17098;173
 2021-06-27;PG;Papua New Guinea;0;0;17098;173
 2021-06-28;PG;Papua New Guinea;0;0;17098;173
+2021-06-29;PG;Papua New Guinea;0;0;17098;173
 2020-03-07;PY;Paraguay;0;0;0;0
 2020-03-08;PY;Paraguay;1;0;1;0
 2020-03-09;PY;Paraguay;0;0;1;0
@@ -70377,6 +70569,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PY;Paraguay;1523;154;416843;12365
 2021-06-27;PY;Paraguay;1487;152;418330;12517
 2021-06-28;PY;Paraguay;1434;124;419764;12641
+2021-06-29;PY;Paraguay;1825;122;421589;12763
 2020-01-06;PE;Peru;0;0;0;0
 2020-01-07;PE;Peru;0;0;0;0
 2020-01-08;PE;Peru;0;0;0;0
@@ -70917,6 +71110,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PE;Peru;0;0;2043262;191447
 2021-06-27;PE;Peru;2795;137;2046057;191584
 2021-06-28;PE;Peru;2058;315;2048115;191899
+2021-06-29;PE;Peru;0;0;2048115;191899
 2020-01-30;PH;Philippines;1;0;1;0
 2020-01-31;PH;Philippines;0;0;1;0
 2020-02-01;PH;Philippines;0;0;1;0
@@ -71433,6 +71627,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PH;Philippines;6858;92;1391911;24244
 2021-06-27;PH;Philippines;6081;128;1397992;24372
 2021-06-28;PH;Philippines;5596;84;1403588;24456
+2021-06-29;PH;Philippines;4470;101;1408058;24557
 2021-06-15;PN;Pitcairn;0;0;0;0
 2021-06-16;PN;Pitcairn;0;0;0;0
 2021-06-17;PN;Pitcairn;0;0;0;0
@@ -71922,6 +72117,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PL;Poland;99;21;2879569;74974
 2021-06-27;PL;Poland;69;5;2879638;74979
 2021-06-28;PL;Poland;51;0;2879689;74979
+2021-06-29;PL;Poland;122;26;2879811;75005
 2020-01-06;PT;Portugal;0;0;0;0
 2020-01-18;PT;Portugal;0;0;0;0
 2020-01-24;PT;Portugal;0;0;0;0
@@ -72414,6 +72610,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;PT;Portugal;1568;2;873051;17083
 2021-06-27;PT;Portugal;1496;1;874547;17084
 2021-06-28;PT;Portugal;902;2;875449;17086
+2021-06-29;PT;Portugal;1746;6;877195;17092
 2020-02-29;QA;Qatar;1;0;1;0
 2020-03-01;QA;Qatar;2;0;3;0
 2020-03-02;QA;Qatar;0;0;3;0
@@ -72900,6 +73097,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;QA;Qatar;125;0;221590;588
 2021-06-27;QA;Qatar;102;0;221692;588
 2021-06-28;QA;Qatar;118;0;221810;588
+2021-06-29;QA;Qatar;143;0;221953;588
 2020-02-26;RO;Romania;1;0;1;0
 2020-02-27;RO;Romania;0;0;1;0
 2020-02-28;RO;Romania;2;0;3;0
@@ -73389,6 +73587,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;RO;Romania;62;266;1080584;33177
 2021-06-27;RO;Romania;46;76;1080630;33253
 2021-06-28;RO;Romania;37;58;1080667;33311
+2021-06-29;RO;Romania;73;294;1080740;33605
 2020-01-31;RU;Russia;2;0;2;0
 2020-02-01;RU;Russia;0;0;2;0
 2020-02-02;RU;Russia;0;0;2;0
@@ -73904,6 +74103,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;RU;Russia;21312;610;5367317;130479
 2021-06-27;RU;Russia;20169;591;5387486;131070
 2021-06-28;RU;Russia;21258;601;5408744;131671
+2021-06-29;RU;Russia;20217;643;5428961;132314
 2020-03-14;RW;Rwanda;1;0;1;0
 2020-03-15;RW;Rwanda;0;0;1;0
 2020-03-16;RW;Rwanda;4;0;5;0
@@ -74376,6 +74576,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;RW;Rwanda;868;7;35886;411
 2021-06-27;RW;Rwanda;741;9;36627;420
 2021-06-28;RW;Rwanda;757;7;37384;427
+2021-06-29;RW;Rwanda;814;4;38198;431
 2021-02-03;SH;Saint Helena;0;0;0;0
 2021-02-04;SH;Saint Helena;0;0;0;0
 2021-02-05;SH;Saint Helena;0;0;0;0
@@ -74929,6 +75130,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KN;Saint Kitts and Nevis;3;0;428;3
 2021-06-27;KN;Saint Kitts and Nevis;1;0;429;3
 2021-06-28;KN;Saint Kitts and Nevis;10;0;439;3
+2021-06-29;KN;Saint Kitts and Nevis;4;0;443;3
 2020-03-14;LC;Saint Lucia;1;0;1;0
 2020-03-15;LC;Saint Lucia;1;0;2;0
 2020-03-16;LC;Saint Lucia;0;0;2;0
@@ -75401,6 +75603,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LC;Saint Lucia;7;0;5269;84
 2021-06-27;LC;Saint Lucia;9;0;5278;84
 2021-06-28;LC;Saint Lucia;6;0;5284;84
+2021-06-29;LC;Saint Lucia;8;0;5292;84
 2020-03-14;VC;Saint Vincent and the Grenadines;1;0;1;0
 2020-03-15;VC;Saint Vincent and the Grenadines;0;0;1;0
 2020-03-16;VC;Saint Vincent and the Grenadines;0;0;1;0
@@ -75873,6 +76076,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;VC;Saint Vincent and the Grenadines;2;0;2218;12
 2021-06-27;VC;Saint Vincent and the Grenadines;1;0;2219;12
 2021-06-28;VC;Saint Vincent and the Grenadines;0;0;2219;12
+2021-06-29;VC;Saint Vincent and the Grenadines;6;0;2225;12
 2020-11-18;WS;Samoa;1;0;1;0
 2020-11-19;WS;Samoa;0;0;1;0
 2020-11-20;WS;Samoa;0;0;1;0
@@ -76096,6 +76300,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;WS;Samoa;0;0;3;0
 2021-06-27;WS;Samoa;0;0;3;0
 2021-06-28;WS;Samoa;0;0;3;0
+2021-06-29;WS;Samoa;0;0;3;0
 2020-02-27;SM;San Marino;1;0;1;0
 2020-02-28;SM;San Marino;0;0;1;0
 2020-02-29;SM;San Marino;0;0;1;0
@@ -76584,6 +76789,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SM;San Marino;0;0;5090;90
 2021-06-27;SM;San Marino;0;0;5090;90
 2021-06-28;SM;San Marino;1;0;5091;90
+2021-06-29;SM;San Marino;0;0;5091;90
 2020-04-06;ST;Sao Tome and Principe;4;0;4;0
 2020-04-07;ST;Sao Tome and Principe;0;0;4;0
 2020-04-08;ST;Sao Tome and Principe;0;0;4;0
@@ -77033,6 +77239,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ST;Sao Tome and Principe;0;0;2365;37
 2021-06-27;ST;Sao Tome and Principe;0;0;2365;37
 2021-06-28;ST;Sao Tome and Principe;0;0;2365;37
+2021-06-29;ST;Sao Tome and Principe;1;0;2366;37
 2020-03-02;SA;Saudi Arabia;1;0;1;0
 2020-03-03;SA;Saudi Arabia;0;0;1;0
 2020-03-04;SA;Saudi Arabia;0;0;1;0
@@ -77517,6 +77724,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SA;Saudi Arabia;1301;17;482003;7760
 2021-06-27;SA;Saudi Arabia;1218;15;483221;7775
 2021-06-28;SA;Saudi Arabia;1318;14;484539;7789
+2021-06-29;SA;Saudi Arabia;1567;15;486106;7804
 2020-02-28;SN;Senegal;0;0;0;0
 2020-02-29;SN;Senegal;0;0;0;0
 2020-03-01;SN;Senegal;0;0;0;0
@@ -78004,6 +78212,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SN;Senegal;104;2;42851;1163
 2021-06-27;SN;Senegal;53;1;42904;1164
 2021-06-28;SN;Senegal;25;0;42929;1164
+2021-06-29;SN;Senegal;28;2;42957;1166
 2020-02-26;RS;Serbia;0;0;0;0
 2020-02-27;RS;Serbia;0;0;0;0
 2020-02-28;RS;Serbia;0;0;0;0
@@ -78493,6 +78702,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;RS;Serbia;66;5;716238;7029
 2021-06-27;RS;Serbia;63;2;716301;7031
 2021-06-28;RS;Serbia;84;8;716385;7039
+2021-06-29;RS;Serbia;73;4;716458;7043
 2020-03-14;SC;Seychelles;2;0;2;0
 2020-03-15;SC;Seychelles;0;0;2;0
 2020-03-16;SC;Seychelles;1;0;3;0
@@ -78965,6 +79175,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SC;Seychelles;0;0;15116;63
 2021-06-27;SC;Seychelles;0;0;15116;63
 2021-06-28;SC;Seychelles;463;5;15579;68
+2021-06-29;SC;Seychelles;0;0;15579;68
 2020-03-31;SL;Sierra Leone;1;0;1;0
 2020-04-01;SL;Sierra Leone;1;0;2;0
 2020-04-02;SL;Sierra Leone;0;0;2;0
@@ -79420,6 +79631,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SL;Sierra Leone;53;6;5306;93
 2021-06-27;SL;Sierra Leone;75;1;5381;94
 2021-06-28;SL;Sierra Leone;62;3;5443;97
+2021-06-29;SL;Sierra Leone;52;1;5495;98
 2020-01-23;SG;Singapore;1;0;1;0
 2020-01-24;SG;Singapore;2;0;3;0
 2020-01-25;SG;Singapore;0;0;3;0
@@ -79943,6 +80155,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SG;Singapore;17;1;62530;36
 2021-06-27;SG;Singapore;14;0;62544;36
 2021-06-28;SG;Singapore;9;0;62553;36
+2021-06-29;SG;Singapore;354;0;62907;36
 2021-05-07;SX;Sint Maarten (Dutch part);0;0;0;0
 2021-05-08;SX;Sint Maarten (Dutch part);0;0;0;0
 2021-05-09;SX;Sint Maarten (Dutch part);0;0;0;0
@@ -80473,6 +80686,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SK;Slovakia;41;0;391531;12505
 2021-06-27;SK;Slovakia;20;0;391551;12505
 2021-06-28;SK;Slovakia;15;4;391566;12509
+2021-06-29;SK;Slovakia;43;1;391609;12510
 2020-02-02;SI;Slovenia;0;0;0;0
 2020-02-03;SI;Slovenia;0;0;0;0
 2020-02-04;SI;Slovenia;0;0;0;0
@@ -80986,6 +81200,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SI;Slovenia;11;2;257221;4419
 2021-06-27;SI;Slovenia;19;0;257240;4419
 2021-06-28;SI;Slovenia;12;0;257252;4419
+2021-06-29;SI;Slovenia;35;0;257287;4419
 2020-10-12;SB;Solomon Islands;2;0;2;0
 2020-10-13;SB;Solomon Islands;0;0;2;0
 2020-10-14;SB;Solomon Islands;0;0;2;0
@@ -81246,6 +81461,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SB;Solomon Islands;0;0;20;0
 2021-06-27;SB;Solomon Islands;0;0;20;0
 2021-06-28;SB;Solomon Islands;0;0;20;0
+2021-06-29;SB;Solomon Islands;0;0;20;0
 2020-03-16;SO;Somalia;1;0;1;0
 2020-03-17;SO;Somalia;0;0;1;0
 2020-03-18;SO;Somalia;0;0;1;0
@@ -81716,6 +81932,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SO;Somalia;17;0;14892;775
 2021-06-27;SO;Somalia;0;0;14892;775
 2021-06-28;SO;Somalia;41;0;14933;775
+2021-06-29;SO;Somalia;0;0;14933;775
 2020-02-07;ZA;South Africa;0;0;0;0
 2020-02-08;ZA;South Africa;0;0;0;0
 2020-02-09;ZA;South Africa;0;0;0;0
@@ -82224,6 +82441,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ZA;South Africa;17956;157;1913861;59778
 2021-06-27;ZA;South Africa;15036;122;1928897;59900
 2021-06-28;ZA;South Africa;12222;138;1941119;60038
+2021-06-29;ZA;South Africa;13347;226;1954466;60264
 2020-02-22;;South America;0;0;0;0
 2020-02-23;;South America;2;0;2;0
 2020-02-24;;South America;0;0;2;0
@@ -82717,6 +82935,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;South America;128686;3088;32469543;992567
 2021-06-27;;South America;91406;2187;32560949;994754
 2021-06-28;;South America;86411;2524;32647360;997278
+2021-06-29;;South America;125620;3333;32772980;1000611
 2020-01-21;KR;South Korea;0;0;0;0
 2020-01-22;KR;South Korea;0;0;1;0
 2020-01-23;KR;South Korea;0;0;1;0
@@ -83242,6 +83461,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;KR;South Korea;614;1;155071;2013
 2021-06-27;KR;South Korea;501;2;155572;2015
 2021-06-28;KR;South Korea;595;2;156167;2017
+2021-06-29;KR;South Korea;794;1;156961;2018
 2020-04-05;SS;South Sudan;1;0;1;0
 2020-04-06;SS;South Sudan;0;0;1;0
 2020-04-07;SS;South Sudan;1;0;2;0
@@ -83692,6 +83912,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SS;South Sudan;0;0;10812;115
 2021-06-27;SS;South Sudan;0;0;10812;115
 2021-06-28;SS;South Sudan;12;1;10824;116
+2021-06-29;SS;South Sudan;10;1;10834;117
 2020-02-01;ES;Spain;1;0;1;0
 2020-02-02;ES;Spain;0;0;1;0
 2020-02-03;ES;Spain;0;0;1;0
@@ -84206,6 +84427,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ES;Spain;0;0;3782463;80779
 2021-06-27;ES;Spain;0;0;3782463;80779
 2021-06-28;ES;Spain;10179;10;3792642;80789
+2021-06-29;ES;Spain;7091;40;3799733;80829
 2020-01-27;LK;Sri Lanka;1;0;1;0
 2020-01-28;LK;Sri Lanka;0;0;1;0
 2020-01-29;LK;Sri Lanka;0;0;1;0
@@ -84725,6 +84947,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;LK;Sri Lanka;1825;43;251751;2905
 2021-06-27;LK;Sri Lanka;1867;39;253618;2944
 2021-06-28;LK;Sri Lanka;1890;41;255508;2985
+2021-06-29;LK;Sri Lanka;1717;45;257225;3030
 2020-03-12;SD;Sudan;0;0;0;0
 2020-03-13;SD;Sudan;0;1;0;1
 2020-03-14;SD;Sudan;1;0;1;1
@@ -85199,6 +85422,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SD;Sudan;0;0;36574;2750
 2021-06-27;SD;Sudan;0;4;36574;2754
 2021-06-28;SD;Sudan;46;0;36620;2754
+2021-06-29;SD;Sudan;0;0;36620;2754
 2020-03-14;SR;Suriname;1;0;1;0
 2020-03-15;SR;Suriname;0;0;1;0
 2020-03-16;SR;Suriname;0;0;1;0
@@ -85671,6 +85895,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SR;Suriname;149;5;21060;499
 2021-06-27;SR;Suriname;189;8;21249;507
 2021-06-28;SR;Suriname;111;5;21360;512
+2021-06-29;SR;Suriname;159;4;21519;516
 2020-02-01;SE;Sweden;1;0;1;0
 2020-02-02;SE;Sweden;0;0;1;0
 2020-02-03;SE;Sweden;0;0;1;0
@@ -86185,6 +86410,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SE;Sweden;0;0;1088896;14619
 2021-06-27;SE;Sweden;0;0;1088896;14619
 2021-06-28;SE;Sweden;0;0;1088896;14619
+2021-06-29;SE;Sweden;847;7;1089743;14626
 2020-02-25;CH;Switzerland;1;0;1;0
 2020-02-26;CH;Switzerland;0;0;1;0
 2020-02-27;CH;Switzerland;7;0;8;0
@@ -86675,6 +86901,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;CH;Switzerland;0;0;702507;10882
 2021-06-27;CH;Switzerland;0;0;702507;10882
 2021-06-28;CH;Switzerland;239;3;702746;10885
+2021-06-29;CH;Switzerland;129;2;702875;10887
 2020-03-22;SY;Syria;1;0;1;0
 2020-03-23;SY;Syria;0;0;1;0
 2020-03-24;SY;Syria;0;0;1;0
@@ -87139,6 +87366,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;SY;Syria;37;2;25365;1864
 2021-06-27;SY;Syria;39;3;25404;1867
 2021-06-28;SY;Syria;38;3;25442;1870
+2021-06-29;SY;Syria;37;3;25479;1873
 2020-01-16;TW;Taiwan;0;0;0;0
 2020-01-17;TW;Taiwan;0;0;0;0
 2020-01-18;TW;Taiwan;0;0;0;0
@@ -87669,6 +87897,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TW;Taiwan;80;13;14545;623
 2021-06-27;TW;Taiwan;89;9;14634;632
 2021-06-28;TW;Taiwan;60;3;14694;635
+2021-06-29;TW;Taiwan;54;8;14748;643
 2020-04-30;TJ;Tajikistan;15;0;15;0
 2020-05-01;TJ;Tajikistan;0;0;15;0
 2020-05-02;TJ;Tajikistan;61;2;76;2
@@ -88094,6 +88323,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TJ;Tajikistan;23;0;13415;90
 2021-06-27;TJ;Tajikistan;24;0;13439;90
 2021-06-28;TJ;Tajikistan;21;0;13460;90
+2021-06-29;TJ;Tajikistan;18;0;13478;90
 2020-03-16;TZ;Tanzania;1;0;1;0
 2020-03-17;TZ;Tanzania;0;0;1;0
 2020-03-18;TZ;Tanzania;2;0;3;0
@@ -88564,6 +88794,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TZ;Tanzania;0;0;509;21
 2021-06-27;TZ;Tanzania;0;0;509;21
 2021-06-28;TZ;Tanzania;0;0;509;21
+2021-06-29;TZ;Tanzania;0;0;509;21
 2020-01-04;TH;Thailand;0;0;0;0
 2020-01-05;TH;Thailand;0;0;0;0
 2020-01-06;TH;Thailand;0;0;0;0
@@ -89106,6 +89337,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TH;Thailand;4161;51;240452;1870
 2021-06-27;TH;Thailand;3995;42;244447;1912
 2021-06-28;TH;Thailand;5406;22;249853;1934
+2021-06-29;TH;Thailand;4662;36;254515;1970
 2020-03-22;TL;Timor;1;0;1;0
 2020-03-23;TL;Timor;0;0;1;0
 2020-03-24;TL;Timor;0;0;1;0
@@ -89570,6 +89802,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TL;Timor;67;1;8979;21
 2021-06-27;TL;Timor;56;0;9035;21
 2021-06-28;TL;Timor;20;0;9055;21
+2021-06-29;TL;Timor;63;1;9118;22
 2020-03-04;TG;Togo;0;0;0;0
 2020-03-05;TG;Togo;0;0;0;0
 2020-03-06;TG;Togo;1;0;1;0
@@ -90052,6 +90285,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TG;Togo;0;0;13788;128
 2021-06-27;TG;Togo;28;0;13816;128
 2021-06-28;TG;Togo;30;0;13846;128
+2021-06-29;TG;Togo;35;1;13881;129
 2021-04-20;TO;Tonga;0;0;0;0
 2021-04-21;TO;Tonga;0;0;0;0
 2021-04-22;TO;Tonga;0;0;0;0
@@ -90095,25 +90329,6 @@ date;id;country;newc;newd;totalc;totald
 2021-05-30;TO;Tonga;0;0;0;0
 2021-05-31;TO;Tonga;0;0;0;0
 2021-06-01;TO;Tonga;0;0;0;0
-2021-06-02;TO;Tonga;0;0;0;0
-2021-06-03;TO;Tonga;0;0;0;0
-2021-06-04;TO;Tonga;0;0;0;0
-2021-06-05;TO;Tonga;0;0;0;0
-2021-06-06;TO;Tonga;0;0;0;0
-2021-06-07;TO;Tonga;0;0;0;0
-2021-06-08;TO;Tonga;0;0;0;0
-2021-06-09;TO;Tonga;0;0;0;0
-2021-06-10;TO;Tonga;0;0;0;0
-2021-06-11;TO;Tonga;0;0;0;0
-2021-06-12;TO;Tonga;0;0;0;0
-2021-06-13;TO;Tonga;0;0;0;0
-2021-06-14;TO;Tonga;0;0;0;0
-2021-06-15;TO;Tonga;0;0;0;0
-2021-06-16;TO;Tonga;0;0;0;0
-2021-06-17;TO;Tonga;0;0;0;0
-2021-06-18;TO;Tonga;0;0;0;0
-2021-06-19;TO;Tonga;0;0;0;0
-2021-06-20;TO;Tonga;0;0;0;0
 2021-06-21;TO;Tonga;0;0;0;0
 2020-03-14;TT;Trinidad and Tobago;2;0;2;0
 2020-03-15;TT;Trinidad and Tobago;0;0;2;0
@@ -90587,6 +90802,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TT;Trinidad and Tobago;294;9;32069;800
 2021-06-27;TT;Trinidad and Tobago;129;17;32198;817
 2021-06-28;TT;Trinidad and Tobago;145;5;32343;822
+2021-06-29;TT;Trinidad and Tobago;185;11;32528;833
 2020-03-04;TN;Tunisia;1;0;1;0
 2020-03-05;TN;Tunisia;0;0;1;0
 2020-03-06;TN;Tunisia;0;0;1;0
@@ -91069,6 +91285,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TN;Tunisia;4664;90;403493;14579
 2021-06-27;TN;Tunisia;3524;75;407017;14654
 2021-06-28;TN;Tunisia;1914;83;408931;14737
+2021-06-29;TN;Tunisia;5251;106;414182;14843
 2020-03-11;TR;Turkey;1;0;1;0
 2020-03-12;TR;Turkey;0;0;1;0
 2020-03-13;TR;Turkey;4;0;5;0
@@ -91544,6 +91761,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;TR;Turkey;5266;51;5404144;49524
 2021-06-27;TR;Turkey;4883;52;5409027;49576
 2021-06-28;TR;Turkey;5283;58;5414310;49634
+2021-06-29;TR;Turkey;5846;53;5420156;49687
 2021-04-04;TM;Turkmenistan;0;0;0;0
 2021-01-10;TC;Turks and Caicos Islands;0;0;0;0
 2021-01-11;TC;Turks and Caicos Islands;0;0;0;0
@@ -92220,6 +92438,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;UG;Uganda;943;38;77505;868
 2021-06-27;UG;Uganda;889;35;78394;903
 2021-06-28;UG;Uganda;695;53;79089;956
+2021-06-29;UG;Uganda;345;33;79434;989
 2020-03-03;UA;Ukraine;1;0;1;0
 2020-03-04;UA;Ukraine;0;0;1;0
 2020-03-05;UA;Ukraine;0;0;1;0
@@ -92703,6 +92922,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;UA;Ukraine;1109;44;2296982;54473
 2021-06-27;UA;Ukraine;819;25;2297801;54498
 2021-06-28;UA;Ukraine;677;19;2298478;54517
+2021-06-29;UA;Ukraine;581;14;2299059;54531
 2020-01-29;AE;United Arab Emirates;4;0;4;0
 2020-01-30;AE;United Arab Emirates;0;0;4;0
 2020-01-31;AE;United Arab Emirates;0;0;4;0
@@ -93220,6 +93440,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;AE;United Arab Emirates;2282;10;624814;1792
 2021-06-27;AE;United Arab Emirates;2122;4;626936;1796
 2021-06-28;AE;United Arab Emirates;2040;6;628976;1802
+2021-06-29;AE;United Arab Emirates;2184;5;631160;1807
 2020-01-31;GB;United Kingdom;2;0;2;0
 2020-02-01;GB;United Kingdom;0;0;2;0
 2020-02-02;GB;United Kingdom;0;0;2;0
@@ -93735,6 +93956,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;GB;United Kingdom;17946;23;4734011;128353
 2021-06-27;GB;United Kingdom;14633;11;4748644;128364
 2021-06-28;GB;United Kingdom;22723;3;4771367;128367
+2021-06-29;GB;United Kingdom;20261;23;4791628;128390
 2020-01-22;US;United States;0;0;1;0
 2020-01-23;US;United States;0;0;1;0
 2020-01-24;US;United States;1;0;2;0
@@ -94259,6 +94481,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;US;United States;7303;147;33621499;603891
 2021-06-27;US;United States;3920;74;33625419;603965
 2021-06-28;US;United States;15083;150;33640502;604115
+2021-06-29;US;United States;11596;359;33652098;604474
 2020-03-13;UY;Uruguay;4;0;4;0
 2020-03-14;UY;Uruguay;2;0;6;0
 2020-03-15;UY;Uruguay;2;0;8;0
@@ -94732,6 +94955,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;UY;Uruguay;1279;27;364859;5474
 2021-06-27;UY;Uruguay;1007;20;365866;5494
 2021-06-28;UY;Uruguay;1049;30;366915;5524
+2021-06-29;UY;Uruguay;1263;34;368178;5558
 2020-03-15;UZ;Uzbekistan;1;0;1;0
 2020-03-16;UZ;Uzbekistan;5;0;6;0
 2020-03-17;UZ;Uzbekistan;4;0;10;0
@@ -95203,6 +95427,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;UZ;Uzbekistan;546;2;108730;727
 2021-06-27;UZ;Uzbekistan;493;2;109223;729
 2021-06-28;UZ;Uzbekistan;469;2;109692;731
+2021-06-29;UZ;Uzbekistan;498;2;110190;733
 2020-11-10;VU;Vanuatu;1;0;1;0
 2020-11-11;VU;Vanuatu;0;0;1;0
 2020-11-12;VU;Vanuatu;0;0;1;0
@@ -95434,6 +95659,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;VU;Vanuatu;0;0;4;1
 2021-06-27;VU;Vanuatu;0;0;4;1
 2021-06-28;VU;Vanuatu;0;0;4;1
+2021-06-29;VU;Vanuatu;0;0;4;1
 2020-03-06;VA;Vatican;1;0;1;0
 2020-03-07;VA;Vatican;0;0;1;0
 2020-03-08;VA;Vatican;0;0;1;0
@@ -95914,6 +96140,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;VA;Vatican;0;0;27;0
 2021-06-27;VA;Vatican;0;0;27;0
 2021-06-28;VA;Vatican;0;0;27;0
+2021-06-29;VA;Vatican;0;0;27;0
 2020-03-14;VE;Venezuela;2;0;2;0
 2020-03-15;VE;Venezuela;8;0;10;0
 2020-03-16;VE;Venezuela;7;0;17;0
@@ -96386,6 +96613,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;VE;Venezuela;1397;17;268349;3055
 2021-06-27;VE;Venezuela;1286;13;269635;3068
 2021-06-28;VE;Venezuela;0;0;269635;3068
+2021-06-29;VE;Venezuela;1019;16;270654;3084
 2020-01-23;VN;Vietnam;2;0;2;0
 2020-01-24;VN;Vietnam;0;0;2;0
 2020-01-25;VN;Vietnam;0;0;2;0
@@ -96909,6 +97137,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;VN;Vietnam;788;0;15325;74
 2021-06-27;VN;Vietnam;415;2;15740;76
 2021-06-28;VN;Vietnam;396;2;16136;78
+2021-06-29;VN;Vietnam;371;2;16507;80
 2021-03-23;WF;Wallis and Futuna;0;0;0;0
 2021-03-24;WF;Wallis and Futuna;0;0;0;0
 2021-03-25;WF;Wallis and Futuna;0;0;0;0
@@ -97000,6 +97229,14 @@ date;id;country;newc;newd;totalc;totald
 2021-06-19;WF;Wallis and Futuna;0;0;0;0
 2021-06-20;WF;Wallis and Futuna;0;0;0;0
 2021-06-21;WF;Wallis and Futuna;0;0;0;0
+2021-06-22;WF;Wallis and Futuna;0;0;0;0
+2021-06-23;WF;Wallis and Futuna;0;0;0;0
+2021-06-24;WF;Wallis and Futuna;0;0;0;0
+2021-06-25;WF;Wallis and Futuna;0;0;0;0
+2021-06-26;WF;Wallis and Futuna;0;0;0;0
+2021-06-27;WF;Wallis and Futuna;0;0;0;0
+2021-06-28;WF;Wallis and Futuna;0;0;0;0
+2021-06-29;WF;Wallis and Futuna;0;0;0;0
 2020-01-22;;World;0;0;557;17
 2020-01-23;;World;98;1;655;18
 2020-01-24;;World;286;8;941;26
@@ -97524,6 +97761,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;;World;362819;7464;180783952;3917118
 2021-06-27;;World;309889;5947;181093841;3923065
 2021-06-28;;World;331944;6646;181425785;3929711
+2021-06-29;;World;384746;8157;181810531;3937868
 2020-04-10;YE;Yemen;1;0;1;0
 2020-04-11;YE;Yemen;0;0;1;0
 2020-04-12;YE;Yemen;0;0;1;0
@@ -97969,6 +98207,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;YE;Yemen;1;1;6906;1358
 2021-06-27;YE;Yemen;2;2;6908;1360
 2021-06-28;YE;Yemen;1;1;6909;1361
+2021-06-29;YE;Yemen;9;0;6918;1361
 2020-03-18;ZM;Zambia;2;0;2;0
 2020-03-19;ZM;Zambia;0;0;2;0
 2020-03-20;ZM;Zambia;0;0;2;0
@@ -98437,6 +98676,7 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ZM;Zambia;2816;52;146031;1967
 2021-06-27;ZM;Zambia;2537;55;148568;2022
 2021-06-28;ZM;Zambia;1093;69;149661;2091
+2021-06-29;ZM;Zambia;2395;47;152056;2138
 2020-03-20;ZW;Zimbabwe;1;0;1;0
 2020-03-21;ZW;Zimbabwe;2;0;3;0
 2020-03-22;ZW;Zimbabwe;0;0;3;0
@@ -98903,3 +99143,4 @@ date;id;country;newc;newd;totalc;totald
 2021-06-26;ZW;Zimbabwe;801;4;46018;1725
 2021-06-27;ZW;Zimbabwe;424;11;46442;1736
 2021-06-28;ZW;Zimbabwe;842;13;47284;1749
+2021-06-29;ZW;Zimbabwe;1249;12;48533;1761
